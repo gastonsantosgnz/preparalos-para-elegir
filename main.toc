@@ -1,0 +1,60 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Agradecimientos}{\es@scroman {iii}}{chapter*.1}%
+\contentsline {part}{I\hspace {1em}Lo que todo padre debe saber}{1}{part.1}%
+\contentsline {chapter}{\numberline {1}La persona define el destino, no la carrera}{3}{chapter.1}%
+\contentsline {section}{El lugar sí importa}{3}{section*.3}%
+\contentsline {section}{La ansiedad del sexto semestre}{8}{section*.4}%
+\contentsline {subsection}{La niña de los plumones}{10}{subsection*.5}%
+\contentsline {section}{La investigación que me abrió los ojos}{12}{section*.6}%
+\contentsline {section}{Las preparatorias olvidaron su propósito}{15}{section*.7}%
+\contentsline {section}{Los primeros responsables}{18}{section*.8}%
+\contentsline {subsection}{El patrón de las familias estables}{20}{subsection*.9}%
+\contentsline {section}{Dos tipos de familias y la carrera}{23}{section*.10}%
+\contentsline {section}{El mito de las carreras bien pagadas}{26}{section*.11}%
+\contentsline {section}{La vocación no es magia, es proceso}{27}{section*.12}%
+\contentsline {section}{Reto del capítulo}{29}{section*.13}%
+\contentsline {chapter}{\numberline {2}El carácter que garantiza el éxito}{31}{chapter.2}%
+\contentsline {section}{Más allá de la carrera correcta}{31}{section*.14}%
+\contentsline {section}{Los tres principios del éxito}{32}{section*.15}%
+\contentsline {section}{La trampa del prestigio}{37}{section*.16}%
+\contentsline {section}{Tu trabajo como padre}{40}{section*.17}%
+\contentsline {section}{Reto del capítulo}{42}{section*.18}%
+\contentsline {chapter}{\numberline {3}El talento que nadie nombró}{45}{chapter.3}%
+\contentsline {section}{Lo que creí defecto era fortaleza}{45}{section*.19}%
+\contentsline {section}{De talento a fortaleza}{49}{section*.20}%
+\contentsline {section}{Los 34 talentos que tu hijo puede tener}{54}{section*.21}%
+\contentsline {section}{La cultura que nutre o que apaga}{58}{section*.22}%
+\contentsline {section}{El laboratorio de casa}{61}{section*.23}%
+\contentsline {section}{Reto del capítulo}{65}{section*.24}%
+\contentsline {part}{II\hspace {1em}De la teoría a la acción}{69}{part.2}%
+\contentsline {chapter}{\numberline {4}El mundo real de las profesiones}{71}{chapter.4}%
+\contentsline {section}{Conocerse es solo el inicio}{72}{section*.25}%
+\contentsline {section}{El secreto para que les vaya bien}{74}{section*.26}%
+\contentsline {section}{Valor no es buena intención}{76}{section*.27}%
+\contentsline {section}{Por qué existen las carreras}{77}{section*.28}%
+\contentsline {section}{El concepto central de la orientación vocacional}{78}{section*.29}%
+\contentsline {section}{El contexto importa más de lo que crees}{80}{section*.30}%
+\contentsline {subsection}{Tres niveles de contexto}{81}{subsection*.31}%
+\contentsline {section}{La ecuación del valor}{83}{section*.32}%
+\contentsline {section}{Servir para servir}{84}{section*.33}%
+\contentsline {subsection}{Lo que un padre puede enseñar desde ahora}{85}{subsection*.34}%
+\contentsline {section}{Donde todo se conecta}{88}{section*.35}%
+\contentsline {section}{Reto del capítulo}{90}{section*.36}%
+\contentsline {chapter}{\numberline {5}El proceso de elegir}{93}{chapter.5}%
+\contentsline {section}{Conectando fortalezas con opciones}{93}{section*.37}%
+\contentsline {section}{Los tests vocacionales}{93}{section*.38}%
+\contentsline {section}{Tomando la decisión}{93}{section*.39}%
+\contentsline {section}{Reto del capítulo}{93}{section*.40}%
+\contentsline {part}{III\hspace {1em}El acompañamiento}{95}{part.3}%
+\contentsline {chapter}{\numberline {6}Cuando ya eligió}{97}{chapter.6}%
+\contentsline {section}{Tu rol cambia pero no desaparece}{97}{section*.41}%
+\contentsline {section}{Los primeros 90 días}{97}{section*.42}%
+\contentsline {section}{Cuando las cosas no salen como esperabas}{97}{section*.43}%
+\contentsline {section}{Reto del capítulo}{97}{section*.44}%
+\contentsline {chapter}{\numberline {7}El mentor permanente}{99}{chapter.7}%
+\contentsline {section}{Los principios que no cambian}{99}{section*.45}%
+\contentsline {section}{Tu legado como padre}{99}{section*.46}%
+\contentsline {section}{Reto del capítulo}{99}{section*.47}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{101}{chapter*.48}%
+\contentsfinish 

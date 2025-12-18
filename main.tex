@@ -1,0 +1,97 @@
+%%% Here is the class with everything we need, if you don't want, you don't have to take a look at it, as it will probably cover your needs by far. These three options are used after the class article, which this template is based in.
+
+% \documentclass[a4paper,12pt,oneside]{mybook} %% ONESIDE
+\documentclass[a4paper,12pt,twoside]{mybook} %% TWOSIDE
+
+% Here is the font I usually use, it can be changed of course.
+% In that case, these next two lines have to be deleted.
+\usepackage{ebgaramond}
+% Equations have the same font.
+\usepackage[cmintegrals,cmbraces,ebgaramond]{newtxmath}
+
+\doctitle{Prepáralos para elegir carrera}
+\docsubtitle{Guía para padres que quieren formar hijos felices y exitosos}
+\dockeywords{orientación vocacional, elección de carrera, adolescentes, padres de familia, educación superior, México, Latinoamérica}
+
+\copyrightpage%
+{}% Your Faculty
+{}% Your University
+{}% Your Publisher
+{}% AMS
+{}% Your City
+% If you do not want to fill one of the fields, please leave it like this: {}
+
+\author{Gastón G. Santos}
+
+% A text that goes into the footer. You can even include a logo. It can be left blank, too.
+%% Option 1: \footext{\includegraphics[width=2em]{titlepage.png}}
+%% Option 2: \footext{Some text}
+% What I usually use: 
+\footext{}
+
+% Don't comment the command below if it's not of much inconvenience, please!
+% \greetings  % Disabled - no template credit needed
+
+% Last things
+\input{preamble}
+
+% Fix for undefined control sequences from newer LaTeX3 packages
+% These are needed by extramarks/transparent but not always defined
+\providecommand{\IfPackageLoadedT}[2]{}
+\providecommand{\IfPackageAtLeastF}[3]{}
+\providecommand{\IfPackageLoadedTF}[3]{}
+\providecommand{\IfPDFManagementActiveF}[1]{#1}
+
+% Suppress package warnings (multicol compatibility warnings)
+\usepackage{silence}
+\WarningFilter{extramarks}{You are using package}
+\WarningFilter{latex}{You have requested package}
+
+\begin{document}
+% Interlineate, it can be changed.
+\setlength{\baselineskip}{.70cm}
+\frontmatter
+
+\maketitle
+\clearpage
+
+% Copyright page
+\pagestyle{\auxsettings}
+\input{copyright-page}
+
+% Agradecimientos
+\input{agradecimientos}
+
+\tableofcontents
+\etocsettocstyle{}{} % from now on only local tocs
+\clearpage
+
+\pagestyle{\defaultsettings}
+\mainmatter
+
+% PARTE I — LO QUE TODO PADRE DEBE SABER
+\part{Lo que todo padre debe saber}{Fundamentos, principios y cambio de mentalidad}
+
+\input{capitulo1/capitulo1}
+\input{capitulo2/capitulo2}
+\input{capitulo3/capitulo3}
+
+% PARTE II — DE LA TEORÍA A LA ACCIÓN
+\part{De la teoría a la acción}{Herramientas prácticas para explorar y decidir}
+
+\input{capitulo4/capitulo4}
+\input{capitulo5/capitulo5}
+
+% PARTE III — EL ACOMPAÑAMIENTO
+\part{El acompañamiento}{Qué hacer después de la decisión}
+
+\input{capitulo6/capitulo6}
+\input{capitulo7/capitulo7}
+
+% Bibliography
+\clearpage
+\backmatter
+\pagestyle{\auxsettings}
+\printbibliography[heading=bibintoc]
+
+\end{document}

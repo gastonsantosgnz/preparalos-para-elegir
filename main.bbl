@@ -1,0 +1,164 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{cloud2006}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c979907c3a0aa9e834b6aaec0dd83090}{%
+           family={Cloud},
+           familyi={C\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {Español}%
+      }
+      \list{location}{1}{%
+        {Nueva York}%
+      }
+      \list{publisher}{1}{%
+        {HarperBusiness}%
+      }
+      \strng{namehash}{c979907c3a0aa9e834b6aaec0dd83090}
+      \strng{fullhash}{c979907c3a0aa9e834b6aaec0dd83090}
+      \strng{bibnamehash}{c979907c3a0aa9e834b6aaec0dd83090}
+      \strng{authorbibnamehash}{c979907c3a0aa9e834b6aaec0dd83090}
+      \strng{authornamehash}{c979907c3a0aa9e834b6aaec0dd83090}
+      \strng{authorfullhash}{c979907c3a0aa9e834b6aaec0dd83090}
+      \field{labelalpha}{Clo06}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Obra sobre los principios del carácter que predicen el éxito profesional. Utilizada en el capítulo 2 para desarrollar los tres principios fundamentales: competencia, relaciones y resolución de problemas.}
+      \field{title}{Integridad: El coraje para enfrentar las demandas de la realidad}
+      \field{year}{2006}
+      \true{nocite}
+      \keyw{Carácter,Liderazgo,Éxito profesional,Integridad}
+    \endentry
+    \entry{rath2007}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d02ffc93995f843c237c9f16c365a29d}{%
+           family={Rath},
+           familyi={R\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {Inglés}%
+      }
+      \list{location}{1}{%
+        {Nueva York}%
+      }
+      \list{publisher}{1}{%
+        {Gallup Press}%
+      }
+      \strng{namehash}{d02ffc93995f843c237c9f16c365a29d}
+      \strng{fullhash}{d02ffc93995f843c237c9f16c365a29d}
+      \strng{bibnamehash}{d02ffc93995f843c237c9f16c365a29d}
+      \strng{authorbibnamehash}{d02ffc93995f843c237c9f16c365a29d}
+      \strng{authornamehash}{d02ffc93995f843c237c9f16c365a29d}
+      \strng{authorfullhash}{d02ffc93995f843c237c9f16c365a29d}
+      \field{extraname}{1}
+      \field{labelalpha}{Rat07}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Guía práctica para identificar y desarrollar fortalezas personales basada en la evaluación CliftonStrengths de Gallup. Utilizada en el capítulo 3 para el marco de los 34 talentos y la fórmula Talento × Inversión = Fortaleza.}
+      \field{title}{StrengthsFinder 2.0}
+      \field{year}{2007}
+      \true{nocite}
+      \keyw{Fortalezas,Talentos,CliftonStrengths,Gallup,Desarrollo personal}
+    \endentry
+    \entry{cortada2008}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b852b2eeed9b869bbc3b15bc1cf006e1}{%
+           family={Cortada\bibnamedelimb de\bibnamedelima Kohan},
+           familyi={C\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={Nuria},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {Español}%
+      }
+      \list{location}{1}{%
+        {México}%
+      }
+      \list{publisher}{1}{%
+        {Editorial Trillas}%
+      }
+      \strng{namehash}{b852b2eeed9b869bbc3b15bc1cf006e1}
+      \strng{fullhash}{b852b2eeed9b869bbc3b15bc1cf006e1}
+      \strng{bibnamehash}{b852b2eeed9b869bbc3b15bc1cf006e1}
+      \strng{authorbibnamehash}{b852b2eeed9b869bbc3b15bc1cf006e1}
+      \strng{authornamehash}{b852b2eeed9b869bbc3b15bc1cf006e1}
+      \strng{authorfullhash}{b852b2eeed9b869bbc3b15bc1cf006e1}
+      \field{labelalpha}{Cor08}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2.ª}
+      \field{note}{Referencia fundamental sobre el rol del docente en la orientación vocacional de adolescentes. Utilizada en los capítulos 1 y 2 para fundamentar conceptos sobre la elección de carrera y los estereotipos profesionales.}
+      \field{title}{El profesor y la orientación vocacional}
+      \field{year}{2008}
+      \true{nocite}
+      \keyw{Orientación vocacional,Educación,Adolescentes}
+    \endentry
+    \entry{rath2022}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d02ffc93995f843c237c9f16c365a29d}{%
+           family={Rath},
+           familyi={R\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {Español}%
+      }
+      \list{location}{1}{%
+        {Barcelona}%
+      }
+      \list{publisher}{1}{%
+        {Reverté Management}%
+      }
+      \strng{namehash}{d02ffc93995f843c237c9f16c365a29d}
+      \strng{fullhash}{d02ffc93995f843c237c9f16c365a29d}
+      \strng{bibnamehash}{d02ffc93995f843c237c9f16c365a29d}
+      \strng{authorbibnamehash}{d02ffc93995f843c237c9f16c365a29d}
+      \strng{authornamehash}{d02ffc93995f843c237c9f16c365a29d}
+      \strng{authorfullhash}{d02ffc93995f843c237c9f16c365a29d}
+      \field{extraname}{2}
+      \field{labelalpha}{Rat22}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Edición en español de StrengthsFinder 2.0. Incluye acceso a la evaluación CliftonStrengths para identificar las cinco fortalezas principales del lector.}
+      \field{title}{Descubre tus fortalezas 2.0}
+      \field{year}{2022}
+      \true{nocite}
+      \keyw{Fortalezas,Talentos,CliftonStrengths,Gallup,Desarrollo personal}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,56 @@
+% This is my favourite config for bibliography. Each one of the references can be briefly explained with the field "note".
+\RequirePackage[style=english]{csquotes}
+\RequirePackage[
+backend=biber,
+style=alphabetic,
+sorting=ynt
+]{biblatex}
+\newcommand{\familynameformat}[1]{\MakeUppercase{#1}}
+\AtBeginBibliography{%
+  \renewcommand{\mkbibnamefamily}{\familynameformat}%
+}
+\renewbibmacro*{begentry}{%
+  \iffieldundef{note}
+    {\undef\bbxnote}
+    {\savefield{note}{\bbxnote}%
+     \clearfield{note}}}
+\renewbibmacro*{finentry}{%
+  \restorefield{note}{\bbxnote}%
+  \iffieldundef{note}
+    {\finentry}
+    {\setunit{\finentrypunct\par\vspace{\bibitemsep}\nobreak}
+     \textit{\printfield{note}}%
+     \finentry}}
+\let\familynameformat=\textsc
+
+% Include all bibliography entries
+\nocite{cortada2008,cloud2006,rath2007,rath2022}
+
+\addbibresource{bibl.bib}
+
+
+% Hyperref always required second to last.
+\RequirePackage{hyperref}
+\makeatletter
+\hypersetup{%
+  hidelinks,
+  pdfstartview=Fit,%
+  pdfmenubar=true,%
+  pdftoolbar=true,%
+  bookmarksopen=false,%
+  pdftitle={\@docsubtitle},%
+  pdfauthor={\templateauthor},%
+  pdfsubject={\@doctitle},%
+  pdflang={\languagename},%
+  pdfkeywords={\@dockeywords},%
+  pdfproducer={pdfTeX}}
+\makeatother
+
+% Cleveref as the last one.
+\RequirePackage{cleveref}
+
+% Setting up the titlepage.
+\makeatletter%
+\title{{\Large\color{airforceblue}{\textit{\@doctitle}}}\\[1cm]{\fontsize{32}{38}\selectfont\color{gray!70!black}\textbf{\@docsubtitle}}}%
+\makeatother%
+\date{\today}
