@@ -1,7 +1,7 @@
 # Estructura del Libro
 ## Guía para padres: Ayudando a hijos adolescentes a elegir su carrera universitaria
 
-**Autor:** Gastón G. Santos
+**Autor:** Gastón Santos G.
 
 ---
 

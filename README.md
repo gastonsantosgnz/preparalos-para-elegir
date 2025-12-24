@@ -1,6 +1,6 @@
 # Guía para padres: Ayudando a hijos adolescentes a elegir su carrera universitaria
 
-**Autor:** Gastón G. Santos
+**Autor:** Gastón Santos G.
 
 ## Descripción del Proyecto
 
@@ -94,7 +94,7 @@ Este es tu libro completo listo para revisar, editar o imprimir.
 - Los capítulos actualmente están vacíos (solo tienen el título genérico)
 - La plantilla está lista para recibir contenido
 - Se eliminó la referencia a imágenes que ya no existen
-- El autor está configurado como Gastón G. Santos
+- El autor está configurado como Gastón Santos G.
 
 ## Contacto y Licencia
 

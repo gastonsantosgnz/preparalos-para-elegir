@@ -1,5 +1,5 @@
 # Guía de Estilo del Libro
-**Autor:** Gastón G. Santos
+**Autor:** Gastón Santos G.
 
 ---
 

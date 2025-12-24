@@ -1,7 +1,7 @@
 # Resumen de Reestructuración de Capítulos 1, 2 y 3
 
 **Fecha:** 9 de noviembre, 2025  
-**Autor:** Gastón G. Santos
+**Autor:** Gastón Santos G.
 
 ---
 

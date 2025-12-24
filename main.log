@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.6.30)  16 DEC 2025 04:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.6.30)  18 DEC 2025 13:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1833,8 +1833,8 @@ LaTeX Info: Redefining \% on input line 370.
 LaTeX Info: Redefining \. on input line 422.
 LaTeX Info: Redefining \% on input line 422.
  [88] [89]
-LaTeX Info: Redefining \. on input line 473.
-LaTeX Info: Redefining \% on input line 473.
+LaTeX Info: Redefining \. on input line 472.
+LaTeX Info: Redefining \% on input line 472.
  [90] [91]
 LaTeX Info: Redefining \. on input line 512.
 LaTeX Info: Redefining \% on input line 512.
@@ -1914,7 +1914,7 @@ Here is how much of TeX's memory you used:
 EBGaramond-Bold.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/ebgaramond/EBGaramond-Italic.pfb><C:/Users/LENOVO/AppData/Local/Programs
 /MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb>
-Output written on main.pdf (109 pages, 351957 bytes).
+Output written on main.pdf (109 pages, 352019 bytes).
 PDF statistics:
  858 PDF objects out of 1000 (max. 8388607)
  194 named destinations out of 1000 (max. 500000)
