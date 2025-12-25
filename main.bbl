@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,8 @@
 
 
 \refsection{0}
-  \datalist[entry]{ynt/global//global/global}
-    \entry{cloud2006}{book}{}
+  \datalist[entry]{ynt/global//global/global/global}
+    \entry{cloud2006}{book}{}{}
       \name{author}{1}{}{%
         {{hash=c979907c3a0aa9e834b6aaec0dd83090}{%
            family={Cloud},
@@ -38,10 +38,12 @@
       }
       \strng{namehash}{c979907c3a0aa9e834b6aaec0dd83090}
       \strng{fullhash}{c979907c3a0aa9e834b6aaec0dd83090}
+      \strng{fullhashraw}{c979907c3a0aa9e834b6aaec0dd83090}
       \strng{bibnamehash}{c979907c3a0aa9e834b6aaec0dd83090}
       \strng{authorbibnamehash}{c979907c3a0aa9e834b6aaec0dd83090}
       \strng{authornamehash}{c979907c3a0aa9e834b6aaec0dd83090}
       \strng{authorfullhash}{c979907c3a0aa9e834b6aaec0dd83090}
+      \strng{authorfullhashraw}{c979907c3a0aa9e834b6aaec0dd83090}
       \field{labelalpha}{Clo06}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -53,7 +55,7 @@
       \true{nocite}
       \keyw{Carácter,Liderazgo,Éxito profesional,Integridad}
     \endentry
-    \entry{rath2007}{book}{}
+    \entry{rath2007}{book}{}{}
       \name{author}{1}{}{%
         {{hash=d02ffc93995f843c237c9f16c365a29d}{%
            family={Rath},
@@ -72,10 +74,12 @@
       }
       \strng{namehash}{d02ffc93995f843c237c9f16c365a29d}
       \strng{fullhash}{d02ffc93995f843c237c9f16c365a29d}
+      \strng{fullhashraw}{d02ffc93995f843c237c9f16c365a29d}
       \strng{bibnamehash}{d02ffc93995f843c237c9f16c365a29d}
       \strng{authorbibnamehash}{d02ffc93995f843c237c9f16c365a29d}
       \strng{authornamehash}{d02ffc93995f843c237c9f16c365a29d}
       \strng{authorfullhash}{d02ffc93995f843c237c9f16c365a29d}
+      \strng{authorfullhashraw}{d02ffc93995f843c237c9f16c365a29d}
       \field{extraname}{1}
       \field{labelalpha}{Rat07}
       \field{sortinit}{2}
@@ -88,7 +92,7 @@
       \true{nocite}
       \keyw{Fortalezas,Talentos,CliftonStrengths,Gallup,Desarrollo personal}
     \endentry
-    \entry{cortada2008}{book}{}
+    \entry{cortada2008}{book}{}{}
       \name{author}{1}{}{%
         {{hash=b852b2eeed9b869bbc3b15bc1cf006e1}{%
            family={Cortada\bibnamedelimb de\bibnamedelima Kohan},
@@ -107,10 +111,12 @@
       }
       \strng{namehash}{b852b2eeed9b869bbc3b15bc1cf006e1}
       \strng{fullhash}{b852b2eeed9b869bbc3b15bc1cf006e1}
+      \strng{fullhashraw}{b852b2eeed9b869bbc3b15bc1cf006e1}
       \strng{bibnamehash}{b852b2eeed9b869bbc3b15bc1cf006e1}
       \strng{authorbibnamehash}{b852b2eeed9b869bbc3b15bc1cf006e1}
       \strng{authornamehash}{b852b2eeed9b869bbc3b15bc1cf006e1}
       \strng{authorfullhash}{b852b2eeed9b869bbc3b15bc1cf006e1}
+      \strng{authorfullhashraw}{b852b2eeed9b869bbc3b15bc1cf006e1}
       \field{labelalpha}{Cor08}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -123,7 +129,7 @@
       \true{nocite}
       \keyw{Orientación vocacional,Educación,Adolescentes}
     \endentry
-    \entry{rath2022}{book}{}
+    \entry{rath2022}{book}{}{}
       \name{author}{1}{}{%
         {{hash=d02ffc93995f843c237c9f16c365a29d}{%
            family={Rath},
@@ -142,10 +148,12 @@
       }
       \strng{namehash}{d02ffc93995f843c237c9f16c365a29d}
       \strng{fullhash}{d02ffc93995f843c237c9f16c365a29d}
+      \strng{fullhashraw}{d02ffc93995f843c237c9f16c365a29d}
       \strng{bibnamehash}{d02ffc93995f843c237c9f16c365a29d}
       \strng{authorbibnamehash}{d02ffc93995f843c237c9f16c365a29d}
       \strng{authornamehash}{d02ffc93995f843c237c9f16c365a29d}
       \strng{authorfullhash}{d02ffc93995f843c237c9f16c365a29d}
+      \strng{authorfullhashraw}{d02ffc93995f843c237c9f16c365a29d}
       \field{extraname}{2}
       \field{labelalpha}{Rat22}
       \field{sortinit}{2}

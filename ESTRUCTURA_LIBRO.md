@@ -65,7 +65,6 @@
   - Qué son y para qué sirven
   - Modelo Holland/RIASEC (recomendado)
   - Lo que los tests NO te dicen
-- No existe la carrera perfecta (evitar parálisis por análisis)
 - Criterios prácticos para la decisión final
 - El reto de elegir juntos (padre + hijo)
 - **Reto:** Por definir
