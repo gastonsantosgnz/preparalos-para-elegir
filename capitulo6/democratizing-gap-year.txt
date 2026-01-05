@@ -1,0 +1,2238 @@
+DEMOCRATIZING THE GAP YEAR OPTION
+Copyright by
+HEATHER M. HAMMITT
+2024
+All Rights Reserved
+DEMOCRATIZING THE GAP YEAR OPTION AT THE COMMUNITY COLLEGE LEVEL:
+HOW A STRUCTURED APPROACH TO THE GAP YEAR IMPACTS STUDENT
+PERCEPTIONS
+A Scholarly Research Project
+Submitted in Partial Fulfillment of the Requirements for the Degree
+Doctor of Education
+Approved:
+Dr. Jana Hunzicker, Program Director
+Dr. Anna Viviani, Department Chair
+Dr. Kathy Shapley, Dean
+Heather M. Hammitt
+Bradley University
+December 2024
+DEMOCRATIZING THE GAP YEAR OPTION
+ABSTRACT
+Many community colleges do not have a formal process in place to offer or support a structured
+gap year option for students who recently graduated from high school, thereby denying those
+students an educational option that has been recognized as beneficial to many learners. The
+purpose of this qualitative study was to explore factors that influence students’ perceptions and
+attitudes about the gap year choice so that community college administrators can better
+understand how to structure and present the gap year as a viable educational option. Utilizing
+case studies, the researcher conducted two semi-structured interviews via Zoom with each of the
+study’s four participants during the Fall of 2023. Each participant was a current college
+undergraduate student who had participated in a gap year sponsored by the college between
+graduating high school and beginning their freshman year of college. The families of the
+participants were actively involved in the decision to take a gap year, suggesting that gap year
+education should extend beyond students to their parents. Self-development was the primary
+objective for each of these students in opting for a gap year, suggesting the need for school
+administrators to understand the underlying driving motivators of students taking a gap year
+when structuring or supporting a gap year program. All participants and their families had prior
+positive experiences with the sponsoring school, suggesting that school affiliation plays a role in
+the perceived credibility of a gap year. School outreach was somewhat limited during the gap
+year, suggesting possible opportunities for improvement. More studies are needed to expand the
+body of research on this topic and to factor in how various socioeconomic and demographic
+conditions may impact gap year program offerings at the community college level.
+Keyword: gap year, community college, high school to college transition
+DEMOCRATIZING THE GAP YEAR OPTION ii
+DEDICATION
+To my mom, who can no longer hold my hand but will forever hold my heart.
+DEMOCRATIZING THE GAP YEAR OPTION iii
+ACKNOWLEDGMENTS
+Thank you to my dad and entire extended family (whether we are connected by chance or
+by choice) who have lifted me up throughout this journey; my cohort who started out as strangers
+and ended up as lifelong friends; Dr. Scott Estes who gave me support, guidance and direction,
+and a calming perspective when I needed it; Dr. Tracy Morris and the entire team at Illinois
+Valley Community College for welcoming me with open arms; my four-legged study buddy,
+Louie, who deserves an honorary doctorate; and all those whose mentoring, love, and friendship
+gave me the confidence to pursue this dream and the strength to persist.
+DEMOCRATIZING THE GAP YEAR OPTION iv
+TABLE OF CONTENTS
+CHAPTER 1: INTRODUCTION.................................................................................... 1
+Chapter 1 Introduction............................................................................................... 1
+Statement of the Research Problem ........................................................................... 4
+Research Problem................................................................................................ 4
+What Is a Gap Year? ................................................................................................. 5
+Why Should Community Colleges Embrace the Gap Year?....................................... 5
+Student Satisfaction and Academic Performance ................................................. 6
+Trends in Colleges and Universities..................................................................... 6
+The Need for Structure Around Student Breaks ................................................... 7
+Challenges/Obstacles........................................................................................... 8
+Success Stories/Solutions..................................................................................... 9
+Research Purpose and Questions ............................................................................. 10
+Research Purpose .............................................................................................. 10
+Research Questions ........................................................................................... 10
+Methodology........................................................................................................... 11
+Definitions and Assumptions................................................................................... 11
+Significance of the Study......................................................................................... 12
+Chapter 1 Summary................................................................................................. 13
+CHAPTER 2: LITERATURE REVIEW ....................................................................... 14
+Chapter 2 Introduction............................................................................................. 14
+Constructivist Worldview and Constructivism Learning Theoretical Framework16
+Constructivist Worldview ............................................................................ 16
+DEMOCRATIZING THE GAP YEAR OPTION v
+Constructivist Theory................................................................................... 17
+Factors in Choosing a Community College ........................................................ 17
+Financial Considerations.............................................................................. 18
+Major and Career Uncertainty/Lack of Planning .......................................... 19
+Prior Academic Performance ....................................................................... 20
+Proximity to Community and Family ........................................................... 21
+Parental Influences....................................................................................... 22
+Quality of Institution.................................................................................... 23
+Summary of Factors in Choosing a Community College .............................. 24
+High School to College Transition..................................................................... 25
+Academic Preparedness ............................................................................... 25
+Fear of the Unknown ................................................................................... 26
+Psychosocial Factors.................................................................................... 27
+Dual Enrollment Programs........................................................................... 27
+Summary of High School to College Transition ........................................... 28
+Gap Year Benefits and Considerations............................................................... 29
+Major and Career Clarity ............................................................................. 29
+Social-Emotional Maturity........................................................................... 30
+Life Experience and Relationships............................................................... 31
+Work Experience Impact.............................................................................. 32
+Greater Motivation from a Burnout Break.................................................... 32
+Gap Year Drawbacks and Considerations..................................................... 33
+Summary of Gap Year Benefits and Considerations..................................... 35
+DEMOCRATIZING THE GAP YEAR OPTION vi
+Legitimizing the Gap Year Option..................................................................... 35
+Counselor Significance ................................................................................ 36
+Parental Education....................................................................................... 38
+Summary of Legitimizing the Gap Year....................................................... 39
+Summary of the Literature Review .................................................................... 40
+Chapter 2 Summary................................................................................................. 41
+CHAPTER 3: RESEARCH METHODOLOGY AND METHODS ............................... 43
+Chapter 3 Introduction............................................................................................. 43
+Research Purpose .............................................................................................. 43
+Research Questions ........................................................................................... 43
+Research Methodology............................................................................................ 44
+Qualitative Methodology ................................................................................... 45
+Action Research ................................................................................................ 46
+Case Study Research Approach ......................................................................... 47
+Research Context .................................................................................................... 48
+Research Setting ................................................................................................ 48
+Participant Recruitment and Selection ..................................................................... 49
+Participants........................................................................................................ 49
+Recruitment and Selection ................................................................................. 49
+Researcher Positionality .................................................................................... 50
+Research Methods................................................................................................... 51
+Data Collection.................................................................................................. 51
+Data Analysis .................................................................................................... 54
+DEMOCRATIZING THE GAP YEAR OPTION vii
+Chapter 3 Summary................................................................................................. 56
+CHAPTER 4: FINDINGS AND DISCUSSION ............................................................ 58
+Chapter 4 Introduction............................................................................................. 58
+Findings.................................................................................................................. 58
+Anthony ............................................................................................................ 58
+Finding 1: Family’s Key Role ...................................................................... 60
+Finding 2: Self-Development Over Academics and Career........................... 61
+Finding 3: Gap Year Impact......................................................................... 61
+Finding 4: Faith ........................................................................................... 62
+Finding 5: Limited Outreach by College ...................................................... 63
+Cecilia ............................................................................................................... 63
+Finding 1: Family’s Key Role ...................................................................... 66
+Finding 2: Faith ........................................................................................... 66
+Finding 3: Self-Development Over Academics and Career........................... 66
+Finding 4: Early Communications................................................................ 67
+Scottie ............................................................................................................... 67
+Finding 1: Family’s Key Role ...................................................................... 70
+Finding 2: Faith ........................................................................................... 70
+Finding 3: Gap Year Impact......................................................................... 70
+Finding 4: School Affiliation ....................................................................... 72
+Jim .................................................................................................................... 72
+Finding 1: Family’s Key Role ...................................................................... 74
+Finding 2: Self-Development Over Academics and Career........................... 75
+DEMOCRATIZING THE GAP YEAR OPTION viii
+Finding 3: Faith ........................................................................................... 75
+Discussion............................................................................................................... 75
+Common Theme 1: Family’s Key Role.............................................................. 75
+Synthesis of Findings................................................................................... 75
+Connections to the Literature ....................................................................... 76
+Common Theme 2: Self-Development Over Academics and Career .................. 77
+Synthesis of Findings................................................................................... 77
+Connections to the Literature ....................................................................... 78
+Common Theme 3: School Affiliation ............................................................... 79
+Synthesis of Findings................................................................................... 79
+Connections to the Literature ....................................................................... 79
+Common Theme 4: Outreach............................................................................. 80
+Synthesis of Findings................................................................................... 80
+Connections to the Literature ....................................................................... 80
+Research Questions ........................................................................................... 81
+Synthesis of Common Themes..................................................................... 81
+Chapter 4 Summary................................................................................................. 82
+CHAPTER 5: CONCLUSION ...................................................................................... 84
+Chapter 5 Introduction............................................................................................. 84
+Research Purpose .............................................................................................. 84
+Research Questions and Answers....................................................................... 84
+Implications for Practice.......................................................................................... 87
+Limitations.............................................................................................................. 89
+DEMOCRATIZING THE GAP YEAR OPTION ix
+Suggestions for Future Research.............................................................................. 90
+Chapter 5 Summary/Conclusion .............................................................................. 91
+REFERENCES ............................................................................................................. 93
+APPENDIX A: Invitation to Participate ...................................................................... 104
+APPENDIX B: Data Collection Tool Interview Questions .......................................... 105
+APPENDIX C: Information and Consent Form ........................................................... 107
+DEMOCRATIZING THE GAP YEAR OPTION 1
+CHAPTER 1
+INTRODUCTION
+Chapter 1 Introduction
+There was a time not so long ago when a young adult taking a year off of school to
+backpack across Europe or write a screenplay was seen as wildly naïve and irresponsible, not to
+mention an unproductive detour on the road to a successful education and career. Surely, a good
+number of heated family arguments over the years have started with a son or daughter declaring
+the need to take a year off to experience life and find themselves.
+In reality, this phenomenon has been occurring in some fashion for centuries. Initially
+dubbed as the “grand tour,” the earliest version of what has evolved into the modern day “gap
+year” originated in seventeenth century Europe. Reserved primarily for the aristocratic elite,
+British families sent their children off to travel the continent to gain greater cultural exposure,
+refine their education, and experience life beyond their sheltered world (Gap 360, n.d.; Gap
+Year Solutions, n.d.). Over time, a number of factors contributed to the diminishment of this
+practice, including war as well as expanded travel opportunities that resulted from the building
+of railroads. The modern version of the gap year emerged in the 1960’s, when elite
+universities, including Cambridge and Oxford, required entrance exams that effectively
+created a 9-month delay for students wishing to enter their institutions. A program of
+structured activities for these students was aptly named GAP (Gap Activities Program), and a
+new movement and catchphrase emerged (Gap Year Solutions, n.d.).
+For many, though, the gap year was first introduced into the American lexicon in 2016
+when the White House announced that First Daughter Malia Obama would be taking a gap
+year prior to enrolling at Harvard University (The White House Office of the First Lady,
+DEMOCRATIZING THE GAP YEAR OPTION 2
+2016). Conversations about the legitimacy of a gap year resurfaced in 2020 as the COVID-19
+pandemic threw a wrench into most in-person learning, prompting many students to reassess
+their academic plans and explore an intentional break in their education. In the years that have
+followed, the gap year choice continues to prompt debate online, in educational settings, and
+around kitchen tables.
+Since many parents and professionals came of age prior to its rise in popularity in the
+United States, the merits of the gap year may often remain elusive and incorrectly shaped by
+hearsay, conjecture, and a portrait painted by pop culture. In reality, many studies have
+examined the experiences and benefits of students taking a gap year, and numerous colleges
+and universities are now embracing the gap year as a viable juncture in the journey to a
+successful higher education and career experience.
+Often framed as an option for students from affluent families to travel and gain life
+experience before going on to an elite university, it is not surprising that information and/or
+research about the gap year phenomenon relative to community college students is scarce.
+While a quick internet search of college gap year programs will yield results from a plethora
+of institutions and programs, the same cannot be said of a search focused on community
+colleges. Despite many top universities openly embracing and promoting the gap year,
+community colleges seem to shy away from this option.
+As higher education institutions continue to compete for a shrinking applicant pool,
+community colleges are no exception. According to data published by the U.S. Census Bureau
+(2021), in 2020, college enrollment in the United States fell to its lowest level since 2007,
+with two-year colleges seeing their lowest enrollment levels in two decades. Additionally,
+many teens are graduating from high school with little or no work experience, further limiting
+DEMOCRATIZING THE GAP YEAR OPTION 3
+their prior exposure to various career options when entering college. According to the Bureau
+of Labor Statistics (Morisi, 2017), the labor force participation rate of teens ages 16-19 has
+been on a decades-long downward trajectory since its peak of 57.9% in 1979, with particularly
+dramatic drops seen in teens holding summer jobs. These trends among the younger
+workforce were further accelerated during the COVID-19 pandemic, with some improvement
+occurring as the pandemic waned. In July of 2022, during the height of summer employment,
+55.3% of those age 16-24 were employed, up from 54.4% in July 2021, but still below the prepandemic level of 56.2% in July 2019 (Bureau of Labor Statistics, 2022). One might argue
+that the lack of real-world work exposure experienced by potential incoming college freshmen
+lends itself to the need for exploring the possibility of a gap year to gain a greater perspective
+on personal skill sets and career interests.
+At present, many community colleges seem to have failed to embrace the gap year as a
+legitimate educational option for graduating high school students, offering little to no structure
+or formality around this choice. The purpose of this study is to examine how a formal
+approach to the gap year at a four-year institution might impact student perspectives about this
+option, and how aspects of such a program can potentially be beneficial at the community
+college level as well.
+This chapter introduces the study’s research problem, including background
+information about the need for the study and an introductory discussion of the context,
+challenges, and possible solutions related to the research problem. The chapter articulates the
+purpose of the study, the guiding research questions of the study, and the definitions and
+assumptions that will guide the study. The chapter concludes with a discussion of the study’s
+significance and a brief description of how the five-chapter research report is organized.
+DEMOCRATIZING THE GAP YEAR OPTION 4
+Statement of the Research Problem
+Research Problem
+Many community colleges, including the audience for this research, Union Community
+College (“UCC”), do not have a formal process in place to offer a gap year option for potential
+incoming students who recently graduated high school, thereby denying these individuals an
+educational choice that has been recognized as beneficial to many learners. Whether a student
+chooses this community college due to its proximity to home, lower tuition costs, limited
+academic alternatives, or simply because it’s the best fit for the student’s overall needs, having
+the gap year option would help put UCC on par with other larger institutions. Additionally,
+having a structured option for a gap year may attract students who would not have otherwise
+considered attending college, thereby creating greater equity for all students and a possible boost
+to enrollment.
+While the gap year is often marketed to high-performing students, research indicates that
+a broader audience can benefit from the gap year. In an Australian study of characteristics of gap
+year students and their tertiary outcomes, students who deferred college enrollment were found
+to have higher college marks than students who went directly to college after high school. The
+impact was most apparent in typically low-performing students, particularly male (Birch &
+Miller, 2007).
+When considering the interests of the institution, without a formal program in place for
+gap year students, the high school graduate who does not immediately enroll in community
+college may be an untapped demographic who is not on the radar of college counselors. While
+some community college administrators may view the gap year as a competing interest to those
+DEMOCRATIZING THE GAP YEAR OPTION 5
+in the college applicant pool, in reality, this option may help attract students who otherwise
+would not have attended college and potentially aid in the retention of those who do.
+What is a Gap Year?
+While the timing, characteristics, and exact length of a gap year vary greatly around the
+world, with no one definition seeming to be universally accepted, most definitions share more
+commonalities than differences. According to the Gap Year Association, a non-profit gap year
+program accreditation group whose mission is “to maximize the potential of young adults
+through accessible and meaningful gap year opportunities (Gap Year Association, n.d.-a, para. 1-
+3), each gap year is unique. However, this association of students, educators, schools, and
+programs recognizes a gap year as “a semester or year of experiential learning, typically taken
+after high school and prior to career or post-secondary education, in order to deepen one’s
+practical, professional, and personal awareness” (Gap Year Association, n.d.-b, para. 1-2). For
+the purpose of this study, gap year refers generally to “a period of time (usually an academic
+year) taken by a student as a break from formal education, typically between leaving school and
+starting a university or college course, and often spent travelling or working” (Oxford University
+Press, n.d.). The specific criteria used for identifying gap year student subjects relative to this
+study is discussed in detail in the methodology section.
+Why Should Community Colleges Embrace the Gap Year?
+While community colleges have long been seen as a refuge for returning students, little
+has been done to engage with those students before and during a break in their education. Rather,
+breaks in education for students prior to community college enrollment have largely been viewed
+or assumed as unintentional pauses due to life circumstances. The absence of an intentional,
+formalized gap year option for these students may be depriving them of a viable educational
+DEMOCRATIZING THE GAP YEAR OPTION 6
+path. By engaging with this audience in a more deliberate way, students choosing to take a gap
+year may be put in a better position to access its benefits, such as gaining work experience
+relative to career interests, volunteering, travel, or pursuing other interests aimed at gaining
+valuable life experience. Additionally, it could prove to be beneficial to students who wish to
+attend community college because they feel unprepared for the demands of college and
+adulthood, as they may gain confidence and maturity through such experiences.
+Student Satisfaction and Academic Performance
+Just as any higher education institution does, community colleges strive to graduate
+satisfied students and to successfully encourage strong academic performance from those
+students. A recent study on the role of how validating support promotes college students’ major
+and career self-efficacy (MCSE) notes that students with higher levels of MCSE are more likely
+to put more effort into their coursework. Therefore, student support efforts by college educators
+can play an important role in student success rates (Kitchen, 2021). This points to the need for
+early and ongoing interaction with and support of students by college counsellors and educators
+as students are deciding on a major and career path, regardless of whether they are actively
+enrolled in college or taking time away to prepare for and assess such choices.
+Trends in Colleges and Universities
+Not only are several elite universities allowing for gap years, but they also actively
+promote gap years in their marketing materials. Princeton University, for example, promotes the
+Novogratz Bridge Year for all incoming first-year Princeton undergraduate students. According
+to its website, the nine-month program fosters community engagement with participants living
+with a host family in one of five international locations (Princeton University, n.d.). Likewise,
+the website for Harvard College, the undergraduate liberal arts division of Harvard University,
+DEMOCRATIZING THE GAP YEAR OPTION 7
+encourages students to take a gap year, even speculating that their 98% graduation rate “is
+perhaps due in part to the fact that so many students take time off, before or during college”
+(Harvard College, n.d., para. 4). In fact, since the 1970s, Harvard University has led the way in
+advocating for students to take a gap year prior to entrance. At the height of the lucrative dotcom boom when stories of young people making outrageous amounts of money in the tech startup world had many parents scrambling to get their children into the right pre-schools and on the
+path to success, it was Harvard administrators who warned of the dangers of burnout and the
+need to catch one’s breath instead of merely always reaching for future goals (Fitzsimmons et al.,
+2000). In a 2000 New York Times piece (Fitzsimmons et al.), school representatives speculated
+that the then 97% graduation rate of the school was perhaps a product of so many students taking
+time off.
+This trend throughout some of the nation’s most prestigious academic institutions reflects
+the growing acceptance of the gap year as a legitimate and worthwhile educational option.
+Further, as all institutions compete for students, the prevalence of the gap year option at some
+institutions shines a light on the absence of this option at others. This is particularly glaring at the
+community college level.
+The Need for Structure Around Student Breaks
+Many students take a gap year in order to recover from the perceived burnout of high
+school academics, but that does not diminish the need for the gap year to be presented, managed,
+and measured as a structured option. Whether a student engages in a gap year to travel,
+volunteer, earn money, or simply disengage from the rigors of daily academic work, research has
+found that a structured gap year with predetermined objectives facilitates personal growth and
+the acquisition of new skills for gap year students (Rabie & Naidoo, 2016).
+DEMOCRATIZING THE GAP YEAR OPTION 8
+Beyond benefiting individual students, a better understanding of this issue may benefit a
+variety of education professionals, from community college enrollment and career services
+representatives, to high school guidance counselors. Additionally, individuals who may have
+input or influence on students’ decisions (e.g., parents) may also benefit from this research.
+Challenges/Obstacles
+When researching gap years, two major obstacles stand out. First, to suggest that the gap
+year choice should exist for all is not to say that all should take a gap year. It is clear that this
+path is not for everyone. An Australian study rooted in the life span of control theory found that
+gap year students had higher university dropout rates compared to those who went straight to
+university (Parker et al., 2015). What this and other studies acknowledge, though, is that it is
+virtually impossible to account for every variable that may contribute to causality. In essence, it
+is unclear whether these students had a propensity to drop out for other reasons that perhaps
+delayed their studies. This again points to the very personal nature of the gap year decision and
+the need for counseling and outreach to students who are considering this option.
+Another challenge that exists relative to studying student perceptions of the gap year
+includes how the views and opinions of other individuals—namely family members—tend to
+shape a student’s own views. Cultural perceptions and practices relating to the gap year vary
+widely around the globe. In Ireland, a quasi-gap year is offered midway through post-primary
+school and is regarded by many teachers and parents as a positive experience. Despite no clear
+differences having been reported on several measures, students who participated in this transition
+year reported significantly higher increases in subjective age and, particularly amongst boys,
+self-reliance (Clerkin, 2020).
+DEMOCRATIZING THE GAP YEAR OPTION 9
+Whereas the gap year is widely accepted in many European cultures, a recent Russian
+study (Kremen & Tsitsikashvili, 2021) about student perceptions of the gap year in the context of
+the COVID-19 pandemic, found that most students still would not consider a gap year even
+during a worldwide pandemic. These feelings were attributed, at least in part, to the conservative
+views of most Russian parents. A U.S. study of 9th graders (George Mwangi et al., 2019)
+concluded that parental involvement creates a “college-going” cultural capital toward student
+attainment of college milestones. Additionally, parental influence may be particularly
+pronounced amongst certain demographics. For example, in a qualitative U.S. study focusing on
+low-income, first-generation students, the role of parents/guardians was often cited as the top
+motivational influence on a student’s decision to attend college (Mitchall & Jaeger, 2018).
+For these reasons, student perceptions of their parents’ attitudes toward a gap year are
+also noteworthy, as they present additional challenges and considerations relative to the
+educational and communication process.
+Success Stories/Solutions
+Though the gap year option may not be suitable for every student, the benefits of a gap
+year, or variations thereof, have been largely affirmed by students who have participated in them.
+Iterations of a “gap” in education have been successful at the post-high school phase and beyond.
+For example, one South African study (Nieman, 2013) found that all participants viewed their
+gap year experience as constructive; this was particularly true for those who were initially unsure
+of their career choice. The study focused on students’ own perceptions and reported several
+benefits of the gap year, including recovering from academic burnout, readiness for university,
+intercultural competence, greater independence and self-understanding, and feelings of maturity,
+personal growth, and development (Nieman, 2013).
+DEMOCRATIZING THE GAP YEAR OPTION 10
+A study in the United Kingdom that measured the value of deferring entry into medical
+school found overwhelming support of the idea by students who themselves had taken a gap year
+prior to medical school. Moreover, nearly half of non-gap year students also reported support for
+the concept (Paterson-Brown et al., 2015). Regardless of the exact timing, a gap year appears to
+be an appropriate tool for many students to prepare for the rigors of their next academic hurdle.
+Research Purpose and Questions
+Research Purpose
+The purpose of this study is to explore factors that influence students’ perceptions
+and attitudes about the gap year choice so that institution administrators (of UCC and
+other community colleges) can better understand how to structure and present the gap
+year as a viable educational option.
+Research Questions
+The guiding research question of this study is:
+• How could a formal approach to the gap year option influence students’ perceptions and
+attitudes about the gap year as a viable option between high school and community
+college?
+To aid in answering the research question, the following three sub-questions were
+examined:
+• How are students’ perceptions and attitudes influenced by educating students and family
+members on the gap year option (including its potential advantages and disadvantages)?
+• How are students’ perceptions and attitudes influenced when the gap year choice includes
+a structured path aimed at better preparing students for educational and career endeavors?
+DEMOCRATIZING THE GAP YEAR OPTION 11
+• How are students’ perceptions and attitudes influenced when keeping them on task to
+ultimately enroll in college is a component of the gap year?
+Methodology
+Using a qualitative approach, the researcher conducted semi-structured interviews with
+four (4) participant undergraduate students currently attending Yardley College, a private college
+in the Midwest, and who participated in a formal gap year program sponsored by the college
+between high school and their freshman year of college. These case study discussions were
+conducted through one-on-one video meetings between the researcher and each individual
+participant.
+Definitions and Assumptions
+There are various definitions and assumptions used throughout this study. They include
+the following:
+Democratize: “To make (something) accessible to a wide range of people; to make
+(something) less elitist, pretentious, etc.” (Oxford University Press, n.d.)
+Gap year: “A period of time (usually an academic year) taken by a student as a break
+from formal education, typically between leaving school and starting a university or college
+course, and often spent travelling or working” (Oxford University Press, n.d.)
+Significance of the Study
+In recent years, as the COVID-19 pandemic has reignited the gap year conversation,
+many community colleges have actively spoken out against this option for students. A 2020
+opinion piece from Community College Daily (Kapsner, 2020) highlighted five reasons to
+choose community college over a gap year in light of COVID-19 travel restrictions and
+uncertainty. The piece encouraged students to instead complete required general education
+DEMOCRATIZING THE GAP YEAR OPTION 12
+courses at a community college such as NorthWest Arkansas Community College who, in
+turn, also featured the information largely unchanged on its website under the heading of
+“Why Community College May Be a Better Alternative Than Gap Year During COVID-19”
+(NorthWest Arkansas Community College, n.d.). Similarly, in a July 7, 2020, post on its
+website, the Community College System of New Hampshire made arguments against the
+traditional gap year. Instead, they advocated for students and families to “reimagine the gap
+year” and suggested that going to community college instead of a residential university during
+the pandemic could allow students to help their local communities while not stopping their
+schooling (Community College System of New Hampshire, 2020). In essence, the school
+appeared to be advocating for students who would otherwise go away to college to look at a
+year of community college as offering many of the benefits of a traditional gap year through
+local volunteerism rather than travel. While there seemed to be ample conversation around the
+gap year in 2020 and beyond, there is a continued lack of scholarly research relative to the gap
+year as it specifically relates to community college students.
+It appears on the surface that community colleges are positioning the gap year as an
+either/or proposition, failing to recognize that a properly structured gap year may actually
+draw students—many who may have otherwise drifted—toward the college experience.
+Additionally, by ruling in or ruling out career paths during a gap year, the offering could
+promote better alignment between students and their selected major. For these reasons and
+more, this topic needs to be explored as a potential correction to a current barrier to access for
+community college students.
+Chapter 1 Summary
+This chapter provided an overview of the research topic: how a formalized approach to
+DEMOCRATIZING THE GAP YEAR OPTION 13
+the gap year at the community college level impacts student perceptions about the viability of
+this choice. Chapter 2 will present a literature review, while Chapter 3 will describe the
+methodology and methods that guided the study. Chapter 4 will report on and discuss the
+study’s findings and results, and Chapter 5 will conclude the paper with a discussion of the
+study’s implications on current practices, as well as recommendations for future research.
+DEMOCRATIZING THE GAP YEAR OPTION
+CHAPTER 2
+LITERATURE REVIEW
+Chapter 2 Introduction
+According to a publication by the American Association of Community Colleges, a
+central tenet of the United States community college system is access, meaning “all members of
+a community—not just a select few—are afforded a pathway to attain a college education, be it
+workforce training or through the pursuit of advanced degrees” (Mullin, 2017, p. 1). As such, it
+stands to reason that programs and activities proven to be beneficial to college students must be
+examined for their applicability at the community college level and, when deemed appropriate,
+supported and advocated with comparable vigor to other academic options.
+This study explored the following research question: How could a formal approach to the
+gap year option influence students’ perceptions and attitudes about the gap year as a viable
+option between high school and community college?
+To aid in answering the research question, the following three sub-questions were
+examined:
+1. How are students’ perceptions and attitudes influenced by educating students and
+family members on the gap year option (including its potential advantages and
+disadvantages)?
+2. How are students’ perceptions and attitudes impacted when the gap year choice
+includes a structured path aimed at better preparing students for educational and
+career endeavors?
+DEMOCRATIZING THE GAP YEAR OPTION 15
+3. How does a plan to engage in ongoing outreach to students during the gap year
+affect students’ perceptions and attitudes toward a gap year?
+While much has been studied about virtually all aspects of the college-going experience,
+scholarly literature related specifically to community colleges is somewhat limited and, in many
+cases, dated. With nearly 7 million students enrolled in for-credit courses at over 1,000
+community colleges across the U.S. (American Association of Community Colleges, n.d.), the
+need for additional, intentional research focused on this population and the community college
+setting is apparent. Likewise, gap year research specific to community colleges is essentially
+non-existent. Therefore, for purposes of this literature review, older information was included
+when considered relevant and necessary to provide the reader context and a better understanding
+of relevant issues. Additionally, due to the lack of research on this issue, peripheral factors to this
+choice were explored.
+This chapter examines considerations when contemplating a gap year option at the
+community college level, as it relates to institutional support and coordination via education,
+communications, and outreach. It opens with a discussion of the worldview and theoretical
+framework in which the research is grounded, followed by a literature review of the peripheral
+issues to consider when answering the research question and sub-questions. Specifically, it
+explores: 1) factors in choosing a community college, including financial considerations, major
+and career uncertainty, prior academic performance, proximity to community and family,
+parental influences, and quality of the institution; 2) the high school to college transition,
+including academic preparedness, fear of the unknown, psychosocial factors, and dual enrollment
+programs; 3) gap year benefits and considerations, including major and career clarity, socialemotional maturity, life experience and relationships, work experience impact, greater
+DEMOCRATIZING THE GAP YEAR OPTION 16
+motivation from a burnout break, and gap year drawbacks and considerations; and 4)
+legitimizing the gap year option, including counselor significance, and parent education.
+Constructivist Worldview and Constructivism Learning Theoretical Framework
+This study was rooted in the foundation of the constructivist worldview and the
+constructivist learning theory framework.
+Constructivist Worldview
+Grounded in the constructivist worldview, this study explored how a formal approach to
+the gap year option influences students’ perceptions and attitudes about the gap year as a viable
+option between high school and community college. The constructivist worldview takes a
+philosophical approach to research that seeks to understand the subjective meanings individuals
+place on their experiences (Creswell & Creswell, 2023). This broad worldview is the lens
+through which research on the gap year was conducted. While the research question focuses
+specifically on how a formal approach to the gap year option influences students’ perceptions
+and attitudes about the gap year as a viable option between high school and community college,
+the underlying motivation for studying democratization of the gap year is the belief that the
+breadth of experiences available to gap year participants is a rich educational tool that should be
+accessible to all students. Consistent with that belief, the study is an example of critical action
+research, reflecting an underlying commitment to ensuring fair and equitable educational
+opportunities for all (Mertler, 2020).
+DEMOCRATIZING THE GAP YEAR OPTION 17
+Constructivist Theory
+Recognized as one of the “big ideas” within the realm of education, constructivist theory
+“asserts that learning is an activity that is individual to the learner” and that these learners “will
+try to make sense of all information that they perceive, and that each individual will, therefore,
+’construct‘ their own meaning from that information” (Bada & Olusegun, 2015, p. 69). A central
+tenet of constructivist learning theory, student-centered learning, demands that educators act as
+facilitators and collaborators in relation to their students as they attempt to transform student
+experiences into knowledge. This research focused on the role that educators—namely
+community college counselors and academic advisors—play in student-centered learning,
+achieved through a properly supported gap year option.
+Factors in Choosing a Community College
+In examining the community college population, much is written about the demographic
+makeup of these students. Collectively, the group is predominantly female, is on average older, is
+often enrolled on a part-time basis, and is as a plurality but not majority White (American
+Association of Community Colleges, n.d.). While answering the “who” component, a deeper
+dive into the “why” may be beneficial to better serve students. Understanding the underlying
+motivating factors of students opting to enroll in community college could be an effective tool
+for community college administrators to align offerings with student wants and needs, and to
+position students for optimal academic outcomes.
+DEMOCRATIZING THE GAP YEAR OPTION 18
+Financial Considerations
+In a study of the parents of community college students, 97% of parents on the lower
+socioeconomic end cited finances as a consideration in sending their child to a community
+college (Bers & Galowich, 2002). The study utilized a survey tool which was completed by 225
+parents and focused on the process of their child deciding to go to college and choosing a
+specific institution; the study also contained essential demographic questions about the students
+and families. A subsequent focus group of parents allowed researchers to obtain more in-depth
+information about the participants’ children’s college search process, their parental perceptions
+about their child’s college experience, and parent insight on the college catalog. The research
+found that financial considerations as a factor in choosing a community college was not limited
+to the poorest families. While socioeconomic standing was a factor for financially disadvantaged
+participants, the overwhelming majority of all parents cited finances as a determining factor,
+including 89% of parents in the middle economic status tier and 75% in the highest. Financial
+consideration correlations were particularly pronounced amongst parents who assigned low
+ratings to their child’s academic skills (Bers & Galowich, 2002). In a study further expanding on
+these results (Bers, 2005), parents ranked the ability of students to juggle both work and school
+as their top factor in deciding to enroll their student at a community college, suggesting that
+financial considerations go beyond weighing the hard costs of tuition and housing. In fact, three
+of the top four reasons in choosing a community college in this study involved finances,
+including affordability and the student’s desire to save money (Bers, 2005).
+Also examining factors impacting college choice, an analysis focusing on Latino students
+(Kurlaender, 2006) found an inverse relationship between socioeconomic status and community
+college enrollment. The author examined a four-wave longitudinal study of eighth graders drawn
+DEMOCRATIZING THE GAP YEAR OPTION 19
+from a nationally representative sampling. The data collection, which began in 1988, used the
+binary dependent variable of whether students attended a community college or a four-year
+institution and used logistic regression analysis to examine the relationship between the type of
+post-secondary school attended and race, adjusting for a variety of factors. In general, students
+from a higher socioeconomic status were less likely to attend community college, although this
+was less pronounced amongst Latino students (Kurlaender, 2006).
+Likewise, in a qualitative study of 49 Asian American community college students, the
+most commonly referenced motivator in that decision was cost (Park & Assalone, 2019). In some
+instances, paying for a four-year college was possible, just not practical. Some of these students
+viewed the savings of a community college as an added perk, while others needed to work while
+going to school or pay for college themselves. Regardless of the exact reason, financial
+considerations were by far the most common driver of community college attendance (Park &
+Assalone, 2019).
+While financial considerations are likely to influence the decisions of many, if not most
+students, matters of money appear to carry particular weight in the decision of those who opt to
+attend a community college (Bers & Galowich, 2002; Bers, 2005; Kurlaender, 2006; Park &
+Assalone, 2019).
+Major and Career Uncertainty/Lack of Planning
+Since the first two years of college is typically a time when students are fulfilling general
+education requirements, community college may be viewed as an inexpensive way to explore
+various academic and career choices with fewer interruptions to a student’s current life
+circumstances. Opting for community college as a way to figure out those next steps relative to
+education and career ranked in the top five reasons cited by parents for their children choosing a
+DEMOCRATIZING THE GAP YEAR OPTION 20
+community college, according to a 2005 Bers study which surveyed parents of high school
+graduates who attended one of five suburban community colleges in a metropolitan area. In a
+2022 survey of 500 recent high school graduates, only 24% felt “very” or “extremely” confident
+in their educational or career path (Jaschik, 2022). In a 2019 qualitative study (Park & Assalone,
+2019), interviews were conducted with 49 current Asian American community college students
+and transfer students to three-year institutions in Southern California. The researchers concluded
+that some students, feeling uncertain or unmotivated about their next steps, simply failed to apply
+to a four-year school, thus ending up at a community college almost by default (Park &
+Assalone, 2019).
+Prior Academic Performance
+The Kurlaender (2006) study also examined the role that prior academic performance
+played in college selection and found that high-performing students tended to gravitate toward
+enrollment at four-year institutions, while community colleges were a greater draw to lowerperforming students. Race, however, did play a factor in this study, with Latino students showing
+a higher likelihood of attending community college regardless of their academic history
+(Kurlaender, 2006). Authors Park and Assalone (2019) found that some students viewed
+attending community college as part of a “strategy” or a “second chance” (p. 284-286). By
+attending community college, students had the opportunity to make up for bad grades or less than
+sufficient academic performance in high school to, hopefully, end up at their desired university.
+While many high-performing students may be more likely to go to a four-year school,
+some do attend community college and bring with them unique needs. A qualitative study of 10
+academically advanced high school seniors who were identified for gifted services in their
+district found that these students expressed specific interest in the career development aspects of
+DEMOCRATIZING THE GAP YEAR OPTION 21
+an institution, including job prospects post-graduation, acceptance rates to graduate programs,
+and the opportunity for professional growth (Meyer & Cranmore, 2020). The authors concluded
+with a call for equitable access to accurate and comprehensive information by school officials to
+all students.
+Students of all academic backgrounds face unique challenges in the college-choosing
+process, from the frustration of limited pathways to the stress of multiple options. Recognizing
+that community colleges serve as a point of access for students (Mullin, 2017) may place a
+greater demand on community colleges to offer a broad range of academic programs and paths.
+Proximity to Community and Family
+In addition to academic, financial, and social pressures, one of the biggest fears facing
+college-bound students is the prospect of being away from home (Shanley & Johnston, 2008).
+Whether it’s missing parents or siblings, or simply longing for familiarity of one’s home and
+surroundings, anxieties about being homesick are a real factor in the college choice process. The
+2005 Bers findings ranked students’ desire to live at home as the second most prevalent reason
+for choosing a community college.
+Beyond merely missing friends, family, or significant others, other more practical matters
+may come into play. Aside from the obvious financial savings of living at home, maintaining a
+part-time job, or less expensive tuition, attending a community college may also be prompted by
+one’s family obligations. For example, in a qualitative study of rural community college
+students, one participant who had gotten pregnant and married a year after high school chose a
+community college so that she could care for her child while enrolled in a radiology program that
+would allow her to enter the workforce sooner (Strawn, 2019). This is just one of the many
+personal anecdotes of how familial obligations steer students toward community college.
+DEMOCRATIZING THE GAP YEAR OPTION 22
+In a book chapter covering the non-academic barriers facing rural community college
+students, the authors noted that community colleges may also attract students who are facing
+their own (or a family member’s) medical issues, based on the “open‐access mission of the
+community college, coupled with the often flexible scheduling, smaller classroom environments,
+and relatively no‐pressure admissions process” (Waters-Bailey et al., 2019, p. 83). Whether it’s
+caring for a child, a parent, or oneself, community colleges have long been recognized as an
+alternative for students with outside personal responsibilities.
+Parental Influences
+As anyone who has gone to college can attest, the process of preparing to attend a
+community college or four-year institution begins long before classes commence. Not
+surprisingly, research widely recognizes parents as a key influencer over their children’s
+achievement of various milestones toward their journey to college. A study of 9th grade students
+drawn from a national sample of over 900 schools found that parental involvement fosters a
+college-going cultural capital amongst their children via the achievement of key college
+readiness markers (George Mwangi et al., 2019). One may infer that, since many college
+milestones occur long before entering college, influence by parents begins much earlier than the
+transition period between high school and college.
+Supporting the far-reaching role parents play for college-bound students, a cross-case
+study of seven low-income, first-generation students rooted in self-determination theory
+(Mitchall & Jaeger, 2018) found that “students’ self-determination was enhanced when parents
+were involved in college planning, served as positive examples, set high academic standards
+early, and fostered students’ sense of career volition” (p. 582). Conversely, student motivation
+was negatively impacted by parental actions that ran contrary to these behaviors, such as when
+DEMOCRATIZING THE GAP YEAR OPTION 23
+parents limited choices, failed to set clear expectations and give feedback, and prioritized family
+matters over education. Students in the 2018 (Mitchall & Jaeger) study often pointed to their
+parents/guardians as the top motivational influence in their college decision. Other important
+figures to the students were also cited as important influencers in college planning; this included
+even extended family members. Participants acknowledged that their parents were not
+necessarily knowledgeable about certain aspects of the college planning process but still viewed
+them as sources of support, enhancing their feelings of competency and autonomy. While parents
+did not dictate college planning choices, almost every participant reported that their parents
+provided reassurance that they were “college material” (p. 594). Collectively, the research
+strongly suggests that parents impact the college decision process of their children in a variety of
+ways.
+Quality of Institution
+While community colleges offer a multitude of obvious advantages—such as
+affordability and proximity to home—one should not assume that students disregard the quality
+of an institution as a factor in attending a community college. In a study presenting 29 selection
+variables, community college students ranked the overall quality of the education as their
+primary consideration in choosing an institution, followed by the types of academic programs
+available therein (Absher & Crawford, 1996).
+Likewise, a 2022 qualitative study of dual enrollment students who ultimately enrolled in
+their respective host community college after high school (Moore & Williams) attributed their
+decision to several variables related to institutional quality. The case study, which utilized a
+constructivist research paradigm, included six technical dual enrollment program students and
+eight transfer dual enrollment students. Data gathering came from semi-structured interviews, a
+DEMOCRATIZING THE GAP YEAR OPTION 24
+document review, and field notes which included things such as behaviors and nonverbal cues.
+The faculty, the learning environment, and the academic programs and transfer options were all
+common themes cited by the students, suggesting that prior exposure to the quality of the
+community college played a significant role in their decision to attend (Moore & Williams,
+2022).
+Summary of Factors in Choosing a Community College
+In examining the factors that go into choosing a community college, it is clear that there
+is typically no single driving force. Rather, a combination of variables, considered in their
+totality but weighted based on individual circumstances, seems to be at the heart of embarking on
+the community college path. While affordability is often a key consideration amongst both
+students and their parents (Bers, 2005; Bers & Galowich, 2002; Kurlaender, 2006; Park &
+Assalone, 2019) other factors can be equally or more influential. A lack of clear direction about
+one’s major and career path (Bers, 2005; Park & Assalone, 2019) and/or student’s prior
+academic performance (Kurlaender, 2006; Meyer & Cranmore, 2020) may play a role in the
+decision to attend a community college. In other cases, the proximity to home lends itself to
+students who aren’t prepared to leave home or who have work, family, or other personal
+considerations (Bers, 2005; Shanley & Johnston, 2008; Strawn, 2019; Waters-Bailey et al.,
+2019). While much attention is focused on the factors that impact student perspectives about this
+issue, research suggests that parents often contribute a powerful voice in the college selection
+process from both a financial perspective and beyond (Bers, 2005; Kurlaender, 2006; Mitchall &
+Jaeger, 2018; George Mwangi et al., 2019). What should not be overlooked, however, is that
+many students are drawn to a community college because of the quality of education they
+perceive it can deliver. Whether students form first-hand impressions through specific programs,
+DEMOCRATIZING THE GAP YEAR OPTION 25
+such as dual credit enrollment, or they are influenced by the reputation or marketing of the
+school, quality faculty, classroom environment, degree programs, and transfer ease are important
+considerations to many students (Absher & Crawford, 1996; Moore & Williams, 2022).
+High School to College Transition
+In exploring the factors related to community college enrollment, it is appropriate to gain
+a better understanding of what students who are contemplating their college options are
+experiencing. Beyond the obvious need to factor in one’s academic preparedness in making
+decisions about whether and where to attend, students in this transition period have the added
+stress of contemplating how they will adjust to the rigorous academic demands of college and
+how they will navigate the newfound personal independence that comes with being a college
+student. Understanding psychosocial factors impacting a successful transition from high school
+to college is important not only for students, but also for parents and college advisors and
+counselors. Further, recognizing what personal traits are unlikely to change with intervention can
+help ensure students are making choices that will allow them to succeed. In examining the high
+school to college transition, it’s noteworthy that some students will have a unique perspective,
+and arguably an advantage, due to their participation in a dual enrollment program.
+Academic Preparedness
+For some students, preparing academically for college may seem overwhelming. High
+achieving students may find that their study habits in high school are not sufficient in a college
+or university setting, while low performing students may face either the reality of not being able
+to attend the college of their choice or the requirement to take remedial level courses. In an
+online survey of students enrolled in a general education course at a Kentucky university,
+academic preparedness was found to be a significant predictor of academic success, more so than
+DEMOCRATIZING THE GAP YEAR OPTION 26
+student perceptions of the institution’s commitment to their success or social integration, neither
+of which had a statistically significant impact on the student’s course grade (Hepworth et al.,
+2018). This suggests the need for intervention long before students are in the process of
+transitioning to college.
+A qualitative study at a large, public community college in the Southeast (Martin et al.,
+2014) utilized semi-structured interviews with faculty, staff, and administrators to explore their
+perceptions of factors that contribute to student success as well as the institution’s role in student
+success. Based on former students who the college had identified as having overcome odds to
+graduate, as well as referrals from those students, a random group of graduates were interviewed
+to examine the characteristics, experiences, perceptions, and behaviors that may have played a
+role in their success. The study found that students lacking academic preparedness—among other
+things—were able to offset that deficiency through motivation, self-direction, and developing
+new support systems. The authors concluded that a well-defined plan for college was the most
+significant predictor of success (Martin et al., 2014). The study suggested that academic
+obstacles are secondary to how students navigate them; through proper behaviors, academic
+hurdles can be overcome.
+Fear of the Unknown
+The choice of whether and where to go to college is, arguably, one of the biggest
+decisions in life. The added social pressures of making new friends and potentially leaving home
+for the first time can be overwhelming to some students. A 13-year longitudinal study of
+Canadian high school students examining the transition process from high school to college
+(Larose et al., 2019) noted that the process “appears to begin in the minds of students well before
+they set foot in college” (p.707). Warning that problems with the academic transition are
+DEMOCRATIZING THE GAP YEAR OPTION 27
+determinant of future academic issues, the authors suggested early intervention between high
+schools and colleges with students to help clear up misconceptions and common fears, worries,
+and anxieties about college. Somewhat surprisingly, the study found that social and emotional
+adjustment issues in college had more to do with personal traits than with the actual
+environmental changes of attending college (Larose et al., 2019). In essence, students who had
+adjustment issues in high school carried those problems into college, while those students who
+were well-adjusted in high school adjusted well to college.
+Psychosocial Factors
+While the transition between high school and college and subsequent academic outcomes
+beyond can be significantly shaped by early and ongoing interventions by schools, the
+psychosocial attributes of individual students may also be determinants as to how students will
+navigate academic and lifestyle demands. In addition to meeting more rigorous academic
+standards, contemplating whether or not to leave home to attend college brings with it an entire
+set of new responsibilities and potential sources of anxiety. In short, the role that psychosocial
+factors play in the high school to college transition can be profound.
+In a 2017 meta-analysis examining the relationship between psychosocial factors and
+community college student success (Fong et al.), the categories of motivation, self-perceptions,
+attributions, self-regulation and anxiety were studied against community college persistence and
+achievement. Findings of the work, which was informed by the motivational theory and college
+persistence models, utilized statistical integration from past research and suggested that students’
+motivation and self-perceptions were strong predictors of both their achievement and persistence.
+Dual Enrollment Programs
+DEMOCRATIZING THE GAP YEAR OPTION 28
+Some students making decisions about college do so with the unique advantage of having
+already gotten a small glimpse of the college experience through a dual enrollment program. In a
+study of full-time freshmen at a Northeast Tennessee community college who had participated in
+a dual enrollment program in high school, participants were less likely to take remediation and
+nearly 2.5 times more likely to graduate in two years (Grubb et al., 2017). The study examined
+the full population of 1,232 freshmen who enrolled in the fall semester of community college
+after finishing high school and compared participants against non-participants in dual enrollment
+programs. While the analysis did not examine the role that other variables (such as school
+counseling interactions) may play with dual enrollment students who go on to enroll in a
+community college, it seemed to suggest that the difficult time some students experience during
+the high school to college transition may be mitigated by participation in a dual enrollment
+program (Grubb et al., 2017). A 2022 article by Knox explored how high school students can
+potentially save community colleges through dual enrollment programs. It asserted that dual
+enrollment is no longer for a privileged few. Rather, it is now seen as a tool to drive
+socioeconomic mobility by showing students from all backgrounds that they can succeed in
+college. Often subsidized by state programs, tuition can be significantly discounted or even free
+for many dual enrollment participants. The article emphasized that, while exposure to a college
+campus can be beneficial in building student confidence and eventually getting them enrolled as
+full-time students, building relationships with those students is key (Knox, 2022).
+Summary of High School to College Transition
+In examining the transition between high school and college, it is clear that some factors
+impacting that period begin to take shape long before high school graduation. Research points to
+academic preparedness as a key predictor of academic success (Hepworth et al., 2018; Martin et
+DEMOCRATIZING THE GAP YEAR OPTION 29
+al., 2014), which supports the assertion that students may benefit from earlier intervention by
+school advisors and other personnel. Likewise, these individuals can help ease student fears
+during the transition period by being an early, accessible source of factual information about the
+college experience, whether that be relative to academic, financial, or social-emotional aspects of
+the college experience (Larose et al., 2019). Additionally, since certain student psychosocial
+traits are proven mitigants against academic obstacles in college (Fong et al., 2017), early
+intervention efforts by advisors might be more effective if they work on developing and
+strengthening these skills in students starting from a young age. Finally, some students will
+approach the transitional period with the unique advantage of having already experienced a taste
+of college academia through participation in a dual enrollment program in high school (Grubb et
+al., 2017). In addition to knowing why students choose to attend community college, having a
+better understanding of the high school to college transition period may be useful when
+structuring and communicating about educational options at community colleges, such as a gap
+year.
+Gap Year Benefits and Considerations
+While those unfamiliar with the gap year may be quick to tag it as a vacation or a break
+from hard work, when structured and supported properly, a well-planned gap year may afford
+participants with a wide range of deliverables, including greater major and career certainty,
+enhanced social-emotional maturity, valuable work and life experiences, the formation of new
+relationships, and enhanced motivation. While these benefits are often celebrated by gap year
+participants, potential disadvantages should not be overlooked.
+Major and Career Clarity
+DEMOCRATIZING THE GAP YEAR OPTION 30
+For many students, the gap year is an important tool in bringing clarity to choosing a
+major and, ultimately, a career path. In a qualitative study of gap year participants in South
+Africa, all 34 participants who were interviewed reported their gap year as constructive. This was
+particularly true for those students who were motivated to take a gap year due to uncertainty over
+their field of study and career aspirations (Nieman, 2013). Another qualitative study out of South
+Africa (Rabie & Naidoo, 2016), which examined the experiences of 11 students who had taken a
+gap year, found the most frequently cited reason for taking a gap year was career uncertainty.
+Exposure to various occupational duties during the gap year appeared to resolve these
+uncertainties by ruling in or ruling out specific career paths.
+It is believed that gap year participants are better informed when making decisions
+relative to their education and career, in part due to the self-reflection that takes place during the
+experience (Heath, 2007). It is critical, though, that students maintain some level of interaction
+with educators. In a 2021 review (Kitchen) of survey data collected from a larger longitudinal
+study of 760 University of Nebraska students, those with high levels of validation from educators
+were found to feel more confident in their ability to identify, prepare for, pursue, and engage in a
+major and career path.
+Social-Emotional Maturity
+In addition to career clarity, findings in the Nieman study also revealed a sentiment by
+gap year participants that the experience helped them better adjust to the demands of university
+life by contributing to their perceived maturity, personal growth and development, independence,
+and self-understanding (Nieman, 2013). Closely paralleling these findings, a United Kingdom
+study of 23 students who had taken a pre-university gap year within the last five years found that
+all participants suggested that the gap year was a watershed event between who they were in the
+DEMOCRATIZING THE GAP YEAR OPTION 31
+past and who they became post-gap. The study, which utilized unstructured interviews, found
+that gap year participants cited improvements to their maturity, confidence, and/or independence
+as a result of their gap year experience (King, 2010). Finding one’s identity is a common theme
+throughout gap year literature.
+Similar benefits were reported by participants in the qualitative study of 11 first year
+South African students who had taken a gap year (Rabie & Naidoo, 2016). An improved sense of
+self-confidence was reported by all participants. Consistent with the findings of the 2013 Nieman
+and 2010 King studies, students lauded the gap year for enhancing their maturity, increasing their
+independence, and encouraging acceptance of their individuality.
+Life Experience & Relationships
+For many students, going away to college may be an experience unlike any they have
+ever had. With limited life experience, students may have a social circle that has remained
+relatively unchanged since kindergarten with little exposure to other cultures or ways of life
+beyond their local community. Amongst the many benefits of a gap year are the acquisition of
+new life experiences and the formation of relationships.
+Some gap year experiences put students on the fast-track to learning practical skills
+(including managing finances or cooking) such as those reported by South African students in
+the 2016 Rabie and Naidoo study. The students also reported more transformational experiences,
+such as expanding their knowledge and perspective on life and learning a different language.
+Students in another South African study reported increased awareness of different cultures and
+ways of life and new diverse social relationships as a result of their gap year experiences
+(Nieman, 2013). While not all gap year programs contain international travel components—and
+study abroad programs do not necessarily need to be offered in conjunction with gap year
+DEMOCRATIZING THE GAP YEAR OPTION 32
+offerings—research suggests that study abroad is closely correlated with higher achievement of
+academic outcomes. A recent study of students attending a two-year technical community
+college in the United States Midwest found that academic outcomes (namely as measured by
+degree or credential completion, transfer to a four-year institution, GPA, and credits passed)
+were consistently better for those participants who studied abroad versus those who did not
+(Whatley & Canché, 2022). Again, this research is not specific to the gap year but is arguably an
+endorsement for international gap year paths.
+Work Experience Impact
+Beyond providing clarity to one’s choice of major or career, work experience such as
+internships can be an important differentiator for students as they navigate through college and
+into their career. Unlike tenure gaps that are unstructured, collegiate internship participation is
+shown to have a positive impact on student grades, problem solving, teamwork, and
+communication skills (Wesley Routon & Walker, 2019). This large national study, which
+covered over 442,000 students from 619 institutions, noted that the positive impact of internships
+diminished when the internship resulted in the student taking time away from college. However,
+the study focused on students already in the process of attending college and did not specifically
+study gap year students (Wesley Routon & Walker, 2019).
+Greater Motivation from a Burnout Break
+One argument that cynics of a gap year may assert is that students taking time off from
+school simply lack motivation and just don’t want to go to school. To some extent, they couldn’t
+be more on target. Gap year participants do, in fact, cite the desire to take a break from school as
+an important factor in their decision and report being reenergized about school after the time
+away from formal studies (Nieman, 2013).
+DEMOCRATIZING THE GAP YEAR OPTION 33
+Two Australian studies of 2,502 high school students and another of 338 undergraduates,
+(20% of whom had taken a gap year) found that low academic motivation and uncertainty
+amongst high school students was predictive of taking a gap year, and doing so positively
+predicted academic motivation amongst the undergraduates (Martin, 2010). A prior Australian
+study analyzing data drawn from student files also found that gap years were most beneficial to
+students with prior academic problems, concluding that “there may be merit in encouraging some
+students to take a break between high school and university, particularly for students who are
+expected to have below average performance at university and who are unsure of their future
+directions (Birch & Miller, 2007, p. 341). These studies seem to dispel the notion by many that
+gap years only stand to benefit top students headed for Ivy League universities.
+Gap Year Drawbacks and Considerations
+The benefits of a gap year are broadly supported across much of the literature, but that is
+not to say that the gap year option does not come with its own set of risks and considerations.
+Just as college may not be the right path for every student, the gap year may not be appropriate
+for all students. Though research on the gap year is largely positive, research involving two
+studies, one in Finland and another in Australia, was less favorable. Rooted in the life span
+theory of control, the three-wave Finnish study of 636 students which measured students in their
+last year of high school through ages 22-23, found no difference in “goal commitment, effort
+expectations of attainment and strain, or in actual university enrollment in those planning to enter
+university directly versus those who plan to take a gap-year” (Parker et al., 2015, p. 323).
+Similarly, in the Australian longitudinal study of 2,228 participants, the same authors found no
+differences in participant views on future and career or life satisfaction between those who had
+and had not taken a gap year prior to university enrollment. However, in a rare finding of
+DEMOCRATIZING THE GAP YEAR OPTION 34
+negative outcomes associated with a gap year, the latter study also found that those taking a gap
+year were more likely to drop out of their university degree program. The authors suggested that
+more research was needed to determine whether these findings could be generalized to countries
+where gap years are more prevalent (Parker et al., 2015).
+Outside of some sporadic mentions by gap year participants of disadvantages such as a
+year of lost income or lagging behind friends in school (Nieman, 2013), the biggest drawback to
+a gap year seems to be the risk that it will not be productive or that students will not get back on
+track with their education. In the absence of partnerships with colleges, “individual responsibility
+is placed on young gappers to make their time out worthwhile and to stand out from the crowd”
+(Snee, 2013, p. 843). Additionally, some students reported feeling disconnected and isolated
+from family and friends, though this was also sometimes attributed to lack of planning and
+structure around the gap year (Rabie & Naidoo, 2016). A well-planned gap year may be a
+mitigating factor to such drawbacks.
+While several organizations exist to help facilitate student gap years, students can
+become lost in the shuffle and veer off course of their academic path without the support and
+guidance of college personnel. A 2016 article (Barnds) stressed the importance of involvement
+by school counselors, admissions representatives, and others to be a “source of reliable
+information” to students considering a gap year so that it is a “year on rather than just a year off”
+(p. 46). In a telephone conversation with the author (K. Barnds, personal communication,
+January 20, 2023), he noted that the greatest risks to students who take a gap year involve
+communications with the school they will ultimately attend. Since they aren’t planning to attend
+the school immediately after high school, students often fail to make formal contact with the
+school, and/or they choose a college that does not engage in formal outreach with gap year
+DEMOCRATIZING THE GAP YEAR OPTION 35
+students. Emphasizing the importance of a multi-year plan, he noted the need for ongoing
+outreach and communication to keep gap year students on pace to successfully transition into
+their college program after the gap year.
+Summary of Gap Year Benefits and Considerations
+The benefits of a gap year are far-reaching, from practical experiences that improve
+academic outcomes and better direct students to the appropriate major and career , to helping
+students find their own identity by enhancing social-emotional maturity, gaining valuable work
+and life experiences, and developing new relationships (Heath, 2007; King, 2010; Nieman, 2013;
+Rabie & Nadoo, 2016; Wesley Routon & Walker, 2019). Regardless of their academic
+performance in high school, students can find themselves reinvigorated after a gap year, with
+greater motivation from having taken a moment to catch their breath after many years of
+classroom education (Birch & Miller, 2017, Martin, 2010, Nieman, 2013). Those considering
+taking a gap year, though, need also understand potential drawbacks and other considerations,
+namely the need for purpose and structure during this time by forging relationships with college
+personnel who can ensure participants stay on track toward their ultimate educational path
+(Barnds, 2016; Barnds, 2023; Nieman, 2013; Rabie & Naidoo, 2016; Snee, 2016). In short, many
+students may likely benefit from a well-planned gap year under the direction and guidance of
+their desired college.
+Legitimizing the Gap Year Option
+For some students and parents, one of the lingering concerns about the gap year option
+may be the lack of knowledge and support on the matter by college personnel. Though academic
+advisors, counselors, and other college administrators are charged with understanding and
+communicating about the intricacies of a specific course or major, the same is not always true
+DEMOCRATIZING THE GAP YEAR OPTION 36
+regarding the gap year option. This lack of formality around the gap year option may be a
+hindrance to students and parents when weighing the advantages of a gap year, as it is
+presumably reasonable that students could veer off their academic path without a partnership and
+ongoing interactions with the college they ultimately plan to attend.
+Counselor Significance
+As students in the latter half of high school begin to weigh various academic and/or
+career paths, it may seem obvious that school guidance counselors and academic advisors from
+both high schools and colleges will play a positive role in that process. However, a 1960 study,
+which remains controversial still, called that assumption into question. Dubbed the “cooling-out”
+(p. 569) process, Burton Clark asserted that the American higher education system actually
+works to dissuade certain students from paths that are deemed to be out of their reach (Clark,
+1960), even positing that one function of counseling is to “reduce aspiration” (p. 575). Better
+known then as “junior colleges” (p. 569), Clark studied the role academic advisors within a
+community college setting played in tempering the expectations of students believed to be on too
+ambitious a career path. Not surprisingly, this landmark study is still referenced today, as it runs
+counter to conventional wisdom that academic advising is a critical factor in student success.
+Over the following decades, many studies set out to test such assertions. A large study of
+first-time freshmen enrolled in 1995 in any one of California’s 107 community colleges (Bahr,
+2008) examined the effect of advising on student success and whether the attainment of such
+goals was dependent on a number of factors, including academic preparation of the students and
+race/ethnicity. The two cohorts studied included a group of students who intended to transfer to a
+4-year college and another group of remedial math students, and the study examined advising
+administered to both the perceived high and low-performer student sub-groups. Findings of the
+DEMOCRATIZING THE GAP YEAR OPTION 37
+study failed to support Burton’s “cooling out” assertion. Contrary to the Burton study, Bahr’s
+work supported the belief that community college advising is, in fact, beneficial to student
+success. Further, students who were faced with greater educational challenges—in that they were
+deemed less prepared or had the poorest skills—appeared to benefit the most from advisor
+intervention (Bahr, 2008).
+In exploring the role that community college advisors play in the academic success of
+students, both the Bahr study and a study of 397 Latino/a students in their second semester or
+beyond (Tovar, 2015) looked at race/ethnicity as a potential factor in student success. In the
+latter, which took place at an urban California community college, the study found a small but
+significant benefit to Latino/a student success. Namely, GPA was correlated to the number and
+nature of interactions students had with both advisors and instructors. Further, career discussions
+with students had positive correlations with student success, whereas the lack of such
+conversations had a negative effect. Findings also lent themselves to the belief that interactions
+between students and school instructors and advisors must be of a purposeful and outcomesoriented nature to yield such benefits. Likewise, participation in a program rooted in counselor
+support and an academically challenging program also influenced students’ success and intent to
+complete their degree.
+In addition to reinforcing the relevance of transition-to-college experiences, background,
+and social and academic factors, Tovar’s study pointed to the importance of college advisors
+serving as a trusted source for communicating information related to college from an academic,
+career, and even social standpoint (Tovar, 2015). However, research supports that not all forms
+of student outreach initiatives are created equally. For example, a study examining the effects of
+pro-active success coaching to students based on predictive analytics derived from a student
+DEMOCRATIZING THE GAP YEAR OPTION 38
+monitoring system (Hall et al., 2021) generally found that the offer of intervention did not yield
+higher GPA outcomes and had no effect on student persistence to complete their degree.
+However, a 2022 (Fay et al.) mixed methods study utilizing interviews and a transcript review of
+community college students and comparing students who received personalized advising
+regarding transfer, versus those who received standard advisement services, illustrated a critical
+aspect of advisement on student success. The study found that students who received
+personalized advisement services and established relationships with their advisors transferred at
+a higher rate than those who received typical, run-of-the-mill services.
+Research also suggests that the number and nature of tactical duties that counselors and
+advisors perform relative to student course registration may also be a factor in student success. A
+study of the course enrollment behaviors of community college students (Gurantz, 2015) found
+that varying degrees of procrastination and intensity relative to course registration were
+predictive of student course enrollment patterns. When such behavior results in skipping courses
+or entire terms, students may experience negative success outcomes. In a study of students from
+five community colleges across one state, positive associations were found between enrollment
+continuity and earning a credential, and between enrollment intensity and likelihood of transfer
+(Crosta, 2014). Findings from such studies may lend themselves to the need for community
+college advisors to play an active role in the student enrollment and course registration process
+and to engage in ongoing relationships with students on such issues to best position students for
+optimal outcomes.
+Parental Education
+Literature affirms the influence parents play in the college-related decisions of their
+children. This, coupled with the fact that many parents pay for some or all of their children’s
+DEMOCRATIZING THE GAP YEAR OPTION 39
+college education, raises the question of parents’ expectations about communication and
+education on various choices relative to their children’s college experience. A study that utilized
+surveys and focus groups to explore the role of parents in their children’s choice to attend a
+community college found that roughly 60% of parents reported that they, not their children, had
+the initial idea of the child attending community college (Bers & Galowich, 2002). Further,
+parents felt strongly that they should have more involvement in their child’s advising and
+registration processes, be more informed on their child’s academic progress, and be offered a
+parental orientation program. In general, participants in the study wanted to be more connected
+with the college and receive more information, suggesting that ongoing parental education and
+outreach by community colleges is an important aspect of how families navigate a child’s
+educational experience.
+Summary of Legitimizing the Gap Year
+Collectively, studies of community college students seem to suggest that students are best
+served when college advisors engage with them in meaningful, personalized ways on an ongoing
+basis (Bahr, 2008; Fay et al., 2022; Tovar, 2015). From these studies, one might infer that, when
+an advisor is seen as a trusted partner in the educational process, early and ongoing intervention
+around structured options and practices will best position students for success. Research also
+advances the notion that parents of community college students often play an active and
+meaningful role in the educational decisions of their children (Bers & Galowich, 2002),
+suggesting that institutions should strive to achieve parental buy-in about the academic path their
+college-bound students may select.
+Since both students and parents turn to trusted school officials when weighing college
+options, the gap year choice may be best legitimized as a viable option through early and
+DEMOCRATIZING THE GAP YEAR OPTION 40
+ongoing education and outreach to students and parents. Further, having a well-planned path for
+gap year students, which includes ongoing communication and support, is likely to alleviate
+student and parental concerns about taking a gap year, thus allowing individuals to assess the
+pros and cons of the gap year choice on its merits and with the confidence that it is, in fact, a
+viable academic option.
+Summary of the Literature Review
+In exploring the potential need for a formal gap year option at the community college
+level, it is important to better understand why students choose to attend a community college,
+what that transition between high school and college looks like, and the potential benefits of a
+gap year experience for some students.
+Assuming that a gap year option at the community college level is warranted, it is critical
+to better understand the role that school representatives, namely advisors, play in educating both
+students and parents. Gap years may not be appropriate for every student. Early and ongoing
+interactions with potential participants will ensure that the decision of whether or not to take a
+gap year is given the weight it deserves. Further, ongoing communication and outreach by the
+institution will best position students for maximizing the benefits of a gap year and mitigating
+the risk of a student veering off their academic course. In an article for the Journal of College
+Admission, the director of the Gap Year Association, Ethan Knight, noted the importance of
+students working with college admissions representatives throughout their gap year, yet he also
+reports that 60% of students self-structure their own gap year (Knight, 2018). The Rabie and
+Naidoo (2016) study concluded that “engaging in a structured gap year with predetermined
+objectives provided a conducive context for the participants’ personal growth and the acquisition
+of a variety of skills” (p. 153).
+DEMOCRATIZING THE GAP YEAR OPTION 41
+While many organizations work with students on structuring a gap year, the primary
+determinant in the success of participants appears to be involvement of the college with the
+student. Outreach efforts may include providing information from school advisors to gap year
+students, obtaining a statement of purpose from potential gappers, appointing a school
+representative to work with gap year students, providing an enrollment checklist to keep students
+on pace for admission following their gap, and engaging in ongoing communications to keep gap
+year participants engaged and feeling part of their college community (Barnds, 2016, p. 44).
+These, of course, are merely the viewpoints of one source but may highlight a general approach
+to creating a formal structure around the gap year option.
+Chapter 2 Summary
+Chapter 2 provided an overview of literature related to the study’s research topic. The
+guiding research question of this study was: How could a formal approach to the gap year option
+influence students’ perceptions and attitudes about the gap year as a viable option between high
+school and community college?
+To aid in answering the research question, the following three sub-questions were
+examined:
+1. How are students’ perceptions and attitudes influenced by educating students and
+family members on the gap year option (including its potential advantages and
+disadvantages)?
+2. How are students’ perceptions and attitudes impacted when the gap year choice
+includes a structured path aimed at better preparing students for educational and
+career endeavors?
+DEMOCRATIZING THE GAP YEAR OPTION 42
+3. How does a plan to engage in ongoing outreach to students during the gap year
+affect students’ perceptions and attitudes toward a gap year?
+Chapter 2 specifically explored 1) factors in choosing a community college, including
+financial considerations, major and career uncertainty, prior academic performance, proximity to
+community and family, parental influences, and quality of the institution; 2) the high school to
+college transition, including academic preparedness, fear of the unknown, psychosocial factors,
+and dual enrollment programs; 3) gap year benefits and considerations, including major and
+career clarity, social-emotional maturity, life experience and relationships, work experience
+impact, and greater motivation from a burnout break, as well as gap year drawbacks and
+considerations; and 4) legitimizing the gap year option, including counselor significance and
+parent education. Chapter 3 describes the methodology and methods which guided the study.
+DEMOCRATIZING THE GAP YEAR OPTION
+CHAPTER 3
+RESEARCH METHODOLOGY AND METHODS
+Chapter 3 Introduction
+Research Purpose
+The purpose of this study was to explore factors that influence students’
+perceptions and attitudes about the gap year choice so that institution administrators (of
+UCC and other community colleges) can better understand how to structure and present it
+as a viable educational option.
+Research Questions
+This study explored the following research question: How could a formal approach to the
+gap year option influence students’ perceptions and attitudes about the gap year as a viable
+option between high school and community college?
+To aid in answering the research question, the following three sub-questions were
+examined:
+1. How are students’ perceptions and attitudes influenced by educating
+students and family members on the gap year option (including its
+potential advantages and disadvantages)?
+DEMOCRATIZING THE GAP YEAR OPTION 44
+2. How are students’ perceptions and attitudes impacted when the gap year
+choice includes a structured path aimed at better preparing students for
+educational and career endeavors?
+3. How does a plan to engage in ongoing outreach to students during the gap
+year affect students’ perceptions and attitudes toward a gap year?
+Chapter 3 explores the research methodology and methods used to answer the research
+question by reviewing: 1) the definitions, advantages/disadvantages, and justification of use for
+the qualitative methodology, action research, and a case study research approach, as well as the
+research context and setting, 2) the participant recruitment and selection process, specifically
+examining participants, recruitment and selection, and researcher positionality, and 3) research
+methods, specifically examining data collection and analysis.
+Research Methodology
+Grounded in the constructivist worldview and utilizing a qualitative methodology, this
+action research study explored how a formal approach to the gap year option could influence
+students’ perceptions and attitudes about the gap year as a viable option between completion of
+high school and enrollment in community college. The constructivist worldview takes a
+philosophical approach to research that seeks to understand the subjective meanings individuals
+place on their experiences (Creswell & Creswell, 2023). It is built off the assumption that all
+living creatures have experiences, which humans seek to access, and that the totality of those
+interconnected experiences becomes the overall summative experience (Liu, 2022). According to
+Liu (2022, p. 276), the constructivist worldview, “divides all features in the world into purported
+external properties and the totality of experience and argues that they are all constructed.” In
+practical application, researchers ground their work in the constructivist worldview by starting
+DEMOCRATIZING THE GAP YEAR OPTION 45
+with a broad question and allowing participants to guide the data collection process as the
+researcher strives to understand the viewpoints and perceived realities of each participant’s
+experience (Thompson, 2018). This approach is closely mirrored by the researcher in this study,
+as a broad, guiding research question sought to better understand the experiences of gap year
+participants by allowing them to drive the data collection process toward discovering and
+articulating their own perceived truths.
+Qualitative Methodology
+Creswell and Creswell (2023) define qualitative research as “an approach for exploring
+and understanding the meaning individuals or groups ascribe to a social or human problem” (p.
+5). As a research methodology, the qualitative approach seeks to explain why people feel or
+believe certain things and how that ultimately impacts their behavior (Sutton & Austin, 2015).
+Qualitative research provides practical tools to address individual and social situations
+and problems in an empirical way, potentially shedding light on what impacts underlying
+statistical correlations and explaining why certain behaviors occur (Cornejo et al., 2023; Forman
+et al., 2008; Sutton & Austin, 2015). Additional advantages of qualitative research include that it
+uses subjective processes and meanings that are constructed by people and groups of people; it
+offers epistemological approaches to respond to multidimensional social issues; and it can give a
+voice to underrepresented groups by studying the vulnerabilities of specific underrepresented
+populations (Cornejo et al., 2023; Forman et al., 2008).
+Among the perceived disadvantages of qualitative research are that data analysis is
+largely inductive and interpretive, and ensuring rigor can be difficult—particularly if a researcher
+is not highly skilled (Forman et al., 2008). Further, qualitative research can create large amounts
+of data for the researcher to sift through and analyze, and unforeseen variables, such as the
+DEMOCRATIZING THE GAP YEAR OPTION 46
+COVID-19 pandemic, can greatly impact the process (Cornejo et al., 2023; Sutton & Austin,
+2015).
+The researcher believes that the qualitative methodology was the correct approach to this
+study. The gap year phenomenon is deeply personal in that the experience of each individual
+who undertakes such an endeavor must be studied in great depth; this is necessary in order to
+truly understand the impact and consequences of the gap year experience on each individual’s
+life. Qualitative research methods “have a common goal of understanding, rather than measuring,
+phenomena” (p.765) through an iterative, not sequential process (Forman et al., 2008).
+Action Research
+This study utilized action research, which can be defined as meta-practice, practitionerbased research, which uses cyclical modeling whereby there is action; reflection on that action is
+ongoing throughout the research process (Godfrey, 2020). The goal of action research is to
+improve a situation. Action research can involve methods such as interviews, observation, and
+questionnaires (Godfrey, 2020). Specifically, this study was an example of critical action
+research, reflecting an underlying commitment to ensuring fair and equitable educational
+opportunities for all (Mertler, 2020).
+Action research offers practical solutions to problems in the classroom and raises
+knowledge and awareness amongst teachers, in turn allowing them to be more pragmatic,
+collaborative, and adaptive. Other advantages are that it encourages professional development
+while finding solutions to real-world problems and allows teachers to conduct research in an
+environment where variables are more controlled (Messikh, 2020).
+While action research is growing in acceptance, perceived credibility issues and the
+potential for an inherent bias when the researcher is part of the population being studied remain
+DEMOCRATIZING THE GAP YEAR OPTION 47
+notable disadvantages of action research (DeOliveira, 2023; Messikh, 2023). The researcher
+believes that action research is appropriate in this study, as some form of intervention is
+contemplated and will, ideally, lead to a solution for the setting (Herr & Anderson, 2015).
+Case Study Research Approach
+This qualitative action research study utilized case studies, via semi-structured
+interviews, to aid in answering the research question. While many definitions exist for a case
+study, it is generally viewed as a specific research design that uses an empirical inquiry to
+investigate a cultural phenomenon within a “bounded system,” which could be made up of
+individuals, a group, a family, a class, and so on (Kekeya, 2021, p. 28).
+According to Kekeya (2021), case studies can shed light on the complex interactions
+amongst humans within the context of their everyday lives and experiences. In some instances,
+the findings can be transferred to other settings to help readers better understand their own
+personal experiences. Case studies comingle descriptions of particular events with analysis and
+can sometimes be utilized by entities, such as governmental departments, for policy and process
+improvement.
+The main advantages of doing case study interviews—specifically via videoconference
+interviews, as was utilized in this study—include affordability for the researchers and
+participants (reduced travel expenses), greater accessibility than in-person interviews (accessing
+transnational participants), and protecting personal space, privacy, and safety through social
+distancing (Khan & MacEachen, 2022).
+Limitations of case studies include limited generalizability to larger groups, biased
+interpretation or manipulation of the data by the researcher, long and time-consuming data
+analysis, and untrue or exaggerated information reported by participants (Kekeya, 2021). The
+DEMOCRATIZING THE GAP YEAR OPTION 48
+main disadvantages of doing case study interviews specifically via videoconference interviews
+include practical challenges such as: dropped calls and other technology problems, difficulty in
+reading body language, and a loss of intimacy as compared to in-person interviews (Khan &
+MacEachen, 2022).
+Further, whereas Khan and MacEachen (2022) were relatively dismissive of the notion
+that videoconferencing tools present unique ethical considerations for qualitative interviews,
+Roberts et al., (2021) placed greater significance on that difference. In fact, the latter went so far
+as to suggest that using a virtual tool to conduct interviews changes the dynamics of the entire
+process. For example, they noted that the many emails that researchers and participants often
+exchange just to arrange for the meetings can help foster rapport, while the digital divide can
+create issues of equity with participants (Roberts et al., 2021).
+The researcher believes that the case study research design, specifically utilizing
+videoconferencing, was the correct approach to this study because the personal nature of a gap
+year experience requires an intense examination at the individual level. When considering that
+the participants were all current college undergraduates who presumably are well-versed in
+videoconferencing, the researcher felt comfortable that this non-invasive, ubiquitous form of
+communication would best position the interviews for success.
+Research Context
+Research Setting
+According to information set forth by the school, Yardley College is an academically
+robust liberal arts college in a suburban Midwestern setting. Rooted in Christianity, the school is
+known for both its academic rigor and commitment to strengthening the faith of its students. The
+diverse population of 2,300 undergraduate and 600 graduate students represents every state in the
+DEMOCRATIZING THE GAP YEAR OPTION 49
+nation, as well as 39 countries. Beyond academic ability, per the institution’s recruitment
+materials, Yardley College places great weight on the personal attributes of applicants and seeks
+those with moral character, strong faith, social concern, and personal integrity.
+Participant Recruitment and Selection
+Participants
+In total, four participants were included in this study. The relatively small sample size
+was chosen to facilitate a primary goal of the project, which was to research deeply rather than
+widely. As was outlined in the Information and Consent materials, in order to participate,
+individuals had to meet the following criteria: 1) be at least 18 years of age; 2) be currently
+enrolled as an undergraduate student at Yardley College; and 3) have participated in Yardley
+College’s Guardian Gap Year Program between a student’s high school graduation and freshman
+year of college.
+Recruitment and Selection
+The researcher worked with a school official, the director of the Guardian Gap Year
+Program at Yardley College, to identify currently enrolled undergraduate students who had
+participated in Yardley College’s Guardian Gap Year Program between high school graduation
+and their freshman year of college. The director of the gap year program at Yardley College
+provided the initial outreach to eligible former participants of the Guardian Gap Year Program
+via email, with a link to the researcher’s Invitation to Participate and Information and Consent
+Form.
+Recruitment efforts ceased once four candidates who met the requirements for inclusion
+were identified and committed to participation. Candidates were not considered participants until
+the Information and Consent Form was signed and received back by the researcher. Completed
+DEMOCRATIZING THE GAP YEAR OPTION 50
+forms could be returned either directly to the researcher or to the Guardian Gap Year Program
+director who did the initial outreach for recruitment, as long as completed forms were ultimately
+forwarded to the researcher. Forms were given to the researcher via email and, once received by
+the researcher, were retained electronically on the researcher’s password-protected personal
+computer. Completed forms were also retained on a flash drive and in hard copy form in a binder
+at the personal residence of the researcher.
+No inducements, extra credit, rewards, or compensation were offered by the researcher in
+exchange for participation in this study. However, the researcher asserted that participants would
+gain valuable exposure to the research process and doctoral work, potentially sparking an interest
+in, or satisfying curiosity about, graduate studies. Not only did participants have an opportunity
+to self-reflect on their own gap year experience, but they also had the satisfaction of knowing
+that they helped shape the field of education through participation in scholarly research. Further,
+as participants perhaps attempt to obtain admission to a graduate program and/or a job,
+participation in a doctoral study will be an activity on their resume that is not entirely common.
+As was communicated in the Information and Consent materials, taking part in this study
+was voluntary. Potential participants were instructed that they could choose not to take part in
+this study, or, if they did choose to participate, they could leave the study at any time.
+Participants did not need to answer any question they did not wish to answer, and there was no
+penalty for withdrawing from this study.
+Researcher Positionality
+Herr and Anderson (2015) noted that, within action research, the positionality of the
+researcher can be either that of an insider or an outsider. Researcher positionality is significant
+because it ultimately shapes the researcher’s views about “power relations, research ethics, and
+DEMOCRATIZING THE GAP YEAR OPTION 51
+the validity or trustworthiness of the study’s findings” (p. 3). The researcher was an outsider
+within the context of this study and was not employed by or affiliated with Yardley College in
+any way. The research setting was chosen after learning of and researching the gap year program
+offered by Yardley College. While the researcher was familiar with the setting, there was no
+specific relationship or affiliation with this school.
+Research Methods
+Data Collection
+During the fall of 2023, the researcher conducted two semi-structured interview sessions
+with each of the four participants. A semi-structured interview is one “where the researcher asks
+several ‘base’ questions but also has the option of following up a given question with
+supplementary or exploratory questions, depending on the participant’s response” (Mertler,
+2020, p. 314). Since the researcher was seeking information on personal experiences that could
+require additional clarification or feedback, the open-ended nature of the semi-structured
+interview approach allowed for greater depth and probing in the data collection process. Semistructured or open-ended formats are considered best for “truly qualitative data” collection
+(Mertler, 2020, p. 134), which was utilized in this research.
+The first interview focused on how the individual was first introduced to a gap year,
+initial impressions, and family dynamics surrounding that decision. The second interview
+focused on the gap year decision as it relates to educational and career objectives, the role that
+educator support and communication played in the gap year decision, and overall feelings about
+the gap year experience. Since the researcher was an outsider, establishing rapport with
+participants early in the process was key. In this instance, Herr and Anderson (2015) noted that
+“a careful negotiating and establishing of trusted relationships is probably the key ingredient in
+DEMOCRATIZING THE GAP YEAR OPTION 52
+building a research endeavor that works for all involved” (p. 104). Since the participants in this
+research were college students who grew up in an era where online communications are
+ubiquitous, the researcher believed it was highly probable that a positive, trusting relationship
+could be established via a remote interview process.
+According to Muthanna and Alduais (2023), in qualitative research, the researcher
+collects in-depth data from participants by conducting interviews with those individuals,
+whereby the researcher tries to establish rapport and make the interviewee feel comfortable about
+sharing their experiences about a topic. To do this successfully, researchers develop interview
+guides, utilize reflexivity, show sensitivity, and act with integrity. Some topics can be sensitive
+to the participant; as such, qualitative research requires a skilled researcher to respond to those
+moments. Just as they noted that reflexivity enhances the trustworthiness by advancing research
+ethics and integrity, Sutton and Austin (2015) took that a step further and stated that “bias and
+subjectivity are not inherently negative but they are unavoidable; as a result, it is best that they be
+articulated up-front in a manner that is clear and coherent for readers” (p. 226). With this in
+mind, the researcher explained to participants her lack of experience within the realm of
+education in order to be upfront about her shortcomings and help to build trust and rapport.
+As was communicated in the Information and Consent form, the researcher conducted
+these interviews via videoconferencing technology, with interviews being conducted, recorded
+and transcribed via Zoom. Videoconference interviewing is described as non-face-to-face
+interviews that utilize videoconferencing tools such as Skype, Zoom, and WhatsApp for
+individual or group discussions, ethnography, and voice-based interviews/discussions (Khan &
+MacEachen, 2022). Other forms of electronic communications, such as email and text, were
+DEMOCRATIZING THE GAP YEAR OPTION 53
+utilized for purposes of scheduling and general communication that needed to occur between the
+researcher and participants.
+The decision to conduct interviews via videoconferencing was driven by several
+considerations, including: 1) concerns that another outbreak of COVID-19 could derail in-person
+meetings, 2) time and travel associated with in-person interviews, 3) ease of recording and
+transcribing contacts via Zoom, 4) participant ease, convenience, and perhaps greater willingness
+to participate, and 5) the rising acceptance of remote data collection in qualitative research.
+To ensure internal validity, the researcher employed strategies set forth by Creswell and Creswell
+(2023) where appropriate. The primary strategies utilized were member checking and
+clarification of researcher bias. It should be noted that, while Zoom recording and transcribing
+features were utilized, the researcher ensured that transcriptions accurately reflected
+conversations. This occurred by watching and comparing the recorded videos against the autogenerated transcriptions and making adjustments/corrections where necessary. Member checking
+“is a technique for exploring the credibility of results. Data or results are returned to participants
+to check for accuracy and resonance with their experiences” (Birt et al., 2016, p. 1802). Member
+checking was used with all participants viewing and approving full written transcriptions. This
+helped ensure that the data was accurately transcribed and gave the participants another
+opportunity to interact with the researcher and offer any clarifications or concerns.
+The researcher attempted to not only capture the sentiments of each individual participant
+but also to identify themes across participants. The researcher employed several strategies to
+minimize the potential for researcher bias. This form of bias occurs when “researchers
+unknowingly interpret data to meet their hypothesis or include only data that they think are
+relevant” or ask questions in a way to solicit a certain response (Shah, 2019, para. 6). To manage
+DEMOCRATIZING THE GAP YEAR OPTION 54
+this issue, the researcher carefully constructed and reviewed both the content of interview
+questions and how those questions were presented, to ensure that they were not designed or
+delivered in a way that solicited a particular response. Interview takeaways were presented in a
+narrative case study format for each participant and collectively, where applicable. When
+appropriate, findings were compared to existing research to highlight a correlation or lack
+thereof.
+To protect the privacy of the participants involved in this research as well as for the
+specific institution, pseudonyms were assigned in place of actual student names. Only the
+researcher had access to the data collected; data was stored on a password-protected computer
+and flash drive and, in the case of physical materials, in the personal residence of the researcher.
+All hand-written notes, files, flash drives, and recordings will be shredded/deleted once the final
+scholarly manuscript is approved.
+Data Analysis
+In describing the steps involved in action research, Mertler (2020) outlined four stages:
+planning, acting, developing, and reflecting. In the acting stage, data is collected and then
+analyzed. In this study, data was collected during the fall 2023 school semester. Once interviews
+were completed, transcribed, and subsequently verified for accuracy, official, robust data
+analysis began. The preliminary identification and analysis of themes was prevalent even during
+the initial data collection process but took on a more methodological complexion during this
+step.
+Labeled in recent research as “iterative thematic inquiry,” this approach centers on
+themes from the very onset of the research and throughout (Morgan & Nica, 2020). Consistent
+with a deductive reasoning approach, the authors suggested that themes help to highlight the
+DEMOCRATIZING THE GAP YEAR OPTION 55
+preconceived notions of the researcher and create a template for stating results throughout the
+research. Deductive reasoning is a “top-down approach to reasoning, working from the general
+to the more specific” (Mertler, 2020, p. 310). Rather than waiting until data collection is over and
+results are being coded, this approach asserts that the process of identifying themes upfront is
+what helps to create the analysis of findings. The four stages of iterative thematic inquiry are
+“assessing beliefs; building new beliefs through encounters with data; listing tentative themes;
+and, evaluating themes through coding” (Morgan & Nica, 2020, p. 2). This study followed a very
+similar blueprint, with the researcher first assessing current personal beliefs, then processing data
+as it was encountered to shape those beliefs. With identification and preliminary analysis of
+themes occurring throughout the research, the researcher utilized an iterative process.
+Throughout the process, the researcher used coding to analyze data. Coding is “the
+process of labeling and organizing your qualitative data to identify different themes and the
+relationships between them” (Medelyan, n.d. para. 5). The researcher identified and organized
+common words, phrases, and topics from participant transcripts to capture themes within the
+data; an Excel spreadsheet was utilized. The approach to this process was a hierarchical structure
+similar to an organizational flow chart, with the largest concepts at the top and the supporting
+positive and negative inputs cascading down. For example, a large concept was a focus on the
+reasons why students take a gap year. Within this broader category, parental influences were
+examined and, subsequently, the impact of parental education and information about the gap year
+on the gap year decision. Deductive reasoning was used to establish connections and
+commonalities between data points. Deductive reasoning “means you start with a predefined set
+of codes, then assign those codes to the new qualitative data” (Medelyan, n.d., para. 25). In this
+DEMOCRATIZING THE GAP YEAR OPTION 56
+instance, the researcher started with specific concepts about the gap year in mind and assigned
+aspects of participant feedback accordingly.
+Additionally, while the researcher utilized a formal member checking process when data
+transcription was finalized, some member checking occurred informally throughout the
+interviews to ensure information was being fully and correctly understood by the researcher. For
+example, in several instances, the researcher paraphrased back to the interviewee what had just
+been communicated. From a more formal position, the researcher reviewed the interviews and
+transcripts of participants and used Excel to analyze participant responses according to common
+themes. This information was grouped and compared against existing research in order to
+identify patterns that supported or contrasted the research or introduced new concepts.
+Herr and Anderson (2015) noted that, while narrative writing about local practices is
+useful and possibly even transferable, action research projects of this nature should also
+demonstrate how this research fits into a more meta view and contributes to the broader research
+on the topic. In the instance of this study, the researcher sought to transfer findings at this fouryear institution to a community college setting. That made this broader perspective even more
+critical, as the setting at hand was not the ultimate audience of this research.
+Chapter 3 Summary
+Chapter 3 explored the research methodology and methods used to answer the research
+question by reviewing: 1) the definitions, advantages/disadvantages, and justification of use for
+the qualitative methodology, action research, and a case study research approach, as well as the
+research context and setting, 2) the participant recruitment and selection process, specifically
+examining participants, recruitment and selection, and researcher positionality, and 3) research
+DEMOCRATIZING THE GAP YEAR OPTION 57
+methods, specifically examining data collection and analysis. Chapter 4 reports and discusses the
+study’s findings/results.
+DEMOCRATIZING THE GAP YEAR OPTION
+CHAPTER 4
+FINDINGS AND DISCUSSION
+Chapter 4 Introduction
+Chapter 4 explores the findings/results of two semi-structured qualitative interviews
+conducted during the fall of 2023 with each of the four study participants. The interviews
+explored individual perceptions and attitudes of the participants regarding their personal gap year
+experience.
+The guiding research question of this study was: How could a formal approach to the gap
+year option influence students’ perceptions and attitudes about the gap year as a viable option
+between high school and community college?
+To aid in answering the research question, the following three sub-questions were
+examined:
+1. How are students’ perceptions and attitudes influenced by educating students and family
+members on the gap year option (including its potential advantages and disadvantages)?
+2. How are students’ perceptions and attitudes influenced when the gap year choice includes
+a structured path aimed at better preparing students for educational and career endeavors?
+3. How are students’ perceptions and attitudes influenced when keeping them on task to
+ultimately enroll in college is a component of the gap year?
+Findings
+Anthony
+Adopted from China at the age of two, Anthony grew up in a small town on the west
+coast of the United States with three older sisters, biological to his parents, and one younger
+sister who was also adopted from China. Pushed by his parents to do well in school, Anthony
+DEMOCRATIZING THE GAP YEAR OPTION 59
+was his high school valedictorian but admits he likely would not have had that drive had it not
+been for his parents.
+Anthony described a somewhat difficult high school experience which he noted he did
+not enjoy. “It was pretty tough,” he recalled. While he wasn’t anti-social, per se, he didn’t have a
+lot of close friends in his medium-sized high school and floated between different groups. He
+reported, “I made some decent friends,” but “I didn’t hang out with people much outside of high
+school.” Anthony described himself as “extremely overly judgmental” and someone who made
+things a bigger deal than they were when he didn’t agree. Having been adopted, he always felt
+that the people who were supposed to have cared for him instead abandoned him. Thus, he had
+rather high expectations of relationships.
+He graduated high school in 2021 after having been remote for two semesters and then
+hybrid in his final semester due to the COVID-19 pandemic. During the summer after he
+graduated high school, his parents first floated the idea of Anthony taking a gap year before
+starting college. It was actually his sister, a graduate of Yardley College, who made her parents
+aware of Yardley’s Guardian Gap Year program. Remarking on why he took a gap year and
+what he was trying to accomplish, Anthony placed that decision squarely on his parents: “I
+wanted to go to college right away, but they didn’t think I was quite prepared for that.” His
+parents viewed the program as a way he could learn and grow while also strengthening his
+Christian faith. Anthony speculated that the program’s affiliation with Yardley College may have
+made it seem more credible to his parents. Admittedly, his sister did pique his interest a bit with
+the camp angle of the gap year program, but he really wanted to do something his family had
+never done before, which is why he initially did not want to attend Yardley College.
+DEMOCRATIZING THE GAP YEAR OPTION 60
+While Anthony had heard of people taking a gap year, he was generally pessimistic about
+the idea. He viewed people who take gap years as lazy, and he believed he was ready to start
+college. “I didn’t really see the point” of “spending money to go, like, not do college,” he said. In
+general, his initial impressions of a gap year were not good, and he believed it would merely be a
+setback to his college education. Since he was not a fan of the gap year in general, he did not
+entertain an unstructured gap year. To him, if this structured program were a step backwards, an
+unstructured program would have been even worse. He reluctantly gave in to his parents’ wishes,
+noting that he didn’t have the financial means to do otherwise.
+In the fall of 2021, Anthony embarked on an experience that was typical of Yardley’s
+Guardian Gap Year but atypical in many ways of gap years in general. Like Guardians who came
+before him and now after him, Anthony’s gap year was rooted in Christianity and personal and
+spiritual growth by way of living, eating, working, and worshipping with a small cohort in the
+middle of the woods of a small northern town. His group of 25 experienced all the hallmarks of
+the program from a six-week tech fast, to backpacking trips and communal dinners, with each
+experience rooted in the goal of spiritual growth.
+Anthony shared that there wasn’t much outreach from Yardley College during his
+program, and he could have benefited from more communication on things like majors, classes,
+college clubs, and activities. He was provided with a Yardley email address and got to take an
+overnight trip to campus. Additionally, Yardley professors would come up for some classes, but
+there was not a stated assumption that participants would be attending Yardley College
+Finding 1: Family’s Key Role
+Family played a key role in Anthony’s decision to take a gap year. To say that Anthony’s
+parents were a factor in his taking a gap year would be an understatement. As Anthony said, “It
+DEMOCRATIZING THE GAP YEAR OPTION 61
+was mostly my parents’ decision.” They clearly believed something was lacking in Anthony, and
+having had a positive experience with Yardley College by way of their daughter, they were
+confident that this program could help shape Anthony as a person. Speaking on his sister’s
+experience, Anthony affirmed, “That was probably a big factor for them.” While Anthony’s
+sister helped to soften him a bit on the idea during the period when he was having Zoom
+meetings about the program and interacting with its leaders and potential participants, Anthony
+remained reluctant until the end. It is safe to speculate that, had it not been for his parents,
+Anthony would have gone straight from high school to college without interruption.
+Finding 2: Self-Development Over Academics and Career
+More so than preparing for his education and career endeavors, self-development was the
+driving factor in Anthony’s decision to take a gap year. Anthony explained that his parents didn’t
+think he was quite ready for college. Looking back, Anthony described himself as “very
+immature” in high school and described a post-gap year Anthony as a more emotionally mature,
+happier person who is more appreciative and content with life. Whereas the old Anthony came
+off as perhaps a bit combative to those he didn’t agree with, the new Anthony is more openminded and appears to now have the tools to seek information and resolve conflict in a healthy
+way.
+Though selecting a major and career path did not directly drive Anthony in choosing the
+gap year path, Anthony now recognizes the connection between self-development and his
+ultimate career success, speculating that being more mature in how he approaches relationships
+will likely benefit him in his future career workspace, as will critical thinking skills.
+Finding 3: Gap Year Impact
+DEMOCRATIZING THE GAP YEAR OPTION 62
+The gap year was critical in preparing Anthony for college. In speaking with Anthony, it
+is clear that he had a lot of emotional baggage after graduating high school, and he speculated
+how not addressing that would have played out. Without the gap year, Anthony explained, “I
+think I would have been a big mess.”
+Pre-gap year, Anthony was guarded, and perhaps even a bit angry, over lingering feelings
+of abandonment related to his having been placed for adoption; this had altered his understanding
+of “healthy relationships.” He explained that the gap year showed him how to experience intense
+friendship for the first time and taught him about having grace and forgiveness. As Anthony
+explained his transformation, it was as if an invisible weight was being lifted off him.
+Based on Anthony’s intelligence, one could argue that he would have been successful in
+college even without this experience. Anthony himself, though, believes that had he gone
+directly to college, it would have been a “horrible experience” and he would have “hated it.”
+While Anthony had the intellectual ability to do well in college, it may be worthwhile to consider
+some of the ancillary objectives of college, such as gaining independence, forming lasting
+relationships, and graduating workforce ready, when one seeks to determine collegiate success.
+When Anthony described his journey of personal growth and newly discovered openness to new
+things, he considered those factors—which are indeed part of the college experience—and, in
+this respect, the gap year may have put him ahead of the pack.
+Finding 4: Faith
+Faith and spiritual development were major components of Anthony’s gap year
+experience. Arguably, there are many aspects of the Guardian Gap Year that fall outside the
+boundaries of a typical gap year. A 24-hour food fast in which students sit in solitude in the
+woods in order to reflect is one such unique aspect to this program. However, many of those
+DEMOCRATIZING THE GAP YEAR OPTION 63
+components are rooted in the objective of a spiritual evolution, and Anthony’s experience was no
+exception. Reflecting on this, Anthony concluded that the “intensity and intentionality” of
+various components of the program was “helpful to me and my faith.”
+Finding 5: Limited Outreach by College
+Outreach by Yardley College was somewhat limited during the gap year. Since Anthony
+was initially opposed to taking a gap year, the program’s affiliation with a college and some forcredit courses was appealing to Anthony. However, it seemed the outreach by Yardley College
+during the program was somewhat lacking in what may have benefited college-bound
+participants. Anthony suggested that there could have been more communications about things
+like majors, classes, and activities to get involved with at Yardley College.
+Cecelia
+Raised in a close military family, Cecelia moved around a lot as a child and was
+homeschooled by her mother for most of her education. Her father’s military career took them to
+many places, including overseas for a bit, but the family has been living in a small town about an
+hour from a city on the southeast coast of the United States for nearly eight years. Cecelia is the
+oldest of four siblings, with two younger sisters and one brother. “The most consistent people in
+my life are the ones that moved with me,” she said. Active in high school, Cecelia had no
+problems making friends and noted she had “lots of different social outlets” and was heavily
+involved in orchestra. During her junior and senior years of high school, she dual-enrolled in a
+local community college. When the COVID-19 pandemic hit during the spring of her junior year,
+her family was more isolated than many because of her father’s job.
+Cecelia was rather unsure about her next steps as she graduated high school. She had
+little exposure to career paths and wasn’t even sure whether she wanted to go to college. She felt
+DEMOCRATIZING THE GAP YEAR OPTION 64
+she needed more time to make some of those big decisions, and she needed a break from the
+academic rigor she had experienced in high school. Her father was a Yardley alum, and she felt
+Yardley was a comfortable option. So, she applied to school there and nowhere else, still a little
+unsure of her future plans. Cecelia was not familiar with structured gap years, but during the
+Yardley application process, she clicked a button and learned of the Guardian Gap Year
+Program. Intrigued by the idea, Cecelia took the lead in doing her own research. “I think the first
+year you’re away from home is very influential to the kind of person you’re going to choose to
+be,” she asserted. Spirituality was an important aspect of her gap year. She was most excited
+about the equestrian track of the program, as she loves horses.
+Though her parents didn’t know a lot about gap years and Cecelia was the one who
+initially broached the idea, her family was supportive of her throughout the process, even sitting
+in on several Zoom meetings about the program. They understood Cecelia’s anxiety about
+jumping right into college without a real plan, and the family collectively agreed the gap year
+would allow her to learn more about herself and what she wanted to pursue. Cecelia noted that
+she had friends who had done gap years not specific to this program who had a “great, easy,
+restful year experience” which appealed to her.
+Though she was set on eventually going to college, for Cecelia, the gap year was more
+about personal development than academics, though the program having an academic affiliation
+was important to her. While she would have entertained a self-structured gap year, her parents
+likely would not have financially supported something unstructured.
+In the fall of 2021, Cecelia began a “lighthearted” and somewhat “adventurous” semester
+typical of the communal style of the Guardian Gap Year Program, complete with wilderness
+trips, working with horses in the barn, and the customary six week tech fast. From there, though,
+DEMOCRATIZING THE GAP YEAR OPTION 65
+the social dynamics of the group began to progressively deteriorate, and, in Cecelia’s opinion,
+there were some unhealthy relationship dynamics which became “progressively worse.” With
+little free time and few opportunities to connect with family, Cecelia struggled with the 24/7
+nature of the program and desired personal space to be able to step away and regroup when
+things got difficult. Cecelia was also hoping for a gap year where she could put academics to the
+side and take a break, which is not the set-up of Guardian. There were many things, though, that
+she really enjoyed about the experience, including her two-week excursion to Costa Rica to work
+with children at a Boys & Girls Club to help them make friends and learn about Jesus. In her
+barn time with the horses, she learned about “service as an act of worship.”
+For Cecelia, outreach from Yardley College wasn’t really important to her during the gap
+year because an academic connection really wasn’t a driving factor in her gap year decision.
+During Guardian, Cecelia received a letter of encouragement from a current Yardley student, and
+Yardley staff was available to her. However, attending Yardley was “really not pushed” other
+than when the cohort spent a night at Yardley College to show participants Yardley was an
+option. Cecelia thinks optional check-ins from Yardley during the gap year would have been
+beneficial, as would having current students or professors connect throughout the gap year.
+Cecelia expressed mixed feelings about her gap year experience. While her time with
+horses inspired her love of working and helped her choose her major in psychology, her gap year
+was very difficult due to some relationship struggles amongst people in the program and “ended
+on quite a bad note.” She described a physically and mentally exhausting year that ultimately
+helped her grow as a person, but she believes a different type of gap year would have been a
+better choice for her. Traveling with a small group of people where she had a greater ability to
+DEMOCRATIZING THE GAP YEAR OPTION 66
+choose what she was doing is more in line with her idea of a gap year, and she would likely lean
+against the Guardian Gap Year Program if she had to do things over.
+Finding 1: Family’s Key Role
+Family played a key role in Cecilia’s decision to take a gap year. While Cecelia first
+introduced the gap year to her parents, her father’s affiliation with Yardley College is what led
+her to apply there and eventually to the Guardian Gap Year Program. Her parents were generally
+supportive of her decision to take a gap year but likely would not have financially supported
+something that was self-structured. “I think they could empathize with my anxiety about starting
+school,” she explained, and said, “All of us kind of agreed” that the gap year option was the way
+to go. Her father’s experience as a Yardley College alum really helped her parents get
+comfortable with the idea of the Guardian Gap Year Program. Additionally, her parents
+“definitely did a lot of research” on the program before she made her decision.
+Finding 2: Faith
+Faith was an important factor in Cecelia deciding to do this particular gap year program.
+“I wanted a place that would develop me spiritually,” she said. When it came to her faith, Cecelia
+wanted to use the gap year as a means to self-discovery, independent of her parents, explaining
+that self-development was the driving factor. She wanted to “know what [her] faith was separate
+from theirs.” Throughout her gap year, faith and spirituality were never far removed from her
+activities. For example, she spoke of a missionary trip to Costa Rica where she worked with a
+Boys and Girls Club in a poor neighborhood where children could be fed and learn about Jesus.
+Finding 3: Self-Development Over Academics and Career
+Self-development, including spiritual development, was the driving factor for Cecilia in
+deciding to take a gap year. It was believed that career identification would grow out of this
+DEMOCRATIZING THE GAP YEAR OPTION 67
+development: “The academic preparation part was not as important to me because I wasn’t sure
+whether I would continue on to a university or not.” Cecelia wavered as to whether college was
+in her future or not, though she did apply and was accepted to Yardley College. She was certain,
+though, that her first year after high school would be important in shaping the kind of person she
+would be, and she was particularly interested in exploring her faith independent of her parents.
+Finding 4: Early Communications
+Cecelia and her family would have benefited from a more realistic preview of the
+Guardian Gap Year Program. Hoping for a break from the rigors of her high school academics,
+Cecelia expressed that she wished she had better understood the intensity of the program prior to
+making the decision to enroll, suggesting that Guardian participants might have helped with
+those communications. Both she and her family seemed unprepared for the non-stop nature of
+the program set-up and the difficulty in communicating with each other during the year. Cecilia
+explained, “It is not a year off,” and “certainly not a vacation.” Cecelia believes her parents
+would have been more hesitant for her to do the program had they better understood the intensity
+of the program: “I think if they had a better depiction of how structured it was, or how busy I
+would be, they probably would have been more hesitant.” She noted that rest is a “great thing”
+but was not part of her gap year experience.
+Scottie
+Born on the East Coast but primarily raised in a Midwest college town, Scottie is an
+identical twin whose sibling did the Yardley Guardian Gap Year along with him. His older
+brother and sister-in-law are also Yardley College alumni. With a Yardley alum father who is a
+college theology and Christianity professor and a mother who recently reentered the workforce
+as an employee of Yardley College, Scottie had several unique connections to the sponsoring
+DEMOCRATIZING THE GAP YEAR OPTION 68
+institution. His father had roomed with the Guardian Gap Year Program Director in college, and
+the tight-knit family periodically visited Yardley College for weekends, reunions, and the like.
+Scottie described a very active high school experience, having excelled in sports, played
+in orchestra, and kept a small circle of friends. The public school he attended was similar in size
+to Yardley College and is atypical of Yardley students. He noted that many Yardley students
+assume public schools are filled with “sex and drugs and stuff like that,” but that was not his
+personal experience. Religion was a major influence in his high school life, and he described
+how he tried to evangelize in school but was ultimately prevented from doing so because it was a
+public school.
+Scottie graduated high school in 2020, but his final semester was fully remote due to the
+COVID-19 pandemic. Though the educational pivot did disrupt some ceremonial aspects of his
+senior year, he was actually pretty happy about the change and wasn’t as socially or emotionally
+impacted by the lockdown as were some others. Having a twin meant he was never lonely, and
+being a musician meant he had something to focus on while at home. He had enjoyed high
+school but was ready to move on. Scottie’s parents first proposed the idea of doing the Guardian
+program. Both Scottie and his brother, who grew up not terribly far from Yardley, as children
+had attended the same camp where the Guardian program is located. Scottie wasn’t initially very
+interested in doing a gap year because he was very academically focused and thought taking time
+away from school would be a roadblock and that he would lose stamina for things like reading
+and writing papers. His parents lobbied hard for both Scottie and his brother to take a gap year,
+noting that the pandemic restrictions would hinder a typical freshman year experience.
+While Scottie had some familiarity with taking a gap year because he had spent a period
+of his childhood living in Europe where the gap year is a more common phenomenon, he was
+DEMOCRATIZING THE GAP YEAR OPTION 69
+generally skeptical about the idea for himself. He was eager to dive into the religious studies that
+Yardley College would allow him to explore, but his parents were very influenced by Guardian’s
+connection to Yardley and felt that it would allow Scottie to go into the Yardley experience with
+a community already established.
+Having already been accepted to Yardley College, Scottie did not entertain an
+unstructured gap year. To him, the structured program that would transition smoothly into his
+college experience was very important, and having his “foot in the door” academically was
+appealing. However, a gap year that produced a career path wasn’t all that important to him.
+Scottie recounted his father often telling him, “You have the privilege of going to college, not
+necessarily to get a job but like to learn.” He noted that, because his parents supported him
+financially, he would not have done something that they didn’t support, but ultimately, the final
+decision was his.
+In the fall of 2020, as the world was in the throes of the COVID-19 pandemic and a
+divisive presidential election, Scottie began his gap year experience in a cohort of 25 participants
+who were largely shielded from the day-to-day news. Like other Yardley Guardian Gap Year
+participants, Scottie’s year followed the blueprint of personal and spiritual growth through a
+structured world of living, eating, working, and worshipping together. His experience with his
+cohort of 25 in a camp-like setting was during the height of COVID-19 concerns but still adhered
+to the basic structure of the program from a six-week tech fast to camping trips and dorm-style
+living, with Christian values guiding the process.
+Scottie described a fair number of interactions with Yardley College during his program,
+such as having a Yardley email address, conversations with admissions counselors at Yardley on
+things like core scheduling, and Yardley professors teaching some classes. Additional outreach
+DEMOCRATIZING THE GAP YEAR OPTION 70
+such as “some sort of crash course in the day of a life of” a Yardley student would have been
+beneficial to him.
+Finding 1: Family’s Key Role
+Family played a key role in Scottie’s decision to take a gap year. Discussing his parents’
+wishes for both he and his brother to participate in the gap year program, Scottie quipped, “They
+wanted us to do it more than we initially wanted to do it.” Scottie was very set on going to
+college after he graduated high school. Since Scottie’s father had a close relationship with the
+head of Yardley’s gap year program, and COVID-19 restrictions were certain to impact his
+freshman year if he went straight to college, his family really tried to convince both Scottie and
+his brother that a gap year was the way to go.
+Finding 2: Faith
+Faith and spiritual development were a major component of Scottie’s life in general and,
+thus, closely intertwined with his gap year experience. Heading into the gap year, spiritual
+growth and formation were at the forefront of Scottie’s life as he contemplated his future. “I was
+very much set on biblical and theological studies,” he explained. At the time he was making this
+decision, Scottie was trying to decide about whether to enter the priesthood. While he has since
+decided against the priesthood, he remains committed to faith but approaches people a bit
+differently. He explained, “I had to learn to kind of deconstruct the language by which I reveal
+my beliefs and opinions about things, and I think that actually made me care less about my
+beliefs and opinions and be a lot more open-minded.” He noted that he used to try to show other
+students that he knew more about the subject of theology than they did, and he now takes a
+“more gracious” approach.
+Finding 3: Gap Year Impact
+DEMOCRATIZING THE GAP YEAR OPTION 71
+The gap year gave Scottie skills necessary for college and adulthood. Scottie’s gap year
+transformation might be characterized by the fact that he didn’t know what he didn’t know about
+himself. He thought he was emotionally prepared for the next step in his life, and, like many
+teenagers, he thought he had all the answers. He described a very idealized view of what his
+educational path would look like as he was making the decision to embrace a gap year.
+Prior to taking the gap year, Scottie described himself as an “over-reactive contrarian”
+who often fought people on his faith and got caught up in very conservative leanings. He was
+emotionally closed off to people and didn’t want to overshare or appear to be too vulnerable.
+During the gap year, he learned to be more gracious, and he credits his close relationship with
+two females in the program for opening up another side of him. He noted that the gap year
+“softened [him]” and “let [him] interact with people who thought a lot differently than [him].”
+He said, the gap year “provided me with some of the coolest experiences I’ve ever had.”
+Prior to some of the very intense activities of the program, such as spending 24 hours
+solo in a torrential downpour, Scottie seemed to believe his world was everyone’s reality.
+Looking back, he described himself as an “upper middle class White dude” who took certain
+comforts and material possessions for granted. The gap year changed all that, and experiences
+like the 24-hour fast alone in the woods in a storm helped him develop “a certain level of
+grittiness” and better prepared him for a “plethora of situations.” By working with his hands,
+taking time to reflect, and keeping a journal, Scottie now has a very mature and even-keeled
+demeanor that was evident in his interactions with the researcher.
+The experience also gave him some more practical skills, like learning to write and
+communicate with more brevity, getting a sense of a college class load, and learning to receive
+feedback. He learned how to get his point across.
+DEMOCRATIZING THE GAP YEAR OPTION 72
+Finding 4: School Affiliation
+The gap year affiliation with his school was important to Scottie. Since he was very
+academically focused, keeping his foot in the door academically during the gap year was
+important to him. He noted that the affiliation with his college was “pretty critical” for his
+decision, and he doesn’t believe he would have entertained a gap year that did not include that
+component. Having already been accepted to Yardley College at the time he made the decision to
+do a gap year, it seemed as though it was an easier sell from his parents because he would still be
+earning some credits toward eventually entering Yardley College.
+Jim
+Raised in Indonesia, Jim had a very multi-cultural upbringing. His American mother and
+Australian father, who met in seminary in the United States, are both educational consultants
+overseas. He has an older brother who also moved to the United States to attend Yardley
+College.
+With a life and family deeply influenced by faith, Jim attended a small international
+Christian school from third grade through high school where he described having had “a pretty
+good social sphere.” The school, which houses pre-K through 12th grade, had just about 250
+students, with only 10 in his graduating class. Jim described a very active high school experience
+filled with involvement in sports, drama, and student government. He was social in high school
+and described himself as a “pretty good student” who ranked toward the top of his class in most
+subjects.
+He graduated high school in 2019, prior to the onset of the COVID-19 pandemic, and
+began his gap year in the fall of 2019. His parents first presented the idea of a gap year as an
+option. Having watched their older son struggle with the transition to attending college in a new
+DEMOCRATIZING THE GAP YEAR OPTION 73
+country, they believed that taking a gap year would help with Jim’s cultural adjustments and
+allow him to “have an experience that would actually be beneficial to [him] for later years.”
+They were strong believers in a good education and thought Jim could benefit from having seen
+the struggles of his brother.
+While Jim believes he had likely heard of people taking a gap year, he never seriously
+contemplated a gap year until his parents told him they had been doing research on the idea.
+Structured gap years are not common in Indonesia. His parents had been researching gap years in
+general and, when it became clear that Jim wanted to go to Yardley College, the Guardian Gap
+Year Program just made sense. He initially wasn’t sure about the idea of a gap year, but he “took
+hold of the idea pretty quickly” after some additional research to find out more. While they
+wanted the decision to be his own, Jim tends to follow his parents’ advice and, since some
+trusted family and friends reassured them that the gap year was a legitimate option, he decided to
+go that route.
+In the fall of 2019, Jim began his gap year experience in a small cohort of 12 and, with
+the exception of a few activities that were cut short in the spring of 2020 due to the pandemic,
+experienced a typical Guardian Gap Year. He spent six weeks doing construction work, six
+weeks in equestrian work, and was beginning his six weeks of office work when the onset of
+COVID-19 lockdowns led to rushed farewells and a shortened spring session.
+As was typical of Yardley’s Guardian Gap Year, Jim’s year encompassed living, eating,
+working, and worshipping with his cohort, while also embracing some bigger adventures,
+including a two-week missionary trip to Costa Rica. Jim explained his belief that people get out
+of the program what they put into it, and he wanted to get a lot out of it.
+DEMOCRATIZING THE GAP YEAR OPTION 74
+Jim, who was accepted to Yardley College and deferred, shared that the gap year faculty
+did communicate important college dates and tasks that needed to be done but were not overly
+pushy in promoting Yardley College, which was somewhat surprising to him though not a
+problem. Jim expressed that a bit more communication about what the Yardley experience would
+look like and perhaps some integration pointers and tutorials on how to register for class would
+have been helpful.
+While he acknowledged that there were challenges that may have made the experience a
+bit less, overall, the gap year was a very important time in his life to “learn more about who I am
+and my personal and spiritual callings.” He also described it as very useful in helping him adapt
+to life in the United States and in “preparing for a new season of life that would look very
+different.”
+Finding 1: Family’s Key Role
+Family played a key role in Jim’s decision to take a gap year. Jim’s parents watched their
+older son struggle with the transition of moving to the United States to directly attend Yardley
+College and believed a gap year would be a good way to aid Jim in that adjustment. Jim shared,
+“They definitely were pushing me to learn from the experience of my older brother who had
+struggled with some cultural adjustment.” While Jim quickly warmed up to the idea, he
+acknowledged that he typically follows the advice of his parents. It is unlikely Jim would have
+pursued a gap year had it not been for the encouragement of his family: “They didn’t want [Jim]
+to struggle with” what his brother had gone through and “definitely wanted something that would
+. . . further [his] development as a person.” The process of researching the gap year in general, as
+well as this specific program, was really a family endeavor, as Jim was “looking at this alongside
+[his] parents” and they were “researching together.”
+DEMOCRATIZING THE GAP YEAR OPTION 75
+Finding 2: Self-Development Over Academics and Career
+More so than preparing for his education and career endeavors, self-development was the
+driving factor in Jim’s decision to take a gap year. Jim embarked on a gap year with the hopes
+that there would be a lot of self-reflection so that he could figure out his path in life and the kind
+of person he wanted to be. Academics and his eventual career path really took a backseat, as he
+sought to take a breather from his intense high school academic pressures and “reorient” and
+“figure out more about [him]self.” He recalled that he was “more interested in the formation side
+of things above the academical [sic] side.”
+For his parents, learning how to live in a new country and have an easier time going into
+college was really the main reason they pushed their son toward a gap year. While Jim learned
+skills that would ultimately be helpful in his education and career, such as time management and
+responsibility, the gap year was really more about his development as a person.
+Finding 3: Faith
+Faith and spiritual development were major components of Jim’s gap year experience. A
+key reason Jim decided on taking a gap year was not only to determine who he wanted to be as a
+person, but also “within that [year, to] look at vocation from a Christian perspective.” While
+some aspects of the Guardian Gap Year may seem unconventional, and the majority of time was
+not spent on anything academic, faith and spiritual development is at the heart of many of the
+program’s activities. As Jim contemplates his long-term plans, he plans to go wherever "God is
+calling [him] to go."
+Discussion
+Common Theme 1: Family’s Key Role
+Synthesis of Findings
+DEMOCRATIZING THE GAP YEAR OPTION 76
+To varying degrees, family played a key role in the gap year decision. In the most
+extreme case, Anthony initially saw no upside at all in the gap year option. He was adamant that
+taking a gap year would set back his education and, without his parents pushing, it is clear that a
+gap year would not have been in his future. He said, “My parents were familiar with the
+advantages, and I was more familiar with the disadvantages.” Like Anthony, Scottie also was
+initially against taking a gap year and he, too, felt he was emotionally ready to go to college.
+Scottie’s parents also worked to persuade both him and his twin brother that the gap year was the
+right decision, particularly in light of the impact COVID-19 restrictions would have on their
+college experience. While it didn’t take Jim quite as long to warm up to the idea, it was also his
+parents who initially introduced the gap year to him. Jim acknowledged that he generally
+“follows their advice most of the time,” and this was no exception. Cecelia was the only
+participant who actually brought the gap year forward to her parents, but even in her situation,
+her parents were integral in the process.
+Parents acted as important partners to their children in the gap year journey. During the
+initial research phase, the parents of all participants were active in learning about the pros and
+cons of gap years and the Guardian Gap Year Program, in particular. They did online research,
+sat in on Zoom calls, talked to administrators, and generally acted in a consultative capacity to
+their children on this issue.
+Connections to the Literature
+While it may initially seem unusual that parents in this study were so integral in the
+decision to take a gap year, research suggests that this is not atypical of how many aspects of the
+college selection process play out. A study on community college enrollment, for example, found
+DEMOCRATIZING THE GAP YEAR OPTION 77
+that three out of five parents reported that the idea for their child to attend community college
+was first introduced by them (Bers & Galowich, 2002).
+In the early 2000’s, as online platforms became more ubiquitous and tuition rates
+continued to soar, even colleges began to acknowledge the critical role of parents in the college
+decision process and, in turn, began to do more purposeful outreach to involve them. By 2005,
+nearly half of all colleges had online resources targeted at parents, with some even offering
+college tours for parents (Stein, 2006). Today, as Zoom and other online tools have made
+accessibility and research easier than ever, parental involvement continues to expand. Therefore,
+when examining the role that these parents played in their child’s decision to take a gap year, it is
+not surprising that they acted in close collaboration with their children.
+Involvement of these parents was not a sudden onset but rather one more step in their
+children’s educational journey. It was clear in speaking with the participants that their parents
+had long been involved in their academic success, and their decision to take a gap year was no
+exception. Research suggests that students’ self-determination about college readiness is
+positively impacted when parents are involved in college planning, and students often point to
+their parents as the top motivational factor in the college decision-making process (Mitchall &
+Jaeger, 2018).
+Common Theme 2: Self-Development Over Academics and Career
+Synthesis of Findings
+For each of the participants, self-development was the key driving factor in taking a gap
+year and carried more weight than identifying a major or career path. Anthony and Scottie both
+recognized in hindsight that they lacked a certain level of maturity heading into college, and their
+parents saw the gap year as a way to really develop them as people. Jim’s situation was quite
+DEMOCRATIZING THE GAP YEAR OPTION 78
+unique, as he was moving to a new country. Nonetheless, his parents also saw the gap year as a
+way for him to grow as a person and acclimate himself to life in the United States by taking a
+year to develop some additional life skills. Both Jim and Claire viewed the gap year as a way to
+determine the kind of person they would be in the next phase of life.
+One notable item related to personal development is the role that faith and spirituality
+played in this particular program. Each of the study participants comes from a religious family
+and, when the participants spoke of personal development, it was almost synonymous with
+spiritual development. Every participant discussed in detail their faith and its importance to them
+with discussing their experiences in relation to the gap year.
+Connections to the Literature
+The gap year is often framed as a unique opportunity to do something worthwhile and to
+“engage in individualized, reflexive, identity work” (Snee, 2014, p. 843).
+For these participants, identity work often involved spiritual exploration. It turns out that
+exploring one’s faith is a fairly common reason for taking a gap year, and many gap year
+programs exist that are specifically dedicated to promoting Christian values. According to the
+website for CMTS Ministries (n.d.), a Christian gap year is a way for participants to identify
+what it is that God wants them to do with their life. The participants in this study echoed very
+similar sentiments, with Cecelia, for example, stating that she was looking for a place where she
+could determine what her faith was outside of her parents. Likewise, Jim planned to go wherever
+God was calling him and indicated the gap year was a vehicle by which to do that.
+While some parents may have been concerned about how a gap year would impact
+academic and career motivations, research shows that completing a gap year is actually a
+positive predictor of academic motivation (Martin, 2010). The parents of these participants
+DEMOCRATIZING THE GAP YEAR OPTION 79
+seemed to buy into that notion, or at least were willing to take that gamble in exchange for the
+expected personal development and maturity of their children.
+Common Theme 3: School Affiliation
+Synthesis of Findings
+In exploring the role of outreach and education with students and parents throughout the
+gap year process, one unusual phenomenon was uncovered. Students and families were already
+very familiar with Yardley College and, while they may not have been educated on the Guardian
+Gap Year Program in particular, their strong positive ties to Yardley College were apparent.
+In addition to each of these students having had some member of their family already
+attend Yardley College, there were other very personal connections. Scottie’s father, for instance,
+was the roommate of the Guardian Gap Year Program Director in college, and the family
+periodically visited Yardley College for weekends, reunions, and the like during Scottie’s
+childhood. While these participants didn’t cite affiliation with Yardley College as the main
+reason for choosing this particular gap year program, they acknowledge that the relationship
+likely gave their parents added ease with this option.
+Connections to the Literature
+While the students themselves weren’t overly swayed by the Guardian Gap Year
+Program’s affiliation with Yardley College, they did acknowledge that it may have been more
+influential in shaping their parents’ perceptions. This is understandable because, for many
+college admissions counselors, the credibility of a gap year can vary widely from program to
+program, and it is important to know whether the college a student is ultimately pursuing
+supports the gap year (Claybourn, 2022). Since these students were all at least loosely planning
+DEMOCRATIZING THE GAP YEAR OPTION 80
+to attend Yardley College, it is understandable that their parents would feel a sense of ease that
+their chosen gap year program was affiliated with the school.
+Common Theme 4: Outreach
+Synthesis of Findings
+A common description from students about the communications from Yardley College
+throughout the Guardian program was that Yardley was neither pushed to students nor was there
+an assumption that participants would be ultimately enrolling in Yardley College. In fact,
+participants reported that most Guardian participants do not ultimately go to Yardley.
+Nonetheless, students did gain some exposure to Yardley during the gap year. This included
+being provided with a Yardley email address, taking an overnight trip to the Yardley campus,
+and meeting professors who came to the Guardian program to guest lecture or teach.
+Speaking as students who did ultimately enroll in Yardley College, several suggestions
+were offered about how to improve communications throughout the gap year program. They
+included optional check-ins from the college, information about majors, clubs, activities, etc. at
+Yardley, a day-in-the-life of a typical student, and helpful hints on course enrollment.
+Connections to the Literature
+When exploring the ongoing outreach by Yardley College during the gap year, even
+though the parents already had strong ties to the school, it is important to recognize the desire by
+parents to be continually educated on issues impacting their children’s education. Particularly
+when focusing on Gen Z students, parents are not only concerned about the value of college but
+also want to be educated in a variety of areas, such as their child’s mental health and safety,
+diversity on campus, and career and professional considerations (Brock, 2022). With this in
+mind, more robust communication throughout the gap year about next steps could have been
+DEMOCRATIZING THE GAP YEAR OPTION 81
+beneficial to both the students and their families. Parental involvement, coupled with a
+partnership with the school, has been shown to create a mindset amongst students to focus on
+attaining college-specific milestones (George Mwangi et al., 2019). Further, the process of offboarding from a gap year is one that parents need to fully understand. Harvard University, which
+is recognized as an institution that strongly advocates for students to take a gap year, has a robust
+alumni network—the Harvard Gap Year Society—dedicated to transitioning and supporting gap
+year students (Knight, 2018).
+Research Question: How could a formal approach to the gap year option influence students’
+perceptions and attitudes about the gap year as a viable option between high school and
+community college? To aid in answering the research question, the following three sub-questions
+were examined:
+1. How are students’ perceptions and attitudes influenced by educating students and family
+members on the gap year option (including its potential advantages and disadvantages)?
+2. How are students’ perceptions and attitudes influenced when the gap year choice includes
+a structured path aimed at better preparing students for educational and career endeavors?
+3. How are students’ perceptions and attitudes influenced when keeping them on task to
+ultimately enroll in college is a component of the gap year?
+Synthesis of Common Themes
+The findings offer various insights into how a formal approach to the gap year option
+could influence students’ perceptions and attitudes about the gap year as a viable option between
+high school and community college. First, the study highlights the critical nature of early and
+frequent communications with parents, as they not only play a major role in guiding their
+DEMOCRATIZING THE GAP YEAR OPTION 82
+children’s college plans but also were positively impacted by experiences with the sponsoring
+college of the gap year program.
+Second, understanding the driving force behind why a child and/or their parents may be
+pursuing a gap year can help ensure that communications are tailored appropriately. In this study,
+for example, students and their parents were more interested in the gap year as a means of selfdevelopment as opposed to attempting to identify a major and/or career path. Therefore,
+structured offerings tailored toward personal development—in this case also spiritual
+development—were important in positioning the gap year as a credible and viable option after
+high school.
+Third, while the school’s affiliation with this particular gap year program may not have
+been the deciding factor for students, it likely was an important supporting factor for parents. In
+fact, all of these families had prior positive ties with Yardley College independent of the gap
+year. Therefore, it stands to reason that involvement with the school helped shape parental
+attitudes and perceptions.
+Finally, while the school had some positive interactions with students throughout the gap
+year, the school could have done more in terms of ongoing outreach. If a community college, for
+example, were attempting to develop a structure around supporting gap year students, participant
+feedback could offer some concrete suggestions. In this study, students suggested optional
+check-ins from the college, information about majors, clubs, activities, etc. at Yardley College, a
+day-in-the-life of a typical student, and helpful hints on course enrollment.
+Chapter 4 Summary
+This chapter reported the findings of two semi-structured qualitative interviews
+conducted during the fall of 2023 with each of four study participants. The interviews explored
+DEMOCRATIZING THE GAP YEAR OPTION 83
+the individual perceptions and attitudes of the participants about their personal gap year
+experience. Chapter 5 concludes the study’s final report by discussing implications for practice
+and offering recommendations for future research.
+DEMOCRATIZING THE GAP YEAR OPTION
+CHAPTER 5
+CONCLUSION
+Chapter 5 Introduction
+Research Purpose
+This chapter answers the study’s main research question and three sub-questions,
+explores implications for practice, discusses limitations of the study, offers suggestions for future
+research, and ends with a conclusion which provides the researcher’s final thoughts on the study.
+The purpose of this study was to explore factors that influence students’ perceptions and
+attitudes about the gap year choice so that institution administrators (of UCC and other
+community colleges) can better understand how to structure and present it as a viable educational
+option.
+Research Questions and Answers
+This study explored the following research question: How could a formal approach to the
+gap year option influence students’ perceptions and attitudes about the gap year as a viable
+option between high school and community college?
+To aid in answering the research question, the following three sub-questions were
+examined:
+1. How are students’ perceptions and attitudes influenced by educating students and
+family members on the gap year option (including its potential advantages and
+disadvantages)?
+It was evident throughout this process that the attitudes and perceptions of family
+members—especially parents—concerning the gap year played a key role in shaping student
+perceptions. Interestingly, in the case of three of the four participants, parents initially introduced
+DEMOCRATIZING THE GAP YEAR OPTION 85
+the idea of taking a gap year. Though the fourth participant initiated exploration of a gap year,
+her parents still played a critical role in that decision.
+As the researcher explored the sub-question of how students’ perceptions and attitudes
+were influenced by educating students and family members on the gap year option (including its
+potential advantages and disadvantages), it became increasingly evident that the students and
+parents approached educating themselves about the gap year option as a family pursuit. Whether
+by participating in Zoom calls, conducting research online, or speaking to program
+representatives, the family units were very involved in proactively educating themselves about
+the gap year option. Since the students all displayed close connections to their families, parental
+influence played a pivotal role in shaping the perception of the gap year option to their children,
+even for those students who were initially hesitant about the idea.
+One unexpected dynamic that surfaced during the research was that the parents of all four
+participants had prior positive experiences with Yardley College, whether it was through
+relationships with program administrators, a degree from the school, and/or other children who
+had attended the school. This was significant because the school itself already had a built-in level
+of credibility to these parents. Instead of seeking out information about the sponsoring school’s
+legitimacy, the parents and their children could remain focused specifically on the gap year
+program.
+2. How are students’ perceptions and attitudes impacted when the gap year choice
+includes a structured path aimed at better preparing students for educational and
+career endeavors?
+The biggest surprise in the findings was in exploring how students’ perceptions and
+attitudes were influenced when the gap year choice included a structured path aimed at better
+DEMOCRATIZING THE GAP YEAR OPTION 86
+preparing students for educational and career endeavors. While the experience did, ultimately,
+lend itself toward helping to shape majors and career paths for this group, participants didn’t
+initially place much emphasis on whether the gap year contained a structured path regarding their
+educational and career endeavors. Instead, both students and parents almost entirely homed in on
+the spiritual and personal development side of the program versus the academic and career
+components. Since these students and families prioritized personal growth, maturity, and
+spiritual development of the participants, the structure surrounding the self-actualization aspects
+of the program had the greatest influence on their overall attitudes and perceptions of the gap
+year program.
+3. How does a plan to engage in ongoing outreach to students during the gap year
+affect students’ perceptions and attitudes toward a gap year?
+When analyzing how students’ perceptions and attitudes were influenced when keeping
+them on task to ultimately enroll in college as a component of the gap year, two themes emerged.
+First, many program participants do not ultimately enroll in Yardley College or even any college.
+Therefore, keeping them on track for ultimate enrollment was not nearly as prominent in the
+program as was anticipated. Second, for those students who did ultimately attend Yardley
+College, communication about basic aspects of the school appeared to be somewhat deficient.
+Study participants made several suggestions as to what could have been beneficial, including
+more communication about Yardley’s academic majors, clubs, course scheduling, and typical
+student experiences.
+The guiding research question of this study pondered how a formal approach to the gap
+year option influences students’ perceptions and attitudes about the gap year as a viable option
+between high school and community college. These case studies supported the important role
+DEMOCRATIZING THE GAP YEAR OPTION 87
+that a gap year program affiliated with a school can have on attitudes and perceptions. This
+program, in particular, had the added benefit of being affiliated with the particular school the
+students ultimately planned to attend. While the students themselves provided mixed feedback
+about how the school’s formal approach and involvement with the gap year program impacted
+their perceptions and attitudes, the option of a structured, school-affiliated gap year program was
+much stronger in influencing parental attitudes and perceptions.
+Implications for Practice
+While dropping this exact gap year program into UCC will not lead to the desired
+outcome of democratizing the gap year option and expanding access to this particular path, the
+findings do offer a loose roadmap of what may or may not work in a public, community college
+setting. Foremost, one of the key takeaways from the study was the important role families play
+in the gap year decision. Therefore, involving parents early on in the research phase of such a
+program at UCC and in the communication rollout would be key in structuring and presenting it
+as a viable educational option. This would need to include both the advantages, such as personal
+growth, career exploration, and recovery from academic burnout, and the disadvantages, such as
+disrupting academic momentum, and financial implications of this option. Additionally, further
+exploration of the relationship between student demographics—primarily socioeconomic
+status—and access or success in a gap year program might need to be addressed in the creation
+of such a program. Students attending a community college, for example, may be more impacted
+by financial considerations than those students who have the means to attend a private, more
+expensive college. Implications such as the relationship between taking a gap year and its impact
+on financial aid and scholarships would need to be considered.
+DEMOCRATIZING THE GAP YEAR OPTION 88
+The study also highlights that understanding student motivations in pursuing a gap year is
+key. While the participants sought to use the gap year as a personal development tool
+(particularly from a spirituality perspective) and placed less emphasis on major and career
+exploration, tailoring some tracks to those desires would arguably lead to outcomes more aligned
+with individual participant expectations.
+Finally, one component of this program that may need to be retooled by UCC would be
+adding components to keep students on track to ultimately enroll in a UCC program post gap
+year and to ensure that the gap year is intentional and instrumental in advancing a student’s
+educational and career path. While the Yardley gap year program did not prioritize students
+ultimately enrolling in its institution, presumably UCC would likely want its gap year students to
+attend the school. The primary shortfall in the existing model appears to be related to
+communication and outreach while during the months when students are active participants in
+the gap year program. This would likely need to be an area which UCC would need to make a
+priority at the onset.
+DEMOCRATIZING THE GAP YEAR OPTION 89
+Limitations
+The goal of action research, which utilizes methods such as interviews, is to prompt some
+form of intervention and improve a real-world situation (Godfrey, 2020; Herr & Anderson,
+2015), but the lack of community college settings directly involved with structured gap year
+programs led the researcher to focus on gap year participants in a program affiliated with a fouryear college versus a community college. Therefore, one limitation of this study is that some
+level of generalizability is necessary for its findings to be meaningful. While this is slightly
+outside of the norm of action research, the researcher believes that the study’s findings will serve
+as a catalyst for making a change at the community college in question.
+As with case studies in general, the small sample size, potential researcher bias, and the
+possibility of untrue or skewed information reported by participants (Kekeya, 2021), need to be
+considered as potential limitations. Additionally, this study was intended to be an example of
+critical action research, which reflects an underlying commitment to ensuring fair and equitable
+educational opportunities for all (Mertler, 2020). By democratizing the gap year option at the
+community college level, students attending community college would have access to an
+academic path that may be beneficial to them.
+This study did not factor in the economic circumstances of the participants and their
+families as compared with the financial status of community college students, which is an
+additional limitation. One may assert that students attending a private four-year college may not
+share the socioeconomic and other demographic characteristics of many community colleges
+and, therefore, findings may not be easily transferable to a community college setting and
+population.
+DEMOCRATIZING THE GAP YEAR OPTION 90
+Perhaps the most significant limitation that came as a surprise to the researcher was that
+faith and spirituality were, arguably, the driving force behind student and parental attitudes and
+perceptions about this particular program. As a faith-based college, it was known upfront that
+Christian values were embedded in the program. However, the intense spotlight on religion
+certainly makes this exact prototype difficult to mimic in a public school setting.
+Suggestions for Future Research
+Since research on this topic is scarce, there is a strong argument to be made for future
+studies. While there is a pool of research on the benefits of opting for a gap year, the existing
+research does not extend to community college students specifically and does not focus on
+structured, school-sponsored programs. Conducting research with students, their families, and
+community college personnel via surveys, questionnaires, and focus groups on their perceptions
+and attitudes about gap years may provide foundational data by which subsequent studies can be
+developed.
+Future studies that dive deeper into the demographics of the populations in question may
+also help to ensure findings can be generalizable to a community college setting. Specifically,
+factoring for socioeconomic differences and exploring challenges and obstacles that may surface
+as a result of specific socioeconomic and/or demographic conditions may help foster the primary
+goal of creating greater access for all students to this educational path.
+Since the institution in this study had limited involvement in keeping students on track to
+ultimately attend college, future studies that examine programs with more formal counseling
+during the gap year process may be beneficial. Examining student and parental attitudes and
+perceptions of other gap year programs with more robust academic and career components may
+DEMOCRATIZING THE GAP YEAR OPTION 91
+provide additional guidance to other entities who seek to develop gap year programs, particularly
+public institutions that are not rooted in faith-based programs.
+Chapter 5 Summary/Conclusion
+The purpose of this study was to explore factors that influence students’ perceptions and
+attitudes about the gap year choice so that the institution administrators (of UCC and other
+community colleges) can better understand how to structure and present it as a viable educational
+option.
+The findings of this study align with the notion that, at least for some students, the gap
+year experience can be a beneficial path for a variety of reasons. Therefore, access for students
+from all backgrounds and walks of life should be prioritized. One way to democratize the gap
+year, still sometimes associated with elite pockets of society, is to introduce this option at the
+community college level. While the program explored in this study chose a very specific and
+deeply intensive involvement in the actual gap year by having participants physically house
+together throughout the program, UCC can certainly take elements of the program without
+replicating it to that level.
+Introducing a gap year option that comprehensively communicates the key considerations
+of choosing the path to all relevant stakeholders including parents, recognizes and aligns with the
+personal and highly individualized reasons students pursue a gap year, and ensures the gap year
+is a component of the overall educational plan of the student, can help UCC promote greater
+equity and opportunity across its student population. Further, the introduction of a gap year
+option may offer ancillary benefits not entertained in this research, such as higher enrollment and
+persistence rates. In short, as community colleges continue to evolve and retool, supporting a
+DEMOCRATIZING THE GAP YEAR OPTION 92
+well-constructed gap year option will be yet another opportunity to promote a student-centered
+learning experience.
+“Knowing yourself is the beginning of all wisdom." –Aristotle
+DEMOCRATIZING THE GAP YEAR OPTION 

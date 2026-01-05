@@ -1,0 +1,1210 @@
+ Silva 1
+Nova School of Business and Economics
+The Impact of Gap Years on Personal & Career Related Growth
+By: Daniel Silva
+Advisor: Professor Milton de Sousa
+Work Project Submission Date: 4/1/2021
+Keywords: Gap Years, Qualitative Research, Career Growth, Personal Growth
+This work used infrastructure and resources funded by Fundação para a Ciência e a Tecnologia
+(UID/ECO/00124/2013, UID/ECO/00124/2019 and Social Sciences DataLab, Project 22209), POR Lisboa
+(LISBOA-01-0145-FEDER-007722 and Social Sciences DataLab, Project 22209) and POR Norte (Social
+Sciences DataLab, Project 22209).
+ Silva 2
+Table of Contents
+Abstract ............................................................................................................................................... page 3
+Introduction......................................................................................................................................... page 4
+Literature Review......................................................................................................................... pages 5-11
+The Importance of the Economy of Experience ..................................................................... page 5
+The Importance of Having a Well-Structured Gap Year .................................................... pages 5-6
+ Reasons Associated with Taking a Gap Year ..................................................................... pages 6-7
+ Soft Skills Growth Potential Through Gap Years…………………………………………………………………page 8
+ The Value Associated with Attaining Personal Growth………………………………………………………page 8
+ Measuring the Intrinsic Value of a Gap Year for the Individual………………………………………….page 9
+ The Value Associated with International Gap Year Experiences………………………………………page 10
+ The Value of Gap Years in Academia……………………………………………………………………………….page 10
+ Future Implementation of Gap Years…………………………………………………………………………pages 10-11
+Methodology…………………………………………………………………………………………………………………………pages 12-13
+Findings from the Qualitive Case Study Analysis………………………………………………………………….pages 14-21
+Qualitive Case Study Analysis Structure…………………………………………………………………………page 14
+Findings for Gap Year Participants……………………………………………………………………………pages 15-18
+Findings for HR Department Managers……………………………………………………………………pages 19-21
+Discussion on Research of Gap Years………………………………………………………………………………….pages 22-26
+Discussion and Analysis of Findings …………………………………………………………………………pages 22-23
+Further Analysis through Data Models………………………………………………………………………….page 24
+Reflection on Prior Theory………………………………………………………………………………………pages 25-26
+Limitations and Plans for Future Research…………………………………………………………………..page 26
+Conclusion…………………………………………………………………………………………………………………………………page 27
+Appendix A: Models and Tables………………………………………………………………………………………….pages 28-34
+Appendix B: Narrative Stories…………………………………………………………………………………………….pages 35-44
+Resources……………………………………………………………………………………………………………………………pages 45-46
+ Silva 3
+Abstract
+For this Work Project, I have decided to focus on how an individual changes their
+perception on the impact and value of their gap year. In order to analyze this topic further, I have
+decided to interview individuals who have taken gap years, to extract information regarding what
+made them change their perception on the matter. In order to capture this information, I utilized
+both a narrative approach (to better understand the individual’s journey, along with their
+changing mindset) and a case study approach (to better understand the phenomenon of gap years,
+while further elaborating what could explain this change in mindset). This was ultimately
+accomplished through a series of in-depth interviews with college students and Human Resource
+department managers, in order to gain a better understanding of gap years and its impact.
+In this Work Project, we defined a gap year as “typically a 1-year academic break where
+a student reassesses their overall career goals and objectives.” The individual can still be
+engaged in a separate job/activity, as long as, it deviates from their formal education and planned
+career path. These factors served as the scope or parameters that was utilized in order to obtain
+information. I decided to focus on two different groups: college students who have taken a gap
+year who have views that evolved over time due to their work/activity related experiences, and
+HR departments to better understand this phenomenon and how it can impact future employment
+prospects for that individual over time. (All descriptive/narrative accounts of each individual’s
+story can be found in Appendix B section of this paper.) What I ultimately found was that gap
+years had a profound positive impact on an individual’s personal and career-related growth.
+.
+ Silva 4
+Introduction
+The phenomenon of gap years originated from waves of hippies in the 1960’s, where
+young people travelled abroad and conducted various types of volunteer services and temporary
+work. (Guomei & Wei, 2017) Nowadays, it has evolved into a growing trend where individuals
+seek out both personal and career-oriented growth. When it comes to who actually decides to
+take a “gap year” studies suggest that women were more likely to do so compared to men.
+(Martin, 2010) This can be explained by their tendency to be a bit more driven towards personal
+experiences. Additionally, it was found that English speaking individuals were far more likely
+than non-English speakers to decide to take a gap year abroad. (Martin, 2010)
+It is also important to understand that the thought process behind taking a “gap year”
+truly differs depending on the stage of life the individual is in. When it comes to younger
+individuals who seek further education, they are in a more pivotal point in their lives, and will
+typically take a year off because of post-school uncertainty, and use it as a means of personal
+growth and self-reflection. When it comes to already established university students, they will
+typically take a “gap year” based off of more motivating factors in order to learn or work in a
+specific field. (Martin, 2010). (A model representing this idea can be found in the Appendix as
+Model A).
+Utilizing the prior research on the topic of gap years, we can better tackle the issue at
+hand and construct our study to better analyze the impact that gap years can have on personal
+and career-related growth. Understanding the demographics and reasons behind taking a gap
+year provides us more insight into its overall significance.
+ Silva 5
+Literature Review on Gap Years
+The Importance of the “Economy of Experience”
+The rise in prominence of gap years, has led to the need to examine this phenomenon
+further, to fully understand its significance, while also analyzing whether or not it serves to better
+or worsen an individual’s career prospects. Scientific research has suggested that gap year
+participation enhances an individual’s capital, social, and economic capital, which in turn, gives
+them a competitive advantage in labor markets compared to their peers. Over time, experts have
+found that the “economy of experience” through gap years has taken on a disproportionate
+importance relative to just academic credentials. (Martin, 2010)) Nowadays, employers want an
+individual to be well-rounded and carry with them work related experiences to complement their
+academic credentials. Ultimately what decides the level of educational and career-oriented
+success comes from the levels of uncertainty experienced by the individual during the gap year
+and their overall motivation level.
+The Importance of Having a Well-Structured Gap Year
+Naturally, “gap year” experiences will differ from person to person. An individual who
+has a gap year better planned out and is motivated throughout the course of the gap year to
+succeed in their goals and objectives, will tend to outperform their peers. It is all relative to the
+personal value gained from taking the time off to pursue other endeavors. However, it is also
+important to note that there is a cost associated with taking a gap year if it does not serve to
+supplement the individual’s career prospects. An “empty” gap year will ultimately force an
+individual to lag behind their peers in the employment market, and it will take them longer to
+recuperate the career growth and salary lost relative to their peers. Research suggests that gap
+ Silva 6
+years are associated with lower future earnings, where individuals earn less in their 30’s with
+different degrees of severity, depending on the amount of gap years they decide to take. The
+overall future earnings penalty diminishes over time, and will ultimately completely vanish by
+age 40 (Bertil et al., 2006). (This is represented by the graph found in the Appendix as Model B).
+Naturally speaking, postponement of enrollment reduces time spent in the labor market,
+which ultimately dictates future earnings. However, it is important to note that this graph
+ultimately changes depending on the level of productivity the individual is engaged in while
+taking the gap year. In fact, there may be an increase in the present discounted value of lifetime
+earnings if it helped an individual land a more profitable job, or enter into a career that offers
+more financial benefits.
+ Reasons Associated with Taking a Gap Year
+According to proponents of gap years, they generally find that a gap year serves to better
+an individual’s personal growth through growing maturity and mental clarity, which in turn,
+helps them make wiser and more effective decisions regarding education and employment.
+(Guomei & Wei, 2017). In addition, studies have shown that young individuals who have
+reported taking a gap year tended to perform better than their peers based on the areas of:
+performance outcomes, improved employability, soft skills, and career choice formation.
+Research has shown that gap years have the ability to enhance an individual’s cultural, social,
+and economic capital which directly leads to advantages in competitive education and labor
+markets (Guomei & Wei, 2017, as cited in Jones, 2004).
+When it comes to deciding to take a gap year, individuals may have multitudes of
+different reasons for taking them. For this reason, it is important that we choose not to group all
+ Silva 7
+individuals who take gap years under the same umbrella. The distinction between activities
+within your home country and overseas, and whether or not it is structured or unstructured is
+very important in understanding the meaning and scope of the gap year. Dr. Andrew Jones from
+the University of London created a model to help define how gap years can differ from an
+individual to individual basis. The model has 2 different layers. The first layer defines whether or
+not the individual is choosing to do their gap year at home (in his case the UK) or abroad, and
+whether it will be a structured or unstructured gap year. The second layer focuses on the choice
+of how the individual is planning to spend his/her gap year. The list provided within the model
+includes various choices, such as: organized travel, learning, paid work, voluntary work,
+independent travel, and leisure activities (Jones, 2004). (This is represented as Model C in the
+Appendix).
+The distinction between the type of activity, where it will take place, and whether or not
+it is structured, is extremely important in determining its potential usefulness in terms of
+improving an individual’s overall career prospects and employability. Undoubtedly, a more
+structured plan that is more geared towards developing an individual’s career growth, will have a
+greater positive impact when it comes to employability and financial return. However, it is also
+important to note that other unrelated activities can still help an individual’s personal growth,
+increasing levels of motivation and drive, which in turn may be a valuable asset to also have
+within the workforce. If the gap year served as a means of self-discovery, it can push an
+individual down a path where he/she is more motivated and passionate about their work. And
+generally speaking, a more motivated and passionate individual will tend to progress farther
+within their career compared to someone who is not.
+Soft Skills Growth Potential Through Gap Years
+ Silva 8
+It is also important to consider the usefulness of “soft skills” which are many times
+developed during the course of making personal growth during a gap year. Soft skills such as:
+communication skills, leadership skills, language skills, and developing a strong work ethic, are
+all important skills that can be developed during the gap year. It is the individual’s ability to
+recognize and market these skills that will help them in regards to overall employability. As
+stated by Ehrenreich, “by capturing the space of the gap year in the fold of the commodity, the
+person can avoid the problem that a gap year of any kind, for any purpose is seen by employers
+as being unforgiveable.” (Cremin 2007, as cited in Ehrenreich, 2006) The experience of the gap
+year is utilized as a springboard to help an individual realize his/her ambitions and potential for
+future success. It serves to illustrate the opportunities available to individuals who are willing to
+look for them.
+The Value Associated with Attaining Personal Growth
+We should also consider the value of personal growth. It is impossible to objectively
+quantify this. However, if the “gap year” helped an individual find a greater purpose and calling,
+the satisfaction and happiness brought about in this revelation is something worth valuing. At the
+end of the day, if the individual is not pursuing something they enjoy, the monetary value may be
+of little significance. Overall satisfaction and happiness of one’s life, by pursuing their
+endeavors, is truly more important. And one’s ability to pursue a passion in life, will increase
+their likelihood to succeed in that specific area of employment. This is why, personal growth and
+career growth should be valued similarly, because they are two areas that are many times
+intertwined with one another.
+Doing something that is worthwhile is a justifiable means for taking a gap year. In the
+end, not all activities will be weighed as equal in the eyes of an employer. However, it is the
+ Silva 9
+responsibility of the gappers to utilize correct discourses to tell the story that will orient them
+towards their future goals. (Snee, 2013)
+Measuring the Intrinsic Value of Gap Years for the Individual
+When it comes to taking a gap year, there are certain steps that an individual should take
+to defend their time from the questioning of employers. It is important to: focus on the skills
+acquired, communicate the value of your experience to employers, articulate why the gap year
+was taken, and treat your experience like a job and include it as another portion of your
+application materials. It is important that an individual looks at their time as something
+productive in order for them to defend it accordingly. (O’Day, 2017)
+It is also important for each individual to weigh the pros and cons of taking a gap year
+before they decide to take one. An effective gap year is one that is well planned out and serves a
+purpose to better an individual’s personal and career development. It is important to note that gap
+years can be very positive for an individual because it can: help an individual gain insight about
+themselves and goals through personal development, give people a break from the pressures
+associated with academics and work (which in turn can result in renewed enthusiasm for
+studies/work), and can offer young people real-world understanding that is simply not found in
+the classroom setting.
+On the other hand, it can be negative in the sense that postponing school or work takes an
+individual off of a traditional path, which sometimes can make it challenging to get back into the
+same rhythm post-gap year. Additionally, an unstructured gap year can leave an individual
+feeling frustrated that they are not being productive with their time, which in turn could worsen
+their mental state. It is crucial that the time invested in a gap year is put into good use. Overall,
+ Silva 10
+the better organized a gap year is, the better chance it can serve to truly better an individual’s
+personal and career development. (Torpey, 2020) An effective way to start this approach is by
+brainstorming and creating a list of activities and goals an individual would like to complete by a
+given deadline. It is also crucial that a time table is placed in order for the individual to commit
+to obtaining the goals and objectives that they sought out to accomplish.
+The Value Associated with International Gap Year Experiences
+Another area worth focusing on is how international experience through a gap year can
+potentially help individuals searching for international employment opportunities. A year
+studying or working abroad is by far one of the most reliable paths towards achieving global
+competencies. Findings from the 2014 Erasmus Impact report from the European Commission
+confirms that 64% of international recruiters consider extended residence abroad important,
+because it shows the recruiter that the individual would be comfortable and able to work outside
+of his/her comfort zone. Additionally, another study from the European Commission found that
+international gappers were 50% less likely to experience long-term unemployment due to their
+international experience. As stated by Lopez-Moreno, “experience of working oversees and
+immersion in a different culture can catapult a graduate into being considered for rewarding and
+challenging roles.” (Moreno, 2017) It is important that graduates realize that with experience
+abroad, they are seen as value-added professionals that hold a unique selling point through their
+international experience.
+The Value of Gap Years in Academia
+It also appears that universities have a favorable view towards gap years. Studies show
+that gap year graduates tend to make superior students: their academics, campus involvement,
+ Silva 11
+and leadership tend to outperform their peers. Universities look for the most exceptional
+students, and unique international experiences can undoubtedly go a long way. Gap year
+graduates are known to over-perform academically by 0.45 GPA points compared to their peers
+according to Chapel Hill University. Additionally, 86% of students found that their experience
+had been extremely positive, and were a major factor that motivated them to finish out their
+degree programs. (Knight, 2018)
+Future Implementations of Gap Years
+Finally, it is important that we look a bit into the future of gap years. In the United States
+there is a concerted effort to make gap years compulsory for all students. Due to the increasing
+polarization throughout the United States, there is a need to try and bridge the divide between
+cultural America. Aside from seeing the many benefits associated with gap years (as previously
+mentioned), politicians in the United States see a gap year dedicated to civic service as a means
+of bringing communities together. Most recently, Beto O’Rourke has proposed a 1-year
+mandatory civic duty, community service gap year for all students post-graduation from high
+school (before entering University). He believes this may bring communities together for a
+common cause and bridge the cultural/political divide between Americans.
+There are also a handful of institutions such as: Princeton and the University of North
+Carolina, who already offer aid to students who decide to defer admission by a year to pursue a
+gap year. Duke University even announced that it would approve scholarships for 20 students to
+take on an approved gap-year project, as a sponsored volunteer trip. In addition to this, some
+Universities are even providing course credit for gap year services in partnership with an
+organization connected to the school. This would provide the student with a full year of
+academic credit. Making service compulsory would also eliminate the notion that gap years are
+ Silva 12
+only for the privileged and elite who can afford it. On a smaller level, select institutions also
+announced that they would give special preference to candidates who show a willingness to serve
+in a community service gap year. (Zimmerman, 2020) Given the increasingly competitive nature
+of college admissions, any advantage will surely be utilized by individuals to get into their
+school of choice.
+Methodology
+In order to gather information from my participants, my methodology consists of taking a
+multiple or collective case study, qualitative approach, that studies a sequence of individual case
+studies on the topic of gap years in order to better measure its overall impact on the individual
+with relation to personal and career related growth (Baxter & Jack, 2008). This type of approach
+was chosen due to the nature of the study. Gap year experiences tend to be subjective in nature,
+and focusing on a qualitative approach that analyzes the narrative stories of the individual’s,
+while focusing on connecting central themes, served to better understand and interpret the
+findings from this study. It helps us better understand the “how” and “why” behind the gap
+year’s overall impact on the individual’s personal and career related growth. Additionally, the
+nature of interviewing and studying the cases of various individual’s, while being able to analyze
+each setting of each case and across cases, highlights and defines the need to utilize a multiple
+case study approach. (Baxter & Jack, as referenced in Yin (2003))
+The first 6 interviews were comprised of individual interviews with students from
+NOVA University. The initial 15 questions constructed for the individual students focus on
+highlighting their individual stories, while also capturing the impact that their experiences had on
+their overall view of gap years. The final 3 interviews were conducted with HR Department
+Managers. The 7 questions posed for HR Department Managers served to better understand a
+ Silva 13
+gap years potential impact on an individual’s career, and serves as an important supplement to
+the overall scope of the analysis. (Interview questions found in Model E and F in the Appendix)
+ Because the nature of this topic has not been explored in great detail previously, few
+restrictions and propositions were imposed within the methodology in order to better capture the
+overall essence and significance behind the impact of gap years. In order to maintain
+consistency, we looked specifically for students who have had at least 1 year of previous gap
+year experiences. Because these students are still within a meaningful transition point within
+their lives, it made sense that the overall impact of a gap year would be more impressionable on
+them over a different subgroup of individuals. For a collective case study approach on a broad
+topic, such as gap years, it is important that each individual case study is assessed and compared
+to the others, in order to find principle ideas and themes that are found consistently throughout
+the process. It is important to note that issues might arise in the shape of different personal
+experiences. For that reason, this process looks to bridge any divides and come up with central
+themes that appear consistently throughout the various case studies.
+After obtaining the necessary information, a conceptual framework model was
+constructed to better highlight the main ideas found from the data obtained. The model served to
+highlight the factors that go into the overall changing mindsets of the individual, as to whether
+the gap year experiences served to better their overall situation. Data sources in the form of
+direct quotes and experiences from the individuals were used to support the central ideas and
+themes found within these cases studies. A separate table summarizing each individual’s
+personal experiences (in regards to personal and career related growth) was later provided, in
+order to construct a short database that serves to highlight each individual’s personal
+experiences. Finally, a discussion analysis chapter later on, serves as a means to dive deeper into
+ Silva 14
+certain themes found, while referencing support from previous studies. (Baxter & Jack, 2008).
+The process highlighting the steps and methodology that were used to conduct this study can be
+found in the model below found in the Appendix, under model G).
+Findings from the Qualitative Case Study Analysis
+Explanation of Structure
+This chapter was structured in such a way that highlights common themes, in respect to gap
+years, that were found throughout the course of the interviews done with students from NOVA
+University and HR Department managers. These extracted themes serve to highlight the overall
+impact that gap years have on personal and career-oriented growth. Both sets of interviews
+contain a total of three main themes that were present throughout the entirety of the respective
+group of interviews. The themes gained from interviewing NOVA students help us gain insight
+into how the individual’s mindset on gap years was shaped through their personal and careeroriented growth. The interviews and themes obtained from HR department managers, later
+served to further our understanding of the phenomenon of gap years, and how it impacts the
+individual’s future employment prospects over time.
+Individual Student Case Studies
+1. Importance of challenging oneself and growing through adversity. (Personal
+Growth)
+One common idea that was shared throughout the sequence of mini-case studies was the idea
+that there is an importance of challenging oneself in order to grow through adversity. This
+personal growth manifests from an individual’s need to find self-development and fulfillment in
+their daily lives. The individual’s experiences throughout the course of the gap year helped shape
+ Silva 15
+this idea because the experiences brought about a change in the individual’s mindset. By
+overcoming uncertainty, they were able to create a more confident self, that is more easily able to
+take on experiences that are away from their comfort zone.
+This idea is highlighted by various individuals throughout the course of these case studies.
+For example, participant #1 states: “we are the generation of individualists, and only we can be
+the heroes of tomorrow. Gap years should serve to challenge you, because growth and risk are
+important factors that help build our lives.” (P1) His experiences interning in a different city
+away from home allowed him to grow into a more mature and able adult who has the confidence
+to pursue his dreams. Like he mentions, only the individual can make the choices necessary to
+improve their future self.
+Participant #2 also focused a great deal of time on her own personal growth journey. Her
+experiences travelling and volunteering in different countries, away from home, helped her find
+out who she is today. For example, she states: “travelling around allows you to better connect
+with more people, which in turn allows you to understand yourself better, while at the same time,
+making more rational decisions about your life.” (P2) She goes on later to say: “I was also very
+excited about the prospect of having a chance to start over and become more independent, by
+going outside of my comfort zone. It makes you mentally free, since a healthy mind brings with
+it a healthy life.” (P2) Personal growth through adversity is also a lifestyle that a person chooses
+for themselves. The gap year can serve to reset your mindset and create a new/better lifestyle that
+works best for the individual. Creating a healthy mind can help improve various other parts of
+your life for the better.
+It is also important to challenge one’s mindset about life in general. Participant 4’s
+experience of volunteering abroad in a poor area of Indonesia helped her better prioritize her
+ Silva 16
+needs in life and see her current situation in life in a different way. She states: “I’m more grateful
+for what we have in Europe. During my stay, donations would be collected once a month to help
+the poor, and kids would have to walk 2 hours to get to school every day without shoes because
+they couldn’t afford it.” (P4) This individual’s humbling experience of working with others who
+are less fortunate than her, helped her better put her priorities in check. She began to realize that
+one does not need a lot in life to be happy, and that it’s better to focus on the things in life that
+bring you purpose.
+Finally, Participant 6 also gave us his take on facing adversity through gap years. He states
+that it is important to: “Have the courage to take the gap year, and use it to find your position in
+the world. It is important to find something that takes you out of your comfort zone. Do
+something different from what people are telling you to do. Taking on challenges helps you grow
+as a person, and companies need more creative individuals.” (P6) Ultimately, a gap year can help
+you find your place and value in the world. By facing adversity and challenging oneself, you are
+not just improving yourself, but also your future prospects. Generally speaking, a more
+passionate and motivated you, will ultimately also signal success in work environment. It is
+important to see how personal growth can find its way to blend into other areas of your life as
+well.
+2. Importance of having a well-structured career-oriented plan (Career Growth)
+Another important idea that was present throughout the sequence of mini-case studies was
+the idea that a successful and meaningful gap year is one that is well structured with goals and
+objectives. By having a clear path in place, it removes uncertainty and doubt from an individuals
+mind, and allows them to fully accomplish what they want from the gap year. This is closely
+ Silva 17
+aligned with overall career growth, because one can only develop their career ambitions if they
+understand what they want to try and pursue.
+Having a sound structure will ultimately increase the likelihood that the gap year will be
+successful from the eyes of the individual experiencing it. Participant 1 points out that: “You
+should have a fixed starting point and endpoint in order to keep yourself on track. Find the
+puzzle pieces to build the gap year, and have an end goal and date when you plan to finish it.
+Always plan 2 steps ahead to ensure that you are never left in a situation where you don’t know
+what to do.” (P1) It is important to recognize that the individual is responsible for building the
+value of their gap year. Having it setup in such a way where the individual is not wasting time
+and unsure as to what they should be doing, will help them accomplish clear career-oriented
+goals and objectives.
+Participant 3 goes further into this topic by reiterating that the value of a gap year comes
+from what the individual decides to do. If they have no plans or objectives, they will simply be
+killing time for the sake of killing time. She ultimately would advise others to: “take a gap year,
+as long as they know what they are doing. And advises other individuals to not rush into the
+process and consider what options would best suit their needs before entering into a gap year
+(P3)
+Finally, it is important to note that the experience gained through gap year exposure (via
+internships or other work-related activities) will also serve to place them on a better overall
+career path. As stated by Participant 6, “It was especially important for me to gain practical
+experience in order to complement the theory I’ve already obtained in school. Additionally, it
+allowed me to focus more on my personal career progression and find a specific career that
+might work for me.” (P6) Taking a gap year ultimately allowed him to better utilize his Master’s
+ Silva 18
+degree as a tool to supplement his career. He was able to do this because he already experienced
+that career path first-hand, and is more confident to realize his career ambitions. Instead of taking
+random classes in University, he already had specific interests related to the career that he
+wanted to pursue.
+3. Idea of investing in the present self for future growth
+Finally, another key idea presented in the narrative stories of these individuals was the idea
+that an individual needs to invest in their present self in order to obtain future growth and
+success. For example, the experiences through gap years allowed the individuals to obtain both
+personal and career growth that will help them in their future endeavors. For example,
+Participant 1 mentions that “The degree becomes a more useful tool when you know the best
+way to use it, in order to further your knowledge about your career interests.” (P1) By investing
+his time in truly understanding what career works best for him, he was able to utilize his degree
+as a tool to complement his intended career path. If he had not done this, he would perhaps be
+pursuing a career that was not suitable for him, and would pick classes that didn’t motivate his
+core interests.
+Participant 5 also mentions how working specific internships during her gap year shined light
+on a different career path that was more suitable for her. “She found that she didn’t want to work
+in the sales industry, but instead more in consultancy.” (P5) Instead of doing work in the
+automobile sales industry, she found that her greater interests revolved around the idea of
+working in consultancy. This change was only able to occur because she took the time to intern
+within the automobile industry and work through different business positions. Having first-hand
+practical experience and knowledge about the work made her more confident in pursuing a
+ Silva 19
+specific career path. As she later states, “if not for the gap years, she would still be uncertain as
+to what her true calling was.” (P5)
+Finally, Participant 6 does a good job of highlighting the significance of taking a gap year.
+He states: “When taking a gap year, you are taking one step back and two steps forward.” (P6) It
+might appear that the individual is putting their career or educational prospects on hold, but in
+reality the individual is instead creating a feasible path for future growth for their personal and
+career-oriented lives. Investing in oneself is the only guarantee in life for future growth.
+Individual HR Department Manager Case Studies
+1. The importance of not judging the value of an individual’s gap year without actually
+understanding it first.
+One key idea that recruiters focused on throughout the interviews was about the importance
+of not judging the value of an individual’s gap year without actually understanding it first. By
+having experiences with individuals who have taken gap years in the past, they understand the
+importance of listening to the experiences and different perspectives that an individual has to
+offer. This is first expressed with Participant #7, an HR representative. She states: “Being
+surrounded by different cultures and ways of thinking has opened my perspective, which has also
+translated to my views on gap years in general. Everyone has different experiences in life, so it is
+important to treat each person as an individual and really get to know them during the interview
+process before judging their character.” (Participant #7)
+It is important to note that unique experiences through gap years is still weighed and valued
+by recruiters. However, it does depend largely on the open-mindedness of the recruiter and their
+own personal experiences and viewpoints on the topic of gap years. This mentality is also shared
+ Silva 20
+by Participant #9 who states: “It is best to not “assume why the individual took the gap year.” It
+is something that would catch my attention, and I would usually dig a bit deeper to see the
+reasoning behind the gap year in the resume.” (Participant #9) It is important to note that many
+recruiters will instead see it as an opportunity to analyze further the basis for the nature of the
+gap year. It will certainly raise a flag that is worth further investigating. This is why the
+individual should be prepared to justify the reasoning behind the gap. However, it is reassuring
+that taking a gap year is not detrimental towards an applicant’s prospect of obtaining a job
+opportunity.
+2. Importance of marketing your gap year, and using it as something constructive that
+can help a company.
+One idea that was heavily mentioned throughout the interviews with recruiters was about the
+importance of marketing one’s gap year, and using it as something constructive that can help
+supplement the needs of the company. The best way to do this according to Participant #8 is to
+bridge the connection yourself. She states: “It is important that you do your best to connect your
+experiences as something constructive that can help the company.” (Participant #8) It is
+important that the individual’s unique experiences are showcased as something that helped their
+ability to grow their career-based knowledge and abilities. There are also specific types of gap
+years and practices that can better showcase this. Participant #8 later goes on to state: “If it
+connects to your career progression it can be helpful. It might be better to simply work a position
+during that year whether an internship or job in order to gain valuable practical experience and
+learn more about what you want out of your career. This will also place you in a better position
+when dealing with recruiters.” (Participant #8)
+ Silva 21
+Having direct career related work experience will undoubtedly have a more favorable impact
+on the eyes of employers. However, it is important that the individual first have a concrete
+career-oriented plan before trying this. Entering into certain career-oriented plans without
+preparation can cause someone to struggle and potentially fail out. If a future employer see’s this
+on a resume, it may raise additional red flags that can hinder the applicant’s chances of getting
+the job.
+3. Concern that too many unproductive gap years will raise problems regarding the
+individual’s work ethic, and have to start lagging behind their peers.
+A final idea that was consistently discussed throughout the interviews was about the concern
+related to an individual having too many unproductive gap years that will ultimately raise
+problems regarding the individual’s overall work ethic. This is one of the potential negative
+consequences associated with taking unproductive gap years. As Participant #8 states: “It is
+better to not fall into a disadvantaged state before applying for a position. It is important for the
+candidate to think about their career prospects and not waste valuable time.” (Participant #8)
+It is important to note that for each unproductive gap year (career-wise) means the individual
+will fall behind their peers by that amount of time (career-wise) which may continue to affect
+them later on in life. However, when it comes to overall career growth, Participant #9 advises
+that she: “I would rather see an individual utilizing a meaningful gap year, than just jumping
+around through random jobs for a short period of time. If the individual is switching between
+jobs often, I will begin to question if the person experienced problems at other jobs, and quits
+often or was fired from them.” (Participant #9)
+ Silva 22
+It is important that the individual is serious and motivated before entering a specific career.
+Quitting from various jobs or getting fired from them can actually create future problems
+because it raises red flags for future employers that the individual is not dedicated to their work
+ethic, and brings with them the risk of potentially leaving in the short-term. At the same time,
+taking too many gap years without doing anything that is productive career-wise can also raise
+problems. As Participant #9 later states: “I find that employers want to see that an individual is
+committed to the company and their work. Wasting a considerable amount of time taking several
+gap years could ultimately raise a red flag for employers that you lack a serious work ethic.”
+(Participant #9) This is why having a serious, well-structured and thought out gap year plan can
+help avoid these issues, and can in many ways enhance your career prospects, if they are career
+oriented.
+Discussion of Research on Gap Years
+Discussion and Analysis of Findings
+Throughout the course of the interviews there has been a consistent theme that “gap
+years” served to improve the individual’s personal and career development. Generally speaking,
+the individuals felt that the progress they made during their gap year work experiences far
+surpassed their expectations. Individuals who took on internships found themselves more
+confident in their ability to continue pursuing a career path, after already having knowledge
+about what they would be getting themselves into. Additionally, it helped them better utilize their
+Master’s program as a tool to help further their studies in a subject matter they were already
+interested in. Without taking this opportunity for personal/career development, they would have
+found themselves unable to pursue a career interest/passion.
+ Silva 23
+It is also important to consider the personal development that took place which allowed
+them to pursue their career dreams. The gap year experience forced many individuals to go
+outside their comfort zone and face adversity, which in turn allowed them to gain the confidence
+in themselves to pursue what they want in life. It is important to note that personal and career
+development are intertwined with one another. Improvements in regards to personal development
+can create a clearer and more focused mind that enables individuals to make more sound career
+decisions for themselves. And unlike career development, personal development cannot be
+quantified by a salary amount or career position. Instead, we must also value how the “gap year”
+made the individual feel about themselves. If the individual feels genuinely happier and more
+focused at the end of the “gap year”, we must illustrate that as a compelling strength and positive
+aspect of taking a gap year. From the interviews conducted it appears that aside from making
+career progress, each individual was able to leave the “gap year” in a better overall state of mind.
+This illustrates yet another great strength associated with taking a gap year.
+When it comes to HR Managers, their viewpoint appears to be that “gap years” can be a
+useful tool if utilized in such a way that can supplement their resume and career prospects. It will
+be a topic discussed by recruiters in an interview, so it is important that individuals are prepared
+to justify the time spent during the “gap year.” A well-structured plan in place before entering
+into a gap year would best increase the likelihood of the gap year being an asset to put on a
+resume, rather than a liability. It was also interesting how the HR Managers discussed the topic
+of “gap years” as being a subjective topic for a recruiter, depending on their personal
+experiences. Older recruiters with little knowledge on the concept of “gap years”, who have little
+experience travelling abroad and deviating from a structured path, will undoubtedly be more
+ Silva 24
+critical about time being used for a “gap year.” But, as gap years become more popular, and time
+progresses, there undoubtedly will be a greater emphasis and value on the “gap year” experience.
+It is important to note that not all “gap years” are created equal. Each individual has
+different perspectives and experiences in life, but a well-thought out and planned gap year will
+undoubtedly yield better results than the counterpart. It is also important to consider that there is
+a privilege gap associated with taking a gap year. This is a topic that many individuals mentioned
+within the interview. Not every individual has the financial means and family support necessary
+to be able to take a “gap year.” This is why it is important that the choice of “gap years” become
+more accessible for more people. As previously mentioned, there are efforts from government
+officials and Universities throughout the world to try and normalize the idea of doing a gap year,
+while also providing scholarship and course credit incentives for doing so. This is an important
+step in trying to make a productive “gap year” a normal experience/option for all individuals
+who are searching for personal and career development that is simply not offered in the
+traditional education system.
+Further Analysis through Data Models
+From the data collected of the interviews along with additional research on the topic, I
+have created a table showcasing the personal and career growth that each individual experienced,
+along with an assessment about their changing mentality on the topic of gap years. (Model H in
+Appendix). What we ultimately find is that each individual’s personal and career related
+experiences helped shape their opinion about gap years. All individuals went into the gap year
+with little expectations, and left feeling it had a profound impact on their lives. From this
+information, we find that there was undoubtedly a change in mentality on the topic of gap years,
+over the course of their personal experiences. A conceptual model was created to showcase this
+ Silva 25
+idea. What we find in the model is that there are 2 different aspects that influence the mindset of
+an individual about gap years; personal growth and career growth. Within these two areas, there
+are specific features that differ between each other, along with factors that they share in common
+with. It is also important to note that there are factors intertwined between both personal growth
+and career growth; they include: increased motivation, purpose, and passion. These three areas
+can help with an individual’s personal growth, but it can also help them when pursuing their
+career ambitions. The impact of all these factors, or the lack thereof, will shape the individual’s
+opinion on the topic of gap years, and cause them to think of it as something positive or negative.
+(Model I can be found in the Appendix below).
+Reflections on Prior Theory
+The overall results of the study in many ways reflects prior theory on the subject matter.
+For instance, the idea that gap years can serve to enhance an individual’s personal and career
+development is connected to prior research conducted by Martin, who found that the “economy
+of experience” through gap years was responsible for enhancing various forms of capital, at the
+individual, social, and economic level. (Martin, 2010). Another major finding that is
+substantiated by prior research is the idea that a structured gap year influences the level of
+success the individual experienced. Dr. Andrew Jones’ creates this distinction in his model (as
+previously mentioned) in order to measure the nature of the gap year to predict overall success.
+All student participants within my study had specific goals and objectives in mind with (for the
+most part) a clear path to achieve them. Research conducted by Torpey further elaborates that the
+better organized the gap year, the better overall chance it serves to truly better the individual’s
+personal and career development (Torpey, 2020). When it comes to the results related to the
+interviews with HR Department Managers, one idea that came about from the research was the
+ Silva 26
+need to essentially market your gap year to employers in a constructive way that showcases your
+newly obtained skills and perspective. This is further substantiated by O’Day’s research on the
+topic, where he discusses the importance of doing so, while also highlighting the need for the
+individual to look at their time as something productive in order for them to defend it
+accordingly (O’Day, 2017). This is important, because without having this mindset, the
+individual will be unable to extract value in their gap year experiences. It is important that the
+individual focuses a good amount of time on introspection during the gap year to fully
+understand its impact, along with the skills and abilities obtained from said experiences.
+At the end of our analysis, we find that gap years had a significant positive impact on the
+individual’s personal and career-oriented growth. Because of their positive experiences, the
+individual’s ultimately left with the mindset that taking a “gap year” serves an investment
+towards better future prospects. A summarized version of the findings discussed throughout this
+discussion section can be found as Model J in the Appendix below.
+Limitations & Plans for future Research
+A topic such as gap years presents itself with many limitations, because it is difficult to
+quantify the overall impact that a gap year can have on an individual. Each individual will have a
+different experience throughout their gap year journey. And ultimately what brings one
+individual a sense of satisfaction and purpose may not be the same for someone else. We must
+also take note that financial ability/resources may also limit the quality of the gap year, or may
+potentially prevent an individual from taking a gap year entirely. Additionally, there may be a
+bias in the individual’s willing to open-up about their gap year experiences. Individuals who
+experienced a greater impact from the “gap year experience” would most likely be more willing
+to share their experiences, compared to others. I believe further research into the psychological
+ Silva 27
+component of gap years (focusing on the positive and negative aspects of taking a gap year)
+along with research regarding gap year affordability is necessary in order to more accurately
+assess its overall value. Future research of longitudinal studies regarding the individual’s
+development post-gap year experience would also be interesting. Capturing information, via
+journaling, about individual’s at different points beyond their gap year experience could shine
+light on the potential long-term effects of gap years on personal and career-related development.
+Conclusion
+In conclusion, from the data obtained we find that a gap year has the potential to have
+profound impacts on an individual’s life. From the data collected we were able to prove that
+there was indeed a change in the individual’s perception on the impact and value of their gap
+year through personal experiences. All of our student participants found that their experiences
+were ultimately better than they could have anticipated. In each case, individual’s provided
+examples of both personal and career related growth that came about from their gap year
+experiences. Although individuals prioritized one form of growth over the other, there was still
+shared growth that impacted other areas of their lives that they had not initially anticipated.
+When it came to potential impacts on career development, via interviews from HR Department
+Managers, we found that gap years typically do not have a noticeable negative impact on career
+development as long as it is well-structured. A lack of structure and time orientation can lead to
+the individual losing out on career opportunities and can potentially create a wage gap between
+the individual and his/her peers. Perhaps the biggest takeaway from these interviews was the
+importance of having a well-structured gap year that sets clear personal and career-oriented goals
+and objectives with a set time table. Ultimately the more that the individual prepares for the gap
+year, the higher chance the gap year will serve to better the individual’s overall prospects.
+ Silva 28
+Appendix A: Data Models
+Motivating Factors behind Gap Years
+(Martin, 2010)
+(MODEL A)
+Estimated Returns from Non-Productive Gap Years
+(Bertil et al., 2006)
+(MODEL B)
+ Silva 29
+(Jones, 2004)
+Multi-layer Gap Year Experience Data Model
+(MODEL C)
+(Wu, 2015)
+Push-Pull Gap Year Factor Model
+(MODEL D)
+ Silva 30
+Student Interview Questions:
+1) What led you to make the decision to take a gap year?
+2) What does a gap year mean to you?
+3) How did you spend your gap year? What activities/work did you engage in?
+4) Did the gap year help you reassess your career goals and objectives?
+5) Did you view the time you spent during your gap year as a productive/positive experience?
+6) Do you regret not doing/accomplishing something during your gap year?
+7) Do you believe your gap year negatively impacted your career prospects in any way?
+8) Do you think employers look at a gap year in a negative light?
+9) How do you believe most people view the concept of “taking a gap year.”
+10) Did your opinion on “gap years” change after employment? (Professionals question)
+11) How has your opinion of gap years changed over the years (if at all)?
+12) What do you believe is the publics overall sentiment towards gap years? Were most people
+supportive towards you? Did you face any backlash?
+13) What advice would you give an individual considering taking a gap year?
+14) Do you feel that in the future there will be more individuals looking to take a gap year?
+15) Is there anything you would tell your past self before taking a gap year?
+(Model E)
+ HR Department Manager Questions:
+1) Can you explain the process by which recruitment is done at your company? Are there criteria/features
+that your company looks for in a candidate?
+2) How does your HR department view a gap year on someone’s resume? Do you think it can have a
+negative impact on a person’s career prospects, if it doesn’t align with their intended career path?
+3) Over more recent years, have you seen an increase in the amount of “gap years” you find on someone’s
+resume?
+4) Do you feel all elements of a person’s resume should be geared towards the job they are applying for?
+5) Did your HR department ever view a candidate’s “separate experiences” through a gap year as
+beneficial? Can it help differentiate an individual from other applicants?
+6) Do you think taking a gap year can help someone better understand his career goals and objectives?
+7) What advice would you give someone who is thinking of taking a gap year? Would
+you advise against it?
+(Model F)
+ Silva 31
+Methodological Process of Study
+Model G
+ Silva 32
+Gap Year Data Table
+Name Personal Growth Career
+Growth
+Change in mentality over gap
+years
+Participant #1 Experienced personal growth
+by feeling more independent
+and confident by interning in
+Munich and living on his
+own.
+Internships allowed him to
+better understand a career
+within the automotive
+industry; increased value
+on resume.
+Has a better view of gap years
+because of the successful
+internships he had done, which
+solidified his career interest
+when entering his Masters.
+Participant #2 Was able to recover from
+school burnout and through
+volunteer work was able to
+find a greater purpose in life.
+Helped her decide to get
+into Business/Corporate
+Sustainability in order to
+make an environmental
+difference within society.
+Her many different
+experiences during her gap
+year (especially in regards to
+personal development) was life
+altering and allowed her to
+have a very favorable view of
+gap years.
+Participant #3 Was able to gain confidence
+in herself by ignoring what
+other people were thinking
+and focused on developing
+herself as a strong forwardthinking person.
+Managed to work in
+various different retail and
+managing jobs which
+helped build her resume
+and allowed her to gain
+experience in several
+business type roles.
+After going through her gap
+year, she realized its value in
+its ability to allow her to
+mature as a person and create a
+lifestyle and career plan that
+works for her.
+Participant #4 Her first gap year allowed
+her to develop into a
+confident and independent
+person; while her second gap
+year helped broaden her
+viewpoint about different
+cultures and ways of
+thinking. She takes less
+things for granted.
+Her unique experiences
+allowed her to focus on a
+career/lifestyle that would
+better meet her needs. She
+is now more passionate
+about working in a
+business field that allows
+her to make a difference.
+Her gap year allowed her to
+gain a completely different
+perspective on life; making her
+feel like she should become a
+positive force for change. She
+now values a gap year more
+because it helped shape who
+she is today.
+Participant #5 Her first gap year after high
+school helped her better
+orient her life and set future
+goals that she wanted to
+accomplish. It served to
+better improve her self-worth
+and motivation.
+Her second gap year after
+bachelor’s program
+allowed her to work in 2
+internships for the
+automotive industry.
+Helped build her resume
+and gain insight into a
+career she was interested
+in.
+She gained a much greater
+appreciation for a gap year
+between doing the 2 separate
+gap years. The first one
+provided her with mental
+clarity, while the second one
+helped solidify a career path.
+Participant #6 Traveling abroad to places
+like Australia and Indonesia
+during his gap year made him
+more culturally aware and
+connected to the world
+around him. It helped him
+grow into a more confident
+and independent adult.
+The second gap year
+helped him solidify his
+interest in business by
+taking on various
+internships outside of his
+comfort zone in different
+countries. Allowed him to
+gain an international
+business perspective.
+The gap years provided him
+cultural awareness and
+valuable business insight. The
+overall value of his
+experiences far exceeded his
+expectations.
+(Model H)
+ Silva 33
+Interpretive Gap Year Data Model
+(Model I)
+ Silva 34
+Summarized Main Findings
+(Model J)
+ Silva 35
+APPENDIX B: NARRATIVE STORIES
+Descriptive Stories on Gap Years
+Participant #1
+The first individual I interviewed decided to take a gap year in between his bachelors and
+masters studies. He ultimately saw himself continuing his studies, but opted to do an internship with
+BMW, in Munich, shortly after the completion of his bachelors’ thesis. He was eventually offered a fulltime position, but instead opted to go for another 6-month internship with Porsche, with the ultimate
+goal to continue his graduate studies in the fall semester of 2019. After doing multiple internships within
+the automotive industry, he felt a strong desire to continue working in the same industry postcompletion of his Masters studies. Ultimately, he found that “internships during his gap year gave
+practical experience to see how he can leverage his strengths from his undergraduate degree in the real
+world.” The practical experience was ultimately necessary to insure he understood what a career path
+within the automotive industry would entail. When asking him to define what a gap year meant for him,
+he described a productive gap year as “one that constitutes that an individual will do something after it,
+by having clear goals and objectives in place to insure personal and career related growth.” He found
+that the combination of studies and work was very important in order to accomplish said personal
+objectives. Additionally, by doing the internships, he was able to pinpoint what type of Master’s degree,
+courses, and specializations he wanted to take while studying. This would not have been possible if he
+had not taken the gap year to learn more about the automotive industry. Ultimately, he feels that “the
+degree becomes a more useful tool when you know the best way to use it, in order to further your
+knowledge about your career interests.”
+When asking Participant #1 about his experiences with gap years, he ultimately found them to
+be very positive. He found that he had learned a lot from the experience, and that the internships had
+challenged him in a very constructive way that will surely help his future career growth. He did also
+mention that there are drawbacks associated with taking gap years and doing internships. Because he
+had not opted to work a normal position out of college, or continue his studies, he found that there was
+ultimately a cost associated in partaking in internships. Firstly, in order to work his two internships, he
+had to travel to Munich from Frankfurt (which is roughly 250 miles) and rent out an apartment within
+the city. This was very expensive, and the minimum wage he was making at the internship did not cover
+the majority of his expenses. He ultimately believes that there is a financial burden associated with gap
+years in general, and that without extra financial support from family, taking a gap year may not even be
+a feasible option for some students. When asked if he had any regrets associated with his gap year, he
+answered that he did not, because he felt that he exceeded all possible expectations. He also felt that
+employers will look at his “gap year” in a positive light because he used it as something productive to
+help boost his career prospects. He said that as long as you’re doing something exciting or different that
+will help you stand out against your colleagues, it would not be seen as a waste of time. The problem
+ Silva 36
+generally only stems from individuals who choose to do nothing productive with their time during the
+gap year.
+When asking Participant #1 what he felt most individuals thought about the concept of “taking a
+gap year”, he answered that most people within the business world will see it as a positive/constructive
+experience, since most business students will have things strategically planned to help them in the longrun. There are also many factors that go into the decision of taking a gap year, so everyone will have
+their own interpretation for what a gap year means to them. He stated that “we are the generation of
+individualists, and only we can be the heroes of tomorrow. Gap years should serve to challenge you,
+because growth and risk are important factors that help build our lives.” I also asked him if his thoughts
+of gap years had changed after employment status. He said that his perception had changed quite a bit
+after his work experiences. He began to value more the need to take constructive steps to better
+understand what you see yourself doing in the future. He ultimately found that gap years are extremely
+good for individuals who are still uncertain as to what they should be doing in the future. Without
+practical experience, you will never truly know what is right for you.
+I also asked Participant #1 what he interpreted society felt about the concept of “taking a gap
+year.” He concluded that society is indifferent, as long as you are doing something that is both positive
+and constructive for your life. Most people were very supportive towards him, and his family was able to
+help fund his stay at Munich for both internships. However, he conceded that he would have most likely
+faced much more backlash if he did not have a concrete plan for his gap year. When asking what advice
+he would give someone considering taking a gap year, he answered that “it depends on the
+circumstance. If you have certain aspirations for companies, it might be better to study. You should have
+a fixed starting point and endpoint in order to keep yourself on track. Find the puzzle pieces to build the
+gap year, and have an end goal and date when you plan to finish it. Always plan 2 steps ahead to insure
+that you are never left in a situation where you don’t know what to do.” Upon asking him whether or
+not he felt that there would be more individuals taking gap years in the future, he answered, “it will
+arise, because all jobs nowadays want practical experience. You can hardly get practical experience
+through academics, so industry internships through gap years are necessary to meet those
+prerequisites.” Finally, I asked him if he had any regrets associated with his gap year. He stated that “he
+did not have any regrets, and would in fact encourage others to give a gap year a chance.”
+Participant #2
+Participant #2 ultimately decided to take a gap year because of financial reasons, since the tuition
+fees for a Master’s degree was very expensive, and she wanted to ensure that the money going into it
+would be used correctly. Additionally, she was feeling burned out from the bachelor’s program, and was
+uncertain as to what her true calling was. She needed more time to reflect and felt that travel would
+help her in this regard. She described that, for her, a gap year was basically “taking a break from
+something you have been doing for a long time, in order to explore yourself and your needs and
+interests.” During her gap year she worked in many unrelated jobs which allowed her to travel around
+and take on new experiences. She worked for the European Voluntary Service in 2017, where she spent
+7 months with an NGO in Lisbon, Portugal, working in a social project involving early education. She also
+ Silva 37
+spent some time working a part-time job in an ALDO shoe store, working in Maritime safety in Lisbon,
+and finally decided to work for another separate public agency in Malta afterwards. When asked if the
+gap years helped her reassess her career goals and objectives, she stated that it definitely had because
+she was confused after her bachelor’s degree, and in hindsight wishes she took a gap year before her
+Bachelors program in order to better understand her true calling. She strongly believes that if she
+“travelled around before, it would have allowed her to connect with more people, which in turn would
+have helped her make more rational decisions about her life.” She was only able to pinpoint what she
+wanted to do after taking the gap year. She now envisions herself working in the area of corporate
+sustainability, combining environment with business.
+When asked whether she views her gap years as a positive experience, she stated that “it was
+definitely a positive experience.” She had the chance to meet many different people, made many
+connections, and now has multiple good references for future job opportunities. In terms of selfdevelopment/growth it had also helped a lot, since it now allows her to prioritize and value more of
+what she has in life. She feels that students and teachers focus too much in academia and theory, and
+that a practical component is necessary in order to fully understand what is right for you. When asked
+whether or not she regretted not doing/accomplishing something during her gap year, she stated that
+she felt that what she did was very rewarding and important for her personal growth, but she did regret
+not spending 6 months volunteering in South America, since she has passion for travelling and would
+have loved to be more involved in different communities. However, she did recognize that more money
+would be needed to accomplish this goal.
+When asked whether or not she felt that her gap year negatively impacted her career prospects in
+any way, she stated that she did not feel that it would have a negative impact. She didn’t know what she
+wanted to do, and lives with the mentality that “everything happens for a reason.” However, she does
+recognize that she might not be able to take part in business-oriented internships since they are
+primarily offered to individuals under the age of 25. She also feels that “employers in the business world
+may be a bit stricter in terms of what they want in a resume, but at the same time, having components
+that help differentiate you from others is always a good thing. Nowadays companies value different
+components of an applicant.” When asked how she felt most people viewed the concept of “taking a
+gap year”, she stated that “some see it as a self-development thing and admire it, while others find it
+lazy and ineffective.” Overall, she felt that opinions were pretty split on the topic. She also remained
+having positive feelings towards “gap years” after employment. She stated that in the beginning she was
+“very excited about the prospect of having a chance to start over and be more independent, by going
+outside of her comfort zone.”
+When asked whether or not people were supportive towards her decision to take gap years, she
+stated that her parents were a bit hesitant because she had been diagnosed with a health condition, and
+her Mom specifically did not see it as a stable path for her future. Her parents saw it as a waste of time.
+However, her friends were a lot more supportive, and helped her look at the long-term benefits of
+taking a gap year. She found it to be a liberating experience to go abroad, since she had no obligations
+to anyone, but herself. She stated that “it makes you mentally free, since a healthy mind brings with it a
+healthy life.” Now studying at NOVA, she still misses a bit of the liberty she had when taking her gap
+year. After asking what advice she would give to individuals considering taking a gap year, she advised
+them to “do it. They would consider it because they feel like they need to take a break. Ultimately trust
+your gut instinct and put yourself first.” When asked whether or not she felt that in the future there
+ Silva 38
+would be more individuals looking to take gap years, she stated that “curiosity is driving young people,
+and society is so fast paced now. Unless you can work in that environment, a lot of people need time to
+focus on themselves. Fortunately, more people have a means to travel and experience new things in this
+day and age.” Nicollette also mentioned that studying abroad in Portugal helped her find a culture that
+better suits her needs, and is looking forward to potentially working and living in Southern Europe in the
+future. Finally, when asked whether or not there was anything she would tell her past self before taking
+a gap year, she said that she would tell herself to “not worry too much and go with the flow. It’s easy to
+get anxious about a lot of things in life, but the anxiety about the future only holds you back.”
+Participant #3
+Participant #3 is another student from NOVA University, who is from the United States. When
+asked what ultimately led her to the decision to take a gap year, Participant #3 stated that she needed a
+year off from studies to try and discover herself and decide what exactly she wanted to pursue in the
+long-term. She previously had the opportunity to study abroad in Spain for a semester, and enjoyed the
+prospect of traveling outside the United States to pursue graduate studies. In the beginning of her gap
+year, in order to get away from everything, she decided to go to the Netherlands to visit family. After
+returning and feeling recharged, she took a remote job for 6-7 months, this gave her the flexibility to
+better manage her free time, in a way that would be most beneficial for her. She later took on other part
+time jobs to save up more money, and spent time reconnecting with friends and family. When asked
+what a “gap year” meant to her, she stated that it is “the time you take during the year to better
+understand yourself and make future decisions.”
+When asked whether or not the gap year helped her reassess her career goals and objectives,
+she claimed that it did, and that “she wouldn’t be in the same positive place now without taking the
+break.” It also allowed her to further build her resume by taking on a variety of jobs including working
+retail jobs, becoming a swimming pool manager, and finally working for a cyber security company in the
+area of market research. When asked if she viewed her time during the gap year as a productive and
+positive experience, she answered “It definitely did. Although it wasn’t easy, it helped me question
+myself about my purpose and what I should be doing in life. It is especially hard when you start
+comparing yourself to your friends that seemingly have their lives in order.” But, overall she did not
+have any regrets, because she was able to accomplish many things during her gap year. When asked
+whether or not the gap year would have a negative impact on her career prospects, she answered
+“partially yes and no.” Since she was still being productive by working jobs it is something you can add to
+your resume, although not all of the work she did may directly translate to a future job. She feels that
+some companies may question why she wasn’t advancing her career, but at the end of the day she
+needed to better understand herself before making a huge financial decision by choosing to continue
+her studies toward a graduate degree. Overall, she feels that if you advocate for why you took off the
+gap year, you can ultimately turn it into something positive, when questioned by a future employer.
+However, if you didn’t do anything, it would probably be very difficult to justify the wasted time to your
+employer.
+ Silva 39
+When later asked what she felt most people think about the term “gap years”, she stated that
+“it varies from continent to continent, and country to country. For example, in the United States it is
+very rare for people to take gap years, while in Europe it is a lot more common because people better
+welcome the idea.” When asked if her opinion of gap years changed after her employment, she stated
+that it had changed in the sense that there was a huge focus by people to start saving towards your
+401K retirement fund and to be ultimately financially sound. She initially did not go into the gap year
+with that mentality. When asked if she had faced any backlash for deciding to take a gap year, she
+stated that it was quite the opposite. In fact, her immediate friends were quite supportive and her
+parents also advised her to do it, saying that they themselves had made a mistake by jumping into
+careers too early in life. Overall, she would advise others to also take a gap year, as long as they know
+what they are doing. She advises other individuals to not rush into the process and consider what
+options would best suit their needs before entering into a gap year. But, at the end of the day it depends
+on the individual interests and desires. She also stated that her one regret during her gap year was
+“caring about what others thought.” Her concern about other people’s opinions held her back a little,
+and she would advise her past self to not fall into the same trap. When asked if she felt that more
+people would decide to take gap years, she stated that she thinks that “Covid-19 will allow individuals to
+think more about living in the moment, which might help change people’s attitudes about gap years in
+general. They can use some of the free time now for personal rediscovery.”
+Participant #4
+Participant #4 had two separate gap year experiences. At the age of 16, she decided to go
+abroad and study in Ireland, where she lived with a host family. She went to a very conservative all-girls
+school/monastery, but she felt it was fairly easy to adapt due to similarities in culture. After high school,
+at the age of 19, she decided to go to Indonesia through a German organization, equivalent to the Peace
+Corps. There, she worked in an after-school program for kids and young adults. She was there to
+manage the school program during her 1-year stay. Culturally speaking, Indonesia fulfilled the new
+experiences she wanted; getting immersed into the culture. She partook in weddings and other
+activities, but found it difficult to establish strong friendships due to her more introverted nature. When
+defining what a gap year meant to her, she stated that “a gap year has to do with gaining new
+experiences and broadening horizons. Volunteering and going into different experiences.” She felt that
+overall the gap year in Indonesia did more to broaden her horizons due to how culturally different the
+country was. By managing a school program there, she realized that she would later go into
+International Communications Management for her Bachelors. She later continued her studies at NOVA
+by focusing on International Management. Indonesia also showcased issues related to sustainability,
+which later spurred an interest in her to continue studying the topic in college. Her gap year made her
+“more grateful for what we have in Europe. During my stay, donations would be collected once a month
+to help the poor, and kids would have to walk 2 hours to get to school every day without shoes because
+they couldn’t afford it.” Aside from helping with her career objectives, her gap year made her value the
+many things that most people take for granted every day, while living in a first world country.
+ Silva 40
+Overall, she found her experiences to be positive and helped shape her goals and objectives for
+the future. She does not have any regrets about her experiences, and lives by the motto that
+“everything happens for a reason.” She also feels that her experiences through gap years helped her get
+into NOVA, and will probably help her when seeking a job in the future. When it comes to taking a gap
+year, she feels that as long as you are doing something productive with your time, employers will
+generally look at it in a favorable light. When asked whether she feels that gap years are seen in a
+favorable light, she said that it depends by country. But, being from Germany, she found that many of
+the people she knows have also taken gap years to help further themselves personally. Her opinions on
+gap years has always remained very positive, but her family did worry about her stay in Indonesia, and
+all the vaccinations she had to get before going there. When asked what advice she would give others
+considering taking a gap year, she advised them to “ask themselves why they want to do a gap year and
+have everything planned out at least a semester in advance.” When it comes to the future of gap years,
+she feels that it will be very dependent on the current virus (COVID-19) and the economy, because there
+is a large cost associated with taking gap years, and not everyone is able to afford it. Finally, when asked
+what advice she would give her past self, she stated that it is “best to tell yourself to not worry. Reassure
+yourself that you are doing the right thing and take it day by day.”
+Participant #5
+Participant #5 decided to take 2 separate gap years. The first one happened after high school
+because she didn’t know what exactly she wanted to study. After completing her bachelors’ program,
+she took another gap year to complete two 6-month internships. She defines a gap year as “an
+experience of personal growth, focusing on finding more about yourself.” She spent her first gap year
+travelling around Australia working at an oyster farm and studying a bit. It offered her the time to reflect
+more about what she wanted in life. The second gap year was primarily focused on internships for
+automotive companies like BMW and Porsche. When asked whether or not it had helped her reassess
+her career goals and objectives, she said that it changed her focus in business from Marketing to
+Management. She found that she didn’t want to work in the industry, but instead more in consultancy.
+The first gap year helped her get out of her comfort zone (more for personal growth), while the second
+one was more career-oriented growth. When asked if she saw her gap years as positive experiences, she
+said “yes, and I wouldn’t change it for anything. The future is uncertain, so it’s simply better to go for it.”
+She does not believe the gap years affected her negatively in any meaningful way, because if not for the
+gap years, she would still be uncertain as to what her true calling was. It allowed for great personal and
+career-oriented growth.
+When asked whether or not she felt that employers would look at “gap years” in a negative
+light, she stated that it depends on the experiences. But, believes that outside experiences show
+creativity and a more interesting side of you to the employer. She believes that society see’s taking a
+gap year as a privilege, but one that can truly help better a person’s situation in life. She has always
+remained very consistent in her beliefs that gap years are generally a positive experience for individuals.
+She also found that most people were very supportive towards her ambitions and were genuinely
+curious about her new experiences. When asked what advice she would give individuals considering
+taking a gap year, she advised them to “think what they want to get out of the year. Have a goal before
+ Silva 41
+doing the gap year and plan for the future. Being stuck in one position is stressful, so set a time frame
+for yourself and make sure you have an endpoint.” When asked whether or not there would be more
+individuals taking gap years in the future, she believes that “pre-COVID19, yes, especially since the
+majority of her friends have taken gap years and had positive experiences.” Finally, she would advise her
+past self to be more confident and have things a little bit better planned out before taking a gap year.
+“But, in the end, the risk will be worth it.”
+Participant #6
+Participant #6 is a German student at NOVA who took 2 different gap years, 1 after high school,
+and the second after his bachelor’s studies. He felt a lack of orientation after high school and used his
+first gap year as a period for rediscovery and enlightenment. In school he did not know what he wanted
+to study and had a lot of theoretical knowledge, but didn’t know where the practical knowledge would
+take him. This is why his gap years were split up in 2 phases, for completely different reasons. In the first
+six months of his initial gap year he decided to travel and visit Australia, while occasionally taking up
+small jobs at local farms whenever he felt he was beginning to run low on financial resources. This
+allowed him to reflect on what he should be doing in his life, and brought him a new level of focus on
+personal development. It helped him step out of his comfort zone by taking a big risk, and overall made
+him a much more confident person. During his second gap year, in the first 6-month period, he decided
+to travel to Vietnam, where he had previously studied abroad, and interned with a German company. He
+later continued his internship experiences at Accenture in Germany where he pursued his interest in
+consultancy. This was especially important for him to gain practical experience in order to complement
+the theory he had already obtained in school. Additionally, it allowed him to focus more on his personal
+career progression and find a specific career that might work for him.
+When asked what a “gap year” means to him, he stated that it was “a deviation from your
+current norm/studies in pursuit of something different.” At the same time, he discussed that a “gap
+year” typically has a negative connotation because it makes it seem as though there would be a “gap in
+your resume, and implies that you didn’t really do anything.” He also stated that there would be many
+opportunity costs associated with taking gap years, both financially and career-wise. But, he ultimately
+felt that self-reflection was very important to fully understand what he wanted to do, and thus he does
+not feel like he missed out on anything because he had certain goals and objectives in mind. He also
+believes that “companies are not looking for people who perfectly go through Bachelors and Masters”,
+because they lack independence and free thought. In terms of how society views “gap years” he stated
+that it depends on the generation, because the older generation did not have the same opportunity and
+did not travel abroad due to a lack of travel visas. Additionally, being brought up with different values,
+will prevent them from understanding the new generation’s perspective. Overall, he feels that younger
+people definitely value it, and he sees it as being efficient for your career. He stated that you are “taking
+one step back and two steps forward.” Overall, family and friends were very supportive towards him.
+The majority of his friends had also completed gap years. His boss and colleagues were also very
+understanding of his situation. He claims that it is very common in Germany (may be a societal thing).
+He advises others to have the courage to take the gap year, and use it to find “your position in the
+world.” It is important to “find something that takes you out of your comfort zone”, and advises people
+to do something different from what people are telling them to do. He finds that taking on challenges
+ Silva 42
+helps you grow as a person, and companies need more creative individuals. Finally, when asked what he
+would tell his past self about “gap years”, he said he would tell himself to “really research companies
+and speak to the boss in order to find something that will truly help you.”
+HR Department Manager Perceptions on Gap Years
+Participant #7
+(HR Manager for the benefits department of Global/Logistics Company)
+Participant #7 works in the Human Resource Department for a global/logistics company,
+specifically in the benefits department area. She is also co-owner of a catering business that her
+husband started, and is primarily responsible for the hiring of the workers in his business. When it
+comes to seeing a gap year on a person’s resume, she typically views it as a red flag that needs to be
+further addressed. She needs to understand more why the person decided to take the gap year.
+According to her it “isn’t the gap year per say, it’s more about what you were doing during the time.”
+Her children and some of her closer friends have taken gap years previously, so she is far more
+sympathetic to the cause because she understands that there might be many reasons for the gap year
+that are not present within the individuals resume. It ultimately might be a topic of discussion at the
+interview in order to discuss the gap in the resume. When it comes to actually placing your separate
+experiences on a resume, she feels the recruiter can either see it in a positive or negative light
+depending on their viewpoint and separate experiences. Due to her familiarity with gap years and her
+love for other cultures and different experiences, she would ultimately see those “separate experiences”
+as something very valuable because it showcases the individual’s overall character and personality. It is
+also something that the interviewer and interviewee can bond over during the interview. She described
+her daughter’s experience studying abroad in Porto, Portugal during a gap year, and how much it
+ultimately helped her become a more independent and capable person. It had done wonders for her,
+and made her succeed in many other areas of her life. She feels that a lot of her success at the
+University of Georgia is connected to the growth she experienced while studying abroad in Portugal.
+Additionally, her son is married to a woman from Taiwan and her neighbors are Japanese. Being
+surrounded by different cultures and ways of thinking has opened her perspective, which has also
+translated to her views on gap years in general. Everyone has different experiences in life, so it is
+important to treat each person as an individual and really get to know them during the interview
+process before judging their character. When it comes to whether or not a gap year will be seen in a
+favorable light, she feels that it is very subjective on the part of the recruiter and their individual
+experiences. A younger recruiter with similar experiences will undoubtedly see it differently than an
+older individual from a generation where gap year opportunities were near non-existent. On this topic,
+she explained an experience she had with an older previous boss of hers, where he was proud to have
+not left the United States. He generally had no interest in leaving the country, and did not understand
+why others would even consider taking a gap year to work or study abroad. When it comes to the topic
+of newer generations changing jobs more frequently, she found that in the past company’s would be
+able to hold on to their employees for a longer period of time, because of the pensions they would
+provide which would require that the employee stay there for an extended period of time. This is not
+the case anymore, which allows individuals to try out different experiences and work without the fear of
+missing out on certain long-term benefits. When it comes to whether or not she feels a gap year would
+better help an individual understand their career goals and objectives, Participant #7 feels that it is
+ Silva 43
+immensely important because once you are already in a career it is very difficult to have those
+experiences. Additionally, just like in the case of her daughter, it can help you really grow as a person
+and better understand how to deal with other cultures and people. Finally, she would advise to do a gap
+year because it is important for personal growth. “It is important to open yourself to new cultures and
+ideas. It is important to be your authentic self and interview the employer while you’re being
+interviewed in order to see if the job is a good fit for you.”
+Participant #8
+(HR manager for Recruiting Agency)
+Participant #8 works as an HR Manager for an executive recruiting agency. It is an executive
+search firm that is responsible for assisting companies (from small to fortune 500 sized) in order to find
+and retain top executives for leadership positions. When it comes to the recruitment process for the
+company, according to Participant #8 the client tells the company that they need a CEO and they are
+responsible for trying to find the right candidate to fit the position. When it comes to having a gap year
+on an individual’s resume, she thinks it is fine to have a year that deviates from the core principles of the
+job, as long as you are making career progression. It is important that you do your best to connect your
+experiences as something constructive that can help the company. When it comes to including specific
+outside experiences on a resume, as a recruiter for executive positions, she recommends that all workrelated experiences be provided in order to complete an extensive background check on the individual.
+She feels that overall, a lengthier resume with your accomplishments and experience is always more
+beneficial than omitting information. She feels that it is important that the candidate asks a lot of
+questions about what the job/position entails to make sure that it is a good fit for them. When it comes
+to including “separate experiences” on a resume, as a recruiter for more executive positions, she does
+not feel that it is very important. However, when a college student is starting out, they do not have a lot
+of work experience, and those separate experiences can help them stand out from other applicants.
+When it comes to taking a gap year for personal growth, she feels that it really depends on what they
+are doing for themselves. If it connects to your career progression it can be helpful. She feels it might be
+better to simply work a position during that year whether an internship or job in order to gain valuable
+practical experience and learn more about what you want out of your career. There are certain
+companies, such as GE, that offer multiple positions and allow you to grow by moving around different
+departments. She highlights that doing this would be a strong and probably better alternative to taking a
+gap year that is not job related (especially post-graduation). When it comes to advice she would give to
+a person considering taking a “gap year”, she ultimately would advise against the decision if you are not
+planning on making personal and career related growth. She feels it is better to have more direct job
+experience so you don’t fall behind other candidates. As she stated, “It is better to not fall into a
+disadvantaged state before applying for a position.” It is important for the candidate to think about their
+career prospects and not waste valuable time.
+Participant #9
+(HR Manager for Software Engineering Company)
+ Silva 44
+Participant #9 is a human resource director for a Software Engineering Company for the past 20
+years. It’s an IT company that does various different services for computer programs and applications.
+She works in the areas of recruitment, benefits programs, and terminations. When looking at a resume,
+she has to look at the criteria for the specific position, and to see what qualifications are necessary to
+meet the criteria. She also generally posts on Indeed.com for recruitment purposes. She looks for people
+with the right qualifications and characteristics that meet the intended job criteria. When it comes to a
+gap year, she finds that it is best to not “assume why the individual took the gap year.” It is something
+that would catch her attention, and she would usually dig a bit deeper to see the reasoning behind the
+gap year in the resume. She has had many experiences interviewing individuals who were stay-at-home
+parents, who have not been in the workforce for more than 10 years. She finds that it is important to
+keep an open-mind because everyone’s experiences and circumstances in life are different. She also
+waits to see if the applicant decides to mention the gap year in the interview. She finds it important that
+the individual is able to explain the reason for the gap, to show that they were doing something
+productive/meaningful in their life. According to her, she would “rather see an individual utilizing a
+meaningful gap year, than just jumping around through random jobs for a short period of time.” If the
+individual is switching between jobs often, she will begin to question if the person experienced
+problems at other jobs, and quits often or was fired from them. Over time, there hasn’t been too much
+of a difference in the amount of gap years she has seen on people’s resumes. However, she does state it
+might be more of a cultural phenomenon because Americans typically have a more “work mentality”,
+and are always looking to show that they are being productive. She also states that there are
+generational differences in the overall viewpoint, and that the younger generation is overall more
+accepting of the idea of taking a gap year. This can also have an influence on how a recruiter views your
+resume. If the recruiter is older, he/she might only see the “gap year” as a waste of time; while a
+younger recruiter may be more understanding of the situation. At the end of the day, recruitment is a
+bit subjective, and the personal experiences and viewpoints of the recruiter will influence who they
+decide to hire. When it comes to whether or not an individual should put their separate gap year
+experiences on the resume, Participant #9 felt that it would be best to have your resume tailored for the
+job that you are applying for. However, she still feels that it is important to keep a separate document
+with information on separate things you were doing, in order to show that you are a well-rounded
+candidate and can explain for the gaps in your resume. When it comes to whether or not a gap year
+could be beneficial to showcase a more well-rounded candidate, Participant #9 feels that it really
+depends on what the person is doing. But, more times than not it will probably not have much of an
+impact on the hiring process. On the topic of whether or not a gap year can help a person sort out their
+career goals and objectives, she feels it is really up to the person on how it will ultimately shape them. It
+might be important in order to change into an industry that is more purposeful for them. It can
+ultimately be beneficial if they are doing something constructive for their life. Finally, when it comes to
+the decision of taking a gap year, she feels that it depends on the way that you plan out your gap year.
+You should create a time frame in order to better stay on track of your goals and objectives. Taking off
+an indefinite amount of time could become problematic because you begin losing that cohesive
+planning structure, and will ultimately use some of the time wastefully. She also finds that employers
+want to see that an individual is committed to the company and their work. Wasting a considerable
+amount of time taking several gap years could ultimately raise a red flag for employers that you lack a
+serious work ethic.
+ Silva 45
+ 
