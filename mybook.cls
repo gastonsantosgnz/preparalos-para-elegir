@@ -269,20 +269,20 @@
 \titleformat{\section}[frame]
 {\color{lightgray}\large\normalfont\mdseries\scshape\centering}{}
 {0ex}{\color{gray!50!black}\Large\bfseries\filcenter#1}[]
-% Subsection (sin numeración visible, formato simplificado)
+% Subsection (sin numeración visible, formato simplificado - similar a section pero sin frame)
 \titleformat{\subsection}[block]
-{\normalfont\large\mdseries\scshape\raggedright}
+{\normalfont\normalsize\mdseries\scshape\raggedright}
 {}
 {0pt}
-{\colorbox{silver}{\parbox{\dimexpr\textwidth-2\fboxsep\relax}{\color{lightgray}\rule{2pt}{1em}\hspace{1em}\color{black}#1}}}
+{\color{gray!50!black}\large\bfseries#1}
 % Subsubsection (sin numeración, alineado a la izquierda)
 \titleformat{\subsubsection}[hang]{\normalfont\bfseries}{}{0em}{#1}[]
 
 % Ajustes de numeración y tabla de contenidos
 % - Sin numeración visible en secciones (secnumdepth = 0)
-% - Mantener estructura en el índice hasta subsubsection
+% - Mostrar solo hasta secciones en el índice (tocdepth = 1)
 \setcounter{secnumdepth}{0}
-\setcounter{tocdepth}{3}
+\setcounter{tocdepth}{1}
 \makeatletter
 % Redefinir formato de secciones en TOC sin espacio para numeración
 \renewcommand\l@section{\@dottedtocline{1}{1.5em}{0em}}

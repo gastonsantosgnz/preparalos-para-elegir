@@ -58,7 +58,7 @@
 - Timothy Keller: "Every Good Endeavor" (teología del trabajo)
 - Buscar: "work as calling vs work as identity" + theology
 - Buscar: "career idolatry" + Christian perspective
-
+ 
 **Qué necesitas extraer:**
 - Concepto bíblico de "vocación" (llamado vs mérito)
 - Diferencia psicológica entre "workaholic" y "trabajador diligente"

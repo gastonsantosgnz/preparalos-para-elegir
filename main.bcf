@@ -2377,6 +2377,12 @@
     <bcf:citekey order="2" intorder="2" nocite="1">cloud2006</bcf:citekey>
     <bcf:citekey order="3" intorder="3" nocite="1">rath2007</bcf:citekey>
     <bcf:citekey order="4" intorder="4" nocite="1">rath2022</bcf:citekey>
+    <bcf:citekey order="5" intorder="5" nocite="1">garcia2017</bcf:citekey>
+    <bcf:citekey order="6" intorder="6" nocite="1">thaler2008</bcf:citekey>
+    <bcf:citekey order="7" intorder="7" nocite="1">birch2007</bcf:citekey>
+    <bcf:citekey order="8" intorder="8" nocite="1">silva2021</bcf:citekey>
+    <bcf:citekey order="9" intorder="9" nocite="1">rabie2016</bcf:citekey>
+    <bcf:citekey order="10" intorder="10" nocite="1">hammitt2024</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="ynt">

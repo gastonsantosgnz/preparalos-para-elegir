@@ -55,6 +55,42 @@
       \true{nocite}
       \keyw{Carácter,Liderazgo,Éxito profesional,Integridad}
     \endentry
+    \entry{birch2007}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=8ff3c1c8d0226db180b3d3bfc7e814c1}{%
+           family={Birch},
+           familyi={B\bibinitperiod},
+           given={E.\bibnamedelimi R.},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=3c0e7c11b7e0949ef690294326ba8e8e}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={P.\bibnamedelimi W.},
+           giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{1efd5a33542fb4f8f13470bf5acd9895}
+      \strng{fullhash}{1efd5a33542fb4f8f13470bf5acd9895}
+      \strng{fullhashraw}{1efd5a33542fb4f8f13470bf5acd9895}
+      \strng{bibnamehash}{1efd5a33542fb4f8f13470bf5acd9895}
+      \strng{authorbibnamehash}{1efd5a33542fb4f8f13470bf5acd9895}
+      \strng{authornamehash}{1efd5a33542fb4f8f13470bf5acd9895}
+      \strng{authorfullhash}{1efd5a33542fb4f8f13470bf5acd9895}
+      \strng{authorfullhashraw}{1efd5a33542fb4f8f13470bf5acd9895}
+      \field{labelalpha}{BM07}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Australian Economic Papers}
+      \field{number}{1}
+      \field{title}{The influence of type of high school attended on university performance}
+      \field{volume}{46}
+      \field{year}{2007}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 17}
+      \range{pages}{17}
+      \keyw{Educación,Rendimiento universitario,Gap year}
+    \endentry
     \entry{rath2007}{book}{}{}
       \name{author}{1}{}{%
         {{hash=d02ffc93995f843c237c9f16c365a29d}{%
@@ -129,6 +165,147 @@
       \true{nocite}
       \keyw{Orientación vocacional,Educación,Adolescentes}
     \endentry
+    \entry{thaler2008}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=b968bbcc6d4f6baf47e9fbac4012621e}{%
+           family={Thaler},
+           familyi={T\bibinitperiod},
+           given={Richard\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=7db9319b9972b60d9670001d1e4afa7d}{%
+           family={Sunstein},
+           familyi={S\bibinitperiod},
+           given={Cass\bibnamedelima R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {Español}%
+      }
+      \list{publisher}{1}{%
+        {Taurus}%
+      }
+      \strng{namehash}{b2d8c57270467b2f3b7883d9403984be}
+      \strng{fullhash}{b2d8c57270467b2f3b7883d9403984be}
+      \strng{fullhashraw}{b2d8c57270467b2f3b7883d9403984be}
+      \strng{bibnamehash}{b2d8c57270467b2f3b7883d9403984be}
+      \strng{authorbibnamehash}{b2d8c57270467b2f3b7883d9403984be}
+      \strng{authornamehash}{b2d8c57270467b2f3b7883d9403984be}
+      \strng{authorfullhash}{b2d8c57270467b2f3b7883d9403984be}
+      \strng{authorfullhashraw}{b2d8c57270467b2f3b7883d9403984be}
+      \field{labelalpha}{TS08}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nudge: Un pequeño empujón}
+      \field{year}{2008}
+      \true{nocite}
+      \keyw{Economía conductual,Toma de decisiones,Arquitectura de elecciones}
+    \endentry
+    \entry{rabie2016}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=34b730bb4e3aff6ceeb319a80107c706}{%
+           family={Rabie},
+           familyi={R\bibinitperiod},
+           given={Soraya},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c6216d9acd32e6d3b359ffabc7d1650e}{%
+           family={Naidoo},
+           familyi={N\bibinitperiod},
+           given={Anthony\bibnamedelima V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea73f9919078121ead9259318997c360}
+      \strng{fullhash}{ea73f9919078121ead9259318997c360}
+      \strng{fullhashraw}{ea73f9919078121ead9259318997c360}
+      \strng{bibnamehash}{ea73f9919078121ead9259318997c360}
+      \strng{authorbibnamehash}{ea73f9919078121ead9259318997c360}
+      \strng{authornamehash}{ea73f9919078121ead9259318997c360}
+      \strng{authorfullhash}{ea73f9919078121ead9259318997c360}
+      \strng{authorfullhashraw}{ea73f9919078121ead9259318997c360}
+      \field{labelalpha}{RN16}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{South African Journal of Higher Education}
+      \field{number}{3}
+      \field{title}{The value of the gap year in the facilitation of career adaptability}
+      \field{volume}{30}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{163\bibrangedash 177}
+      \range{pages}{15}
+      \keyw{Gap year,Adaptabilidad profesional,Educación superior}
+    \endentry
+    \entry{garcia2017}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=2cb337a792836beb9695fe0e6bd7f0cc}{%
+           family={García},
+           familyi={G\bibinitperiod},
+           given={Héctor},
+           giveni={H\bibinitperiod}}}%
+        {{hash=389bd6bdb2803d20ae1ebb018a2161b4}{%
+           family={Miralles},
+           familyi={M\bibinitperiod},
+           given={Francesc},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {Inglés}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Books}%
+      }
+      \strng{namehash}{32edaed3d5644a9564c6c79ef15efadb}
+      \strng{fullhash}{32edaed3d5644a9564c6c79ef15efadb}
+      \strng{fullhashraw}{32edaed3d5644a9564c6c79ef15efadb}
+      \strng{bibnamehash}{32edaed3d5644a9564c6c79ef15efadb}
+      \strng{authorbibnamehash}{32edaed3d5644a9564c6c79ef15efadb}
+      \strng{authornamehash}{32edaed3d5644a9564c6c79ef15efadb}
+      \strng{authorfullhash}{32edaed3d5644a9564c6c79ef15efadb}
+      \strng{authorfullhashraw}{32edaed3d5644a9564c6c79ef15efadb}
+      \field{labelalpha}{GM17}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ikigai: The Japanese Secret to a Long and Happy Life}
+      \field{year}{2017}
+      \true{nocite}
+      \keyw{Ikigai,Propósito,Vocación,Filosofía japonesa}
+    \endentry
+    \entry{silva2021}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{hash=56e6cd7d4fe0deb065ecb467b18a1439}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Diana},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Nova School of Business}%
+        {Economics}%
+      }
+      \strng{namehash}{56e6cd7d4fe0deb065ecb467b18a1439}
+      \strng{fullhash}{56e6cd7d4fe0deb065ecb467b18a1439}
+      \strng{fullhashraw}{56e6cd7d4fe0deb065ecb467b18a1439}
+      \strng{bibnamehash}{56e6cd7d4fe0deb065ecb467b18a1439}
+      \strng{authorbibnamehash}{56e6cd7d4fe0deb065ecb467b18a1439}
+      \strng{authornamehash}{56e6cd7d4fe0deb065ecb467b18a1439}
+      \strng{authorfullhash}{56e6cd7d4fe0deb065ecb467b18a1439}
+      \strng{authorfullhashraw}{56e6cd7d4fe0deb065ecb467b18a1439}
+      \field{labelalpha}{Sil21}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Impact of Gap Years on Personal \& Career Related Growth}
+      \field{type}{Master's thesis}
+      \field{year}{2021}
+      \true{nocite}
+      \keyw{Gap year,Desarrollo personal,Crecimiento profesional}
+    \endentry
     \entry{rath2022}{book}{}{}
       \name{author}{1}{}{%
         {{hash=d02ffc93995f843c237c9f16c365a29d}{%
@@ -165,6 +342,36 @@
       \field{year}{2022}
       \true{nocite}
       \keyw{Fortalezas,Talentos,CliftonStrengths,Gallup,Desarrollo personal}
+    \endentry
+    \entry{hammitt2024}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{hash=efdbf5cb502895cf07f9588386139854}{%
+           family={Hammitt},
+           familyi={H\bibinitperiod},
+           given={Haley\bibnamedelima M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Bradley University}%
+      }
+      \strng{namehash}{efdbf5cb502895cf07f9588386139854}
+      \strng{fullhash}{efdbf5cb502895cf07f9588386139854}
+      \strng{fullhashraw}{efdbf5cb502895cf07f9588386139854}
+      \strng{bibnamehash}{efdbf5cb502895cf07f9588386139854}
+      \strng{authorbibnamehash}{efdbf5cb502895cf07f9588386139854}
+      \strng{authornamehash}{efdbf5cb502895cf07f9588386139854}
+      \strng{authorfullhash}{efdbf5cb502895cf07f9588386139854}
+      \strng{authorfullhashraw}{efdbf5cb502895cf07f9588386139854}
+      \field{labelalpha}{Ham24}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Democratizing the Gap Year Option at the Community College Level}
+      \field{type}{Dissertation}
+      \field{year}{2024}
+      \true{nocite}
+      \keyw{Gap year,Community college,Acceso educativo}
     \endentry
   \enddatalist
 \endrefsection
